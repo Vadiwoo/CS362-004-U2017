@@ -5,8 +5,8 @@
 
 char inputChar()
 {
-	int range = 126 - 32; //number of characters from 
-	char ch = (rand() % range) + 32; //ascii characters 
+	int range = 126 - 32; //range of ascii characters to change state 
+	char ch = (rand() % range) + 32; //random ascii characters 
 	return ch;
 }
 
