@@ -5,8 +5,8 @@
 
 char inputChar()
 {
-	int range = 126 - 32; //number of characters from 
-	char ch = (rand() % range) + 32; //ascii characters 
+	int range = 126 - 32; //range of ascii characters to change state 
+	char ch = (rand() % range) + 32; //random ascii characters 
 	return ch;
 }
 
@@ -16,12 +16,12 @@ char *inputString()
 	int range = 26; // number of characters from a-z
 	char ch;
 	int i;
-	static char stringArray [5]="reset"; //
+	//static char stringArray [5]="reset"; // used for second testing
 	for (i = 0; i < 5; i++) 
 	{
-		//ch = ((rand() % range) + 97); //ascii code for a-z characters (for initial testing)
-		ch = rand() % + 5;
-		array[i] = stringArray[ch];
+		ch = ((rand() % range) + 97); //ascii code for a-z characters (for initial testing)
+		//ch = rand() % + 5; / used for second testing
+		array[i] = ch; 
 	}
 	array[5] = '\0';
 	return array;
