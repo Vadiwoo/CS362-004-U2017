@@ -84,7 +84,35 @@ unittestresults.out: unit1 unit2 unit3 unit4 card1 card2 card3 card4
 	gcov dominion.c -b >> unittestresults.out
 	cat dominion.c.gcov >> unittestresults.out
 
+randomtestadventurer: dominion.o randomtestadventurer.c
+	gcc -fprofile-arcs -ftest-coverage -Wall -std=c99 dominion.c randomtestadventurer.c rngs.c -o randomtestadventurer -lm -g
 
+randomtestcard1:dominion.o randomtestcard1.c
+	gcc -fprofile-arcs -ftest-coverage -Wall -std=c99 dominion.c randomtestcard1.c rngs.c -o randomtestcard1 -lm -g
+
+randomtestcard2:dominion.o randomtestcard2.c
+	gcc -fprofile-arcs -ftest-coverage -Wall -std=c99 dominion.c randomtestcard2.c rngs.c -o randomtestcard2 -lm -g
+
+randomtestadventurer.out: randomtestadventurer dominion.c
+	echo "Testing randomtestadventurer.c...." &> randomtestadventurer.out
+	echo "Results for randomtestadventurer :" >> randomtestadventurer.out
+	./randomtestadventurer >> randomtestadventurer.out
+	gcov  -b -c randomtestadventurer.c >> randomtestadventurer.out
+	cat randomtestadventurer.c.gcov >> randomtestadventurer.out
+
+randomtestcard1.out: randomtestcard1 dominion.c
+	echo "Testing randomtestcard1.c...." &> randomtestcard1.out
+	echo "Results for randomtestcard1 :" >> randomtestcard1.out
+	./randomtestcard1 >> randomtestcard1.out
+	gcov -b -c randomtestcard1.c  >> randomtestcard1.out
+	cat randomtestcard1.c.gcov >> randomtestcard1.out
+
+randomtestcard2.out: randomtestcard2 dominion.c
+	echo "Testing randomtestcard2...c...." &> randomtestcard2.out
+	echo "Results for randomtestcard2 :" >> randomtestcard2.out
+	./randomtestcard2 >> randomtestcard2.out
+	gcov -b -c randomtestcard2.c  >> randomtestcard2.out
+	cat randomtestcard2.c.gcov >> randomtestcard2.out
 	
 interface.o: interface.h interface.c
 	gcc -c interface.c -g  $(CFLAGS)
@@ -102,3 +130,4 @@ all: playdom player testDrawCard testBuyCard badTestDrawCard
 
 clean:
 	rm -f *.o unittestresults.out playdom.exe playdom player player.exe  *.gcov *.gcda *.gcno *.so *.out testDrawCard testDrawCard.exe
+	rm -f randomtestcard1 randomtestcard2 *.out

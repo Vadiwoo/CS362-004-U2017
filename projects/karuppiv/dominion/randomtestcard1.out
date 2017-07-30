@@ -1,0 +1,3147 @@
+Testing randomtestcard1.c....
+Results for randomtestcard1 :
+Smithy Card: Test 1
+TEST FAILED: Hand count error. Expected 271 Actual 272
+TEST FAILED: Deck count error. Expected 212 Actual 211
+Smithy Card: Test 2
+TEST FAILED: Hand count error. Expected 206 Actual 207
+TEST FAILED: Deck count error. Expected 145 Actual 144
+Smithy Card: Test 3
+TEST FAILED: Hand count error. Expected 180 Actual 181
+TEST FAILED: Deck count error. Expected 193 Actual 192
+Smithy Card: Test 4
+TEST FAILED: Hand count error. Expected 134 Actual 135
+TEST FAILED: Deck count error. Expected 197 Actual 196
+Smithy Card: Test 5
+TEST FAILED: Hand count error. Expected 313 Actual 314
+TEST FAILED: Deck count error. Expected 158 Actual 157
+Smithy Card: Test 6
+TEST FAILED: Hand count error. Expected 209 Actual 210
+TEST FAILED: Deck count error. Expected 25 Actual 24
+Smithy Card: Test 7
+TEST FAILED: Hand count error. Expected 78 Actual 79
+TEST FAILED: Deck count error. Expected 153 Actual 152
+Smithy Card: Test 8
+TEST FAILED: Hand count error. Expected 467 Actual 468
+TEST FAILED: Deck count error. Expected 11 Actual 10
+Smithy Card: Test 9
+TEST FAILED: Hand count error. Expected 147 Actual 148
+TEST FAILED: Deck count error. Expected 123 Actual 122
+Smithy Card: Test 10
+TEST FAILED: Hand count error. Expected 323 Actual 324
+TEST FAILED: Deck count error. Expected 170 Actual 169
+Smithy Card: Test 11
+TEST FAILED: Hand count error. Expected 15 Actual 16
+TEST FAILED: Deck count error. Expected 175 Actual 174
+Smithy Card: Test 12
+TEST FAILED: Hand count error. Expected 98 Actual 99
+TEST FAILED: Deck count error. Expected 166 Actual 165
+Smithy Card: Test 13
+TEST FAILED: Hand count error. Expected 203 Actual 204
+TEST FAILED: Deck count error. Expected 278 Actual 277
+Smithy Card: Test 14
+TEST FAILED: Hand count error. Expected 43 Actual 44
+TEST FAILED: Deck count error. Expected 184 Actual 183
+Smithy Card: Test 15
+TEST FAILED: Hand count error. Expected 180 Actual 181
+TEST FAILED: Deck count error. Expected 53 Actual 52
+Smithy Card: Test 16
+TEST FAILED: Hand count error. Expected 111 Actual 112
+TEST FAILED: Deck count error. Expected 108 Actual 107
+Smithy Card: Test 17
+TEST FAILED: Hand count error. Expected 241 Actual 242
+TEST FAILED: Deck count error. Expected 177 Actual 176
+Smithy Card: Test 18
+TEST FAILED: Hand count error. Expected 388 Actual 389
+TEST FAILED: Deck count error. Expected 11 Actual 10
+Smithy Card: Test 19
+TEST FAILED: Hand count error. Expected 317 Actual 318
+TEST FAILED: Deck count error. Expected 103 Actual 102
+Smithy Card: Test 20
+TEST FAILED: Hand count error. Expected 261 Actual 262
+TEST FAILED: Deck count error. Expected 169 Actual 168
+Smithy Card: Test 21
+TEST FAILED: Hand count error. Expected 20 Actual 21
+TEST FAILED: Deck count error. Expected 434 Actual 433
+Smithy Card: Test 22
+TEST FAILED: Hand count error. Expected 468 Actual 469
+TEST FAILED: Deck count error. Expected 31 Actual 30
+Smithy Card: Test 23
+TEST FAILED: Hand count error. Expected 206 Actual 207
+TEST FAILED: Deck count error. Expected 188 Actual 187
+Smithy Card: Test 24
+TEST FAILED: Hand count error. Expected 278 Actual 279
+TEST FAILED: Deck count error. Expected 202 Actual 201
+Smithy Card: Test 25
+TEST FAILED: Hand count error. Expected 332 Actual 333
+TEST FAILED: Deck count error. Expected 2 Actual 1
+Smithy Card: Test 26
+TEST FAILED: Hand count error. Expected 75 Actual 76
+TEST FAILED: Deck count error. Expected 50 Actual 49
+Smithy Card: Test 27
+TEST FAILED: Hand count error. Expected 283 Actual 284
+TEST FAILED: Deck count error. Expected 85 Actual 84
+Smithy Card: Test 28
+TEST FAILED: Hand count error. Expected 456 Actual 457
+TEST FAILED: Deck count error. Expected 41 Actual 40
+Smithy Card: Test 29
+TEST FAILED: Hand count error. Expected 314 Actual 315
+TEST FAILED: Deck count error. Expected 4 Actual 3
+Smithy Card: Test 30
+TEST FAILED: Hand count error. Expected 230 Actual 231
+TEST FAILED: Deck count error. Expected 136 Actual 135
+Smithy Card: Test 31
+TEST FAILED: Hand count error. Expected 452 Actual 453
+TEST FAILED: Deck count error. Expected 46 Actual 45
+Smithy Card: Test 32
+TEST FAILED: Hand count error. Expected 300 Actual 301
+TEST FAILED: Deck count error. Expected 189 Actual 188
+Smithy Card: Test 33
+TEST FAILED: Hand count error. Expected 218 Actual 219
+TEST FAILED: Deck count error. Expected 213 Actual 212
+Smithy Card: Test 34
+TEST FAILED: Hand count error. Expected 131 Actual 132
+TEST FAILED: Deck count error. Expected 173 Actual 172
+Smithy Card: Test 35
+TEST FAILED: Hand count error. Expected 247 Actual 248
+TEST FAILED: Deck count error. Expected 217 Actual 216
+Smithy Card: Test 36
+TEST FAILED: Hand count error. Expected 129 Actual 130
+TEST FAILED: Deck count error. Expected 354 Actual 353
+Smithy Card: Test 37
+TEST FAILED: Hand count error. Expected 98 Actual 99
+TEST FAILED: Deck count error. Expected 166 Actual 165
+Smithy Card: Test 38
+TEST FAILED: Hand count error. Expected 203 Actual 204
+TEST FAILED: Deck count error. Expected 278 Actual 277
+Smithy Card: Test 39
+TEST FAILED: Hand count error. Expected 43 Actual 44
+TEST FAILED: Deck count error. Expected 184 Actual 183
+Smithy Card: Test 40
+TEST FAILED: Hand count error. Expected 180 Actual 181
+TEST FAILED: Deck count error. Expected 53 Actual 52
+Smithy Card: Test 41
+TEST FAILED: Hand count error. Expected 111 Actual 112
+TEST FAILED: Deck count error. Expected 108 Actual 107
+Smithy Card: Test 42
+TEST FAILED: Hand count error. Expected 241 Actual 242
+TEST FAILED: Deck count error. Expected 177 Actual 176
+Smithy Card: Test 43
+TEST FAILED: Hand count error. Expected 388 Actual 389
+TEST FAILED: Deck count error. Expected 11 Actual 10
+Smithy Card: Test 44
+TEST FAILED: Hand count error. Expected 317 Actual 318
+TEST FAILED: Deck count error. Expected 103 Actual 102
+Smithy Card: Test 45
+TEST FAILED: Hand count error. Expected 261 Actual 262
+TEST FAILED: Deck count error. Expected 169 Actual 168
+Smithy Card: Test 46
+TEST FAILED: Hand count error. Expected 20 Actual 21
+TEST FAILED: Deck count error. Expected 434 Actual 433
+Smithy Card: Test 47
+TEST FAILED: Hand count error. Expected 468 Actual 469
+TEST FAILED: Deck count error. Expected 31 Actual 30
+Smithy Card: Test 48
+TEST FAILED: Hand count error. Expected 206 Actual 207
+TEST FAILED: Deck count error. Expected 188 Actual 187
+Smithy Card: Test 49
+TEST FAILED: Hand count error. Expected 278 Actual 279
+TEST FAILED: Deck count error. Expected 202 Actual 201
+Smithy Card: Test 50
+TEST FAILED: Hand count error. Expected 332 Actual 333
+TEST FAILED: Deck count error. Expected 2 Actual 1
+Smithy Card: Test 51
+TEST FAILED: Hand count error. Expected 75 Actual 76
+TEST FAILED: Deck count error. Expected 50 Actual 49
+Smithy Card: Test 52
+TEST FAILED: Hand count error. Expected 283 Actual 284
+TEST FAILED: Deck count error. Expected 85 Actual 84
+Smithy Card: Test 53
+TEST FAILED: Hand count error. Expected 456 Actual 457
+TEST FAILED: Deck count error. Expected 41 Actual 40
+Smithy Card: Test 54
+TEST FAILED: Hand count error. Expected 314 Actual 315
+TEST FAILED: Deck count error. Expected 4 Actual 3
+Smithy Card: Test 55
+TEST FAILED: Hand count error. Expected 230 Actual 231
+TEST FAILED: Deck count error. Expected 136 Actual 135
+Smithy Card: Test 56
+TEST FAILED: Hand count error. Expected 452 Actual 453
+TEST FAILED: Deck count error. Expected 46 Actual 45
+Smithy Card: Test 57
+TEST FAILED: Hand count error. Expected 300 Actual 301
+TEST FAILED: Deck count error. Expected 189 Actual 188
+Smithy Card: Test 58
+TEST FAILED: Hand count error. Expected 218 Actual 219
+TEST FAILED: Deck count error. Expected 213 Actual 212
+Smithy Card: Test 59
+TEST FAILED: Hand count error. Expected 131 Actual 132
+TEST FAILED: Deck count error. Expected 173 Actual 172
+Smithy Card: Test 60
+TEST FAILED: Hand count error. Expected 247 Actual 248
+TEST FAILED: Deck count error. Expected 217 Actual 216
+Smithy Card: Test 61
+TEST FAILED: Hand count error. Expected 129 Actual 130
+TEST FAILED: Deck count error. Expected 354 Actual 353
+Smithy Card: Test 62
+TEST FAILED: Hand count error. Expected 98 Actual 99
+TEST FAILED: Deck count error. Expected 166 Actual 165
+Smithy Card: Test 63
+TEST FAILED: Hand count error. Expected 203 Actual 204
+TEST FAILED: Deck count error. Expected 278 Actual 277
+Smithy Card: Test 64
+TEST FAILED: Hand count error. Expected 43 Actual 44
+TEST FAILED: Deck count error. Expected 184 Actual 183
+Smithy Card: Test 65
+TEST FAILED: Hand count error. Expected 180 Actual 181
+TEST FAILED: Deck count error. Expected 53 Actual 52
+Smithy Card: Test 66
+TEST FAILED: Hand count error. Expected 111 Actual 112
+TEST FAILED: Deck count error. Expected 108 Actual 107
+Smithy Card: Test 67
+TEST FAILED: Hand count error. Expected 241 Actual 242
+TEST FAILED: Deck count error. Expected 177 Actual 176
+Smithy Card: Test 68
+TEST FAILED: Hand count error. Expected 388 Actual 389
+TEST FAILED: Deck count error. Expected 11 Actual 10
+Smithy Card: Test 69
+TEST FAILED: Hand count error. Expected 317 Actual 318
+TEST FAILED: Deck count error. Expected 103 Actual 102
+Smithy Card: Test 70
+TEST FAILED: Hand count error. Expected 261 Actual 262
+TEST FAILED: Deck count error. Expected 169 Actual 168
+Smithy Card: Test 71
+TEST FAILED: Hand count error. Expected 20 Actual 21
+TEST FAILED: Deck count error. Expected 434 Actual 433
+Smithy Card: Test 72
+TEST FAILED: Hand count error. Expected 468 Actual 469
+TEST FAILED: Deck count error. Expected 31 Actual 30
+Smithy Card: Test 73
+TEST FAILED: Hand count error. Expected 206 Actual 207
+TEST FAILED: Deck count error. Expected 188 Actual 187
+Smithy Card: Test 74
+TEST FAILED: Hand count error. Expected 278 Actual 279
+TEST FAILED: Deck count error. Expected 202 Actual 201
+Smithy Card: Test 75
+TEST FAILED: Hand count error. Expected 332 Actual 333
+TEST FAILED: Deck count error. Expected 2 Actual 1
+Smithy Card: Test 76
+TEST FAILED: Hand count error. Expected 75 Actual 76
+TEST FAILED: Deck count error. Expected 50 Actual 49
+Smithy Card: Test 77
+TEST FAILED: Hand count error. Expected 283 Actual 284
+TEST FAILED: Deck count error. Expected 85 Actual 84
+Smithy Card: Test 78
+TEST FAILED: Hand count error. Expected 456 Actual 457
+TEST FAILED: Deck count error. Expected 41 Actual 40
+Smithy Card: Test 79
+TEST FAILED: Hand count error. Expected 314 Actual 315
+TEST FAILED: Deck count error. Expected 4 Actual 3
+Smithy Card: Test 80
+TEST FAILED: Hand count error. Expected 230 Actual 231
+TEST FAILED: Deck count error. Expected 136 Actual 135
+Smithy Card: Test 81
+TEST FAILED: Hand count error. Expected 452 Actual 453
+TEST FAILED: Deck count error. Expected 46 Actual 45
+Smithy Card: Test 82
+TEST FAILED: Hand count error. Expected 300 Actual 301
+TEST FAILED: Deck count error. Expected 189 Actual 188
+Smithy Card: Test 83
+TEST FAILED: Hand count error. Expected 218 Actual 219
+TEST FAILED: Deck count error. Expected 213 Actual 212
+Smithy Card: Test 84
+TEST FAILED: Hand count error. Expected 131 Actual 132
+TEST FAILED: Deck count error. Expected 173 Actual 172
+Smithy Card: Test 85
+TEST FAILED: Hand count error. Expected 247 Actual 248
+TEST FAILED: Deck count error. Expected 217 Actual 216
+Smithy Card: Test 86
+TEST FAILED: Hand count error. Expected 129 Actual 130
+TEST FAILED: Deck count error. Expected 354 Actual 353
+Smithy Card: Test 87
+TEST FAILED: Hand count error. Expected 98 Actual 99
+TEST FAILED: Deck count error. Expected 166 Actual 165
+Smithy Card: Test 88
+TEST FAILED: Hand count error. Expected 203 Actual 204
+TEST FAILED: Deck count error. Expected 278 Actual 277
+Smithy Card: Test 89
+TEST FAILED: Hand count error. Expected 43 Actual 44
+TEST FAILED: Deck count error. Expected 184 Actual 183
+Smithy Card: Test 90
+TEST FAILED: Hand count error. Expected 180 Actual 181
+TEST FAILED: Deck count error. Expected 53 Actual 52
+Smithy Card: Test 91
+TEST FAILED: Hand count error. Expected 111 Actual 112
+TEST FAILED: Deck count error. Expected 108 Actual 107
+Smithy Card: Test 92
+TEST FAILED: Hand count error. Expected 241 Actual 242
+TEST FAILED: Deck count error. Expected 177 Actual 176
+Smithy Card: Test 93
+TEST FAILED: Hand count error. Expected 388 Actual 389
+TEST FAILED: Deck count error. Expected 11 Actual 10
+Smithy Card: Test 94
+TEST FAILED: Hand count error. Expected 317 Actual 318
+TEST FAILED: Deck count error. Expected 103 Actual 102
+Smithy Card: Test 95
+TEST FAILED: Hand count error. Expected 261 Actual 262
+TEST FAILED: Deck count error. Expected 169 Actual 168
+Smithy Card: Test 96
+TEST FAILED: Hand count error. Expected 20 Actual 21
+TEST FAILED: Deck count error. Expected 434 Actual 433
+Smithy Card: Test 97
+TEST FAILED: Hand count error. Expected 468 Actual 469
+TEST FAILED: Deck count error. Expected 31 Actual 30
+Smithy Card: Test 98
+TEST FAILED: Hand count error. Expected 206 Actual 207
+TEST FAILED: Deck count error. Expected 188 Actual 187
+Smithy Card: Test 99
+TEST FAILED: Hand count error. Expected 278 Actual 279
+TEST FAILED: Deck count error. Expected 202 Actual 201
+Smithy Card: Test 100
+TEST FAILED: Hand count error. Expected 332 Actual 333
+TEST FAILED: Deck count error. Expected 2 Actual 1
+Smithy Card: Test 101
+TEST FAILED: Hand count error. Expected 75 Actual 76
+TEST FAILED: Deck count error. Expected 50 Actual 49
+Smithy Card: Test 102
+TEST FAILED: Hand count error. Expected 283 Actual 284
+TEST FAILED: Deck count error. Expected 85 Actual 84
+Smithy Card: Test 103
+TEST FAILED: Hand count error. Expected 456 Actual 457
+TEST FAILED: Deck count error. Expected 41 Actual 40
+Smithy Card: Test 104
+TEST FAILED: Hand count error. Expected 314 Actual 315
+TEST FAILED: Deck count error. Expected 4 Actual 3
+Smithy Card: Test 105
+TEST FAILED: Hand count error. Expected 230 Actual 231
+TEST FAILED: Deck count error. Expected 136 Actual 135
+Smithy Card: Test 106
+TEST FAILED: Hand count error. Expected 452 Actual 453
+TEST FAILED: Deck count error. Expected 46 Actual 45
+Smithy Card: Test 107
+TEST FAILED: Hand count error. Expected 300 Actual 301
+TEST FAILED: Deck count error. Expected 189 Actual 188
+Smithy Card: Test 108
+TEST FAILED: Hand count error. Expected 218 Actual 219
+TEST FAILED: Deck count error. Expected 213 Actual 212
+Smithy Card: Test 109
+TEST FAILED: Hand count error. Expected 131 Actual 132
+TEST FAILED: Deck count error. Expected 173 Actual 172
+Smithy Card: Test 110
+TEST FAILED: Hand count error. Expected 247 Actual 248
+TEST FAILED: Deck count error. Expected 217 Actual 216
+Smithy Card: Test 111
+TEST FAILED: Hand count error. Expected 129 Actual 130
+TEST FAILED: Deck count error. Expected 354 Actual 353
+Smithy Card: Test 112
+TEST FAILED: Hand count error. Expected 98 Actual 99
+TEST FAILED: Deck count error. Expected 166 Actual 165
+Smithy Card: Test 113
+TEST FAILED: Hand count error. Expected 203 Actual 204
+TEST FAILED: Deck count error. Expected 278 Actual 277
+Smithy Card: Test 114
+TEST FAILED: Hand count error. Expected 43 Actual 44
+TEST FAILED: Deck count error. Expected 184 Actual 183
+Smithy Card: Test 115
+TEST FAILED: Hand count error. Expected 180 Actual 181
+TEST FAILED: Deck count error. Expected 53 Actual 52
+Smithy Card: Test 116
+TEST FAILED: Hand count error. Expected 111 Actual 112
+TEST FAILED: Deck count error. Expected 108 Actual 107
+Smithy Card: Test 117
+TEST FAILED: Hand count error. Expected 241 Actual 242
+TEST FAILED: Deck count error. Expected 177 Actual 176
+Smithy Card: Test 118
+TEST FAILED: Hand count error. Expected 388 Actual 389
+TEST FAILED: Deck count error. Expected 11 Actual 10
+Smithy Card: Test 119
+TEST FAILED: Hand count error. Expected 317 Actual 318
+TEST FAILED: Deck count error. Expected 103 Actual 102
+Smithy Card: Test 120
+TEST FAILED: Hand count error. Expected 261 Actual 262
+TEST FAILED: Deck count error. Expected 169 Actual 168
+Smithy Card: Test 121
+TEST FAILED: Hand count error. Expected 20 Actual 21
+TEST FAILED: Deck count error. Expected 434 Actual 433
+Smithy Card: Test 122
+TEST FAILED: Hand count error. Expected 468 Actual 469
+TEST FAILED: Deck count error. Expected 31 Actual 30
+Smithy Card: Test 123
+TEST FAILED: Hand count error. Expected 206 Actual 207
+TEST FAILED: Deck count error. Expected 188 Actual 187
+Smithy Card: Test 124
+TEST FAILED: Hand count error. Expected 278 Actual 279
+TEST FAILED: Deck count error. Expected 202 Actual 201
+Smithy Card: Test 125
+TEST FAILED: Hand count error. Expected 332 Actual 333
+TEST FAILED: Deck count error. Expected 2 Actual 1
+Smithy Card: Test 126
+TEST FAILED: Hand count error. Expected 75 Actual 76
+TEST FAILED: Deck count error. Expected 50 Actual 49
+Smithy Card: Test 127
+TEST FAILED: Hand count error. Expected 283 Actual 284
+TEST FAILED: Deck count error. Expected 85 Actual 84
+Smithy Card: Test 128
+TEST FAILED: Hand count error. Expected 456 Actual 457
+TEST FAILED: Deck count error. Expected 41 Actual 40
+Smithy Card: Test 129
+TEST FAILED: Hand count error. Expected 314 Actual 315
+TEST FAILED: Deck count error. Expected 4 Actual 3
+Smithy Card: Test 130
+TEST FAILED: Hand count error. Expected 230 Actual 231
+TEST FAILED: Deck count error. Expected 136 Actual 135
+Smithy Card: Test 131
+TEST FAILED: Hand count error. Expected 452 Actual 453
+TEST FAILED: Deck count error. Expected 46 Actual 45
+Smithy Card: Test 132
+TEST FAILED: Hand count error. Expected 300 Actual 301
+TEST FAILED: Deck count error. Expected 189 Actual 188
+Smithy Card: Test 133
+TEST FAILED: Hand count error. Expected 218 Actual 219
+TEST FAILED: Deck count error. Expected 213 Actual 212
+Smithy Card: Test 134
+TEST FAILED: Hand count error. Expected 131 Actual 132
+TEST FAILED: Deck count error. Expected 173 Actual 172
+Smithy Card: Test 135
+TEST FAILED: Hand count error. Expected 247 Actual 248
+TEST FAILED: Deck count error. Expected 217 Actual 216
+Smithy Card: Test 136
+TEST FAILED: Hand count error. Expected 129 Actual 130
+TEST FAILED: Deck count error. Expected 354 Actual 353
+Smithy Card: Test 137
+TEST FAILED: Hand count error. Expected 98 Actual 99
+TEST FAILED: Deck count error. Expected 166 Actual 165
+Smithy Card: Test 138
+TEST FAILED: Hand count error. Expected 203 Actual 204
+TEST FAILED: Deck count error. Expected 278 Actual 277
+Smithy Card: Test 139
+TEST FAILED: Hand count error. Expected 43 Actual 44
+TEST FAILED: Deck count error. Expected 184 Actual 183
+Smithy Card: Test 140
+TEST FAILED: Hand count error. Expected 180 Actual 181
+TEST FAILED: Deck count error. Expected 53 Actual 52
+Smithy Card: Test 141
+TEST FAILED: Hand count error. Expected 111 Actual 112
+TEST FAILED: Deck count error. Expected 108 Actual 107
+Smithy Card: Test 142
+TEST FAILED: Hand count error. Expected 241 Actual 242
+TEST FAILED: Deck count error. Expected 177 Actual 176
+Smithy Card: Test 143
+TEST FAILED: Hand count error. Expected 388 Actual 389
+TEST FAILED: Deck count error. Expected 11 Actual 10
+Smithy Card: Test 144
+TEST FAILED: Hand count error. Expected 317 Actual 318
+TEST FAILED: Deck count error. Expected 103 Actual 102
+Smithy Card: Test 145
+TEST FAILED: Hand count error. Expected 261 Actual 262
+TEST FAILED: Deck count error. Expected 169 Actual 168
+Smithy Card: Test 146
+TEST FAILED: Hand count error. Expected 20 Actual 21
+TEST FAILED: Deck count error. Expected 434 Actual 433
+Smithy Card: Test 147
+TEST FAILED: Hand count error. Expected 468 Actual 469
+TEST FAILED: Deck count error. Expected 31 Actual 30
+Smithy Card: Test 148
+TEST FAILED: Hand count error. Expected 206 Actual 207
+TEST FAILED: Deck count error. Expected 188 Actual 187
+Smithy Card: Test 149
+TEST FAILED: Hand count error. Expected 278 Actual 279
+TEST FAILED: Deck count error. Expected 202 Actual 201
+Smithy Card: Test 150
+TEST FAILED: Hand count error. Expected 332 Actual 333
+TEST FAILED: Deck count error. Expected 2 Actual 1
+Smithy Card: Test 151
+TEST FAILED: Hand count error. Expected 75 Actual 76
+TEST FAILED: Deck count error. Expected 50 Actual 49
+Smithy Card: Test 152
+TEST FAILED: Hand count error. Expected 283 Actual 284
+TEST FAILED: Deck count error. Expected 85 Actual 84
+Smithy Card: Test 153
+TEST FAILED: Hand count error. Expected 456 Actual 457
+TEST FAILED: Deck count error. Expected 41 Actual 40
+Smithy Card: Test 154
+TEST FAILED: Hand count error. Expected 314 Actual 315
+TEST FAILED: Deck count error. Expected 4 Actual 3
+Smithy Card: Test 155
+TEST FAILED: Hand count error. Expected 230 Actual 231
+TEST FAILED: Deck count error. Expected 136 Actual 135
+Smithy Card: Test 156
+TEST FAILED: Hand count error. Expected 452 Actual 453
+TEST FAILED: Deck count error. Expected 46 Actual 45
+Smithy Card: Test 157
+TEST FAILED: Hand count error. Expected 300 Actual 301
+TEST FAILED: Deck count error. Expected 189 Actual 188
+Smithy Card: Test 158
+TEST FAILED: Hand count error. Expected 218 Actual 219
+TEST FAILED: Deck count error. Expected 213 Actual 212
+Smithy Card: Test 159
+TEST FAILED: Hand count error. Expected 131 Actual 132
+TEST FAILED: Deck count error. Expected 173 Actual 172
+Smithy Card: Test 160
+TEST FAILED: Hand count error. Expected 247 Actual 248
+TEST FAILED: Deck count error. Expected 217 Actual 216
+Smithy Card: Test 161
+TEST FAILED: Hand count error. Expected 129 Actual 130
+TEST FAILED: Deck count error. Expected 354 Actual 353
+Smithy Card: Test 162
+TEST FAILED: Hand count error. Expected 98 Actual 99
+TEST FAILED: Deck count error. Expected 166 Actual 165
+Smithy Card: Test 163
+TEST FAILED: Hand count error. Expected 203 Actual 204
+TEST FAILED: Deck count error. Expected 278 Actual 277
+Smithy Card: Test 164
+TEST FAILED: Hand count error. Expected 43 Actual 44
+TEST FAILED: Deck count error. Expected 184 Actual 183
+Smithy Card: Test 165
+TEST FAILED: Hand count error. Expected 180 Actual 181
+TEST FAILED: Deck count error. Expected 53 Actual 52
+Smithy Card: Test 166
+TEST FAILED: Hand count error. Expected 111 Actual 112
+TEST FAILED: Deck count error. Expected 108 Actual 107
+Smithy Card: Test 167
+TEST FAILED: Hand count error. Expected 241 Actual 242
+TEST FAILED: Deck count error. Expected 177 Actual 176
+Smithy Card: Test 168
+TEST FAILED: Hand count error. Expected 388 Actual 389
+TEST FAILED: Deck count error. Expected 11 Actual 10
+Smithy Card: Test 169
+TEST FAILED: Hand count error. Expected 317 Actual 318
+TEST FAILED: Deck count error. Expected 103 Actual 102
+Smithy Card: Test 170
+TEST FAILED: Hand count error. Expected 261 Actual 262
+TEST FAILED: Deck count error. Expected 169 Actual 168
+Smithy Card: Test 171
+TEST FAILED: Hand count error. Expected 20 Actual 21
+TEST FAILED: Deck count error. Expected 434 Actual 433
+Smithy Card: Test 172
+TEST FAILED: Hand count error. Expected 468 Actual 469
+TEST FAILED: Deck count error. Expected 31 Actual 30
+Smithy Card: Test 173
+TEST FAILED: Hand count error. Expected 206 Actual 207
+TEST FAILED: Deck count error. Expected 188 Actual 187
+Smithy Card: Test 174
+TEST FAILED: Hand count error. Expected 278 Actual 279
+TEST FAILED: Deck count error. Expected 202 Actual 201
+Smithy Card: Test 175
+TEST FAILED: Hand count error. Expected 332 Actual 333
+TEST FAILED: Deck count error. Expected 2 Actual 1
+Smithy Card: Test 176
+TEST FAILED: Hand count error. Expected 75 Actual 76
+TEST FAILED: Deck count error. Expected 50 Actual 49
+Smithy Card: Test 177
+TEST FAILED: Hand count error. Expected 283 Actual 284
+TEST FAILED: Deck count error. Expected 85 Actual 84
+Smithy Card: Test 178
+TEST FAILED: Hand count error. Expected 456 Actual 457
+TEST FAILED: Deck count error. Expected 41 Actual 40
+Smithy Card: Test 179
+TEST FAILED: Hand count error. Expected 314 Actual 315
+TEST FAILED: Deck count error. Expected 4 Actual 3
+Smithy Card: Test 180
+TEST FAILED: Hand count error. Expected 230 Actual 231
+TEST FAILED: Deck count error. Expected 136 Actual 135
+Smithy Card: Test 181
+TEST FAILED: Hand count error. Expected 452 Actual 453
+TEST FAILED: Deck count error. Expected 46 Actual 45
+Smithy Card: Test 182
+TEST FAILED: Hand count error. Expected 300 Actual 301
+TEST FAILED: Deck count error. Expected 189 Actual 188
+Smithy Card: Test 183
+TEST FAILED: Hand count error. Expected 218 Actual 219
+TEST FAILED: Deck count error. Expected 213 Actual 212
+Smithy Card: Test 184
+TEST FAILED: Hand count error. Expected 131 Actual 132
+TEST FAILED: Deck count error. Expected 173 Actual 172
+Smithy Card: Test 185
+TEST FAILED: Hand count error. Expected 247 Actual 248
+TEST FAILED: Deck count error. Expected 217 Actual 216
+Smithy Card: Test 186
+TEST FAILED: Hand count error. Expected 129 Actual 130
+TEST FAILED: Deck count error. Expected 354 Actual 353
+Smithy Card: Test 187
+TEST FAILED: Hand count error. Expected 98 Actual 99
+TEST FAILED: Deck count error. Expected 166 Actual 165
+Smithy Card: Test 188
+TEST FAILED: Hand count error. Expected 203 Actual 204
+TEST FAILED: Deck count error. Expected 278 Actual 277
+Smithy Card: Test 189
+TEST FAILED: Hand count error. Expected 43 Actual 44
+TEST FAILED: Deck count error. Expected 184 Actual 183
+Smithy Card: Test 190
+TEST FAILED: Hand count error. Expected 180 Actual 181
+TEST FAILED: Deck count error. Expected 53 Actual 52
+Smithy Card: Test 191
+TEST FAILED: Hand count error. Expected 111 Actual 112
+TEST FAILED: Deck count error. Expected 108 Actual 107
+Smithy Card: Test 192
+TEST FAILED: Hand count error. Expected 241 Actual 242
+TEST FAILED: Deck count error. Expected 177 Actual 176
+Smithy Card: Test 193
+TEST FAILED: Hand count error. Expected 388 Actual 389
+TEST FAILED: Deck count error. Expected 11 Actual 10
+Smithy Card: Test 194
+TEST FAILED: Hand count error. Expected 317 Actual 318
+TEST FAILED: Deck count error. Expected 103 Actual 102
+Smithy Card: Test 195
+TEST FAILED: Hand count error. Expected 261 Actual 262
+TEST FAILED: Deck count error. Expected 169 Actual 168
+Smithy Card: Test 196
+TEST FAILED: Hand count error. Expected 20 Actual 21
+TEST FAILED: Deck count error. Expected 434 Actual 433
+Smithy Card: Test 197
+TEST FAILED: Hand count error. Expected 468 Actual 469
+TEST FAILED: Deck count error. Expected 31 Actual 30
+Smithy Card: Test 198
+TEST FAILED: Hand count error. Expected 206 Actual 207
+TEST FAILED: Deck count error. Expected 188 Actual 187
+Smithy Card: Test 199
+TEST FAILED: Hand count error. Expected 278 Actual 279
+TEST FAILED: Deck count error. Expected 202 Actual 201
+Smithy Card: Test 200
+TEST FAILED: Hand count error. Expected 332 Actual 333
+TEST FAILED: Deck count error. Expected 2 Actual 1
+Smithy Card: Test 201
+TEST FAILED: Hand count error. Expected 75 Actual 76
+TEST FAILED: Deck count error. Expected 50 Actual 49
+Smithy Card: Test 202
+TEST FAILED: Hand count error. Expected 283 Actual 284
+TEST FAILED: Deck count error. Expected 85 Actual 84
+Smithy Card: Test 203
+TEST FAILED: Hand count error. Expected 456 Actual 457
+TEST FAILED: Deck count error. Expected 41 Actual 40
+Smithy Card: Test 204
+TEST FAILED: Hand count error. Expected 314 Actual 315
+TEST FAILED: Deck count error. Expected 4 Actual 3
+Smithy Card: Test 205
+TEST FAILED: Hand count error. Expected 230 Actual 231
+TEST FAILED: Deck count error. Expected 136 Actual 135
+Smithy Card: Test 206
+TEST FAILED: Hand count error. Expected 452 Actual 453
+TEST FAILED: Deck count error. Expected 46 Actual 45
+Smithy Card: Test 207
+TEST FAILED: Hand count error. Expected 300 Actual 301
+TEST FAILED: Deck count error. Expected 189 Actual 188
+Smithy Card: Test 208
+TEST FAILED: Hand count error. Expected 218 Actual 219
+TEST FAILED: Deck count error. Expected 213 Actual 212
+Smithy Card: Test 209
+TEST FAILED: Hand count error. Expected 131 Actual 132
+TEST FAILED: Deck count error. Expected 173 Actual 172
+Smithy Card: Test 210
+TEST FAILED: Hand count error. Expected 247 Actual 248
+TEST FAILED: Deck count error. Expected 217 Actual 216
+Smithy Card: Test 211
+TEST FAILED: Hand count error. Expected 129 Actual 130
+TEST FAILED: Deck count error. Expected 354 Actual 353
+Smithy Card: Test 212
+TEST FAILED: Hand count error. Expected 98 Actual 99
+TEST FAILED: Deck count error. Expected 166 Actual 165
+Smithy Card: Test 213
+TEST FAILED: Hand count error. Expected 203 Actual 204
+TEST FAILED: Deck count error. Expected 278 Actual 277
+Smithy Card: Test 214
+TEST FAILED: Hand count error. Expected 43 Actual 44
+TEST FAILED: Deck count error. Expected 184 Actual 183
+Smithy Card: Test 215
+TEST FAILED: Hand count error. Expected 180 Actual 181
+TEST FAILED: Deck count error. Expected 53 Actual 52
+Smithy Card: Test 216
+TEST FAILED: Hand count error. Expected 111 Actual 112
+TEST FAILED: Deck count error. Expected 108 Actual 107
+Smithy Card: Test 217
+TEST FAILED: Hand count error. Expected 241 Actual 242
+TEST FAILED: Deck count error. Expected 177 Actual 176
+Smithy Card: Test 218
+TEST FAILED: Hand count error. Expected 388 Actual 389
+TEST FAILED: Deck count error. Expected 11 Actual 10
+Smithy Card: Test 219
+TEST FAILED: Hand count error. Expected 317 Actual 318
+TEST FAILED: Deck count error. Expected 103 Actual 102
+Smithy Card: Test 220
+TEST FAILED: Hand count error. Expected 261 Actual 262
+TEST FAILED: Deck count error. Expected 169 Actual 168
+Smithy Card: Test 221
+TEST FAILED: Hand count error. Expected 20 Actual 21
+TEST FAILED: Deck count error. Expected 434 Actual 433
+Smithy Card: Test 222
+TEST FAILED: Hand count error. Expected 468 Actual 469
+TEST FAILED: Deck count error. Expected 31 Actual 30
+Smithy Card: Test 223
+TEST FAILED: Hand count error. Expected 206 Actual 207
+TEST FAILED: Deck count error. Expected 188 Actual 187
+Smithy Card: Test 224
+TEST FAILED: Hand count error. Expected 278 Actual 279
+TEST FAILED: Deck count error. Expected 202 Actual 201
+Smithy Card: Test 225
+TEST FAILED: Hand count error. Expected 332 Actual 333
+TEST FAILED: Deck count error. Expected 2 Actual 1
+Smithy Card: Test 226
+TEST FAILED: Hand count error. Expected 75 Actual 76
+TEST FAILED: Deck count error. Expected 50 Actual 49
+Smithy Card: Test 227
+TEST FAILED: Hand count error. Expected 283 Actual 284
+TEST FAILED: Deck count error. Expected 85 Actual 84
+Smithy Card: Test 228
+TEST FAILED: Hand count error. Expected 456 Actual 457
+TEST FAILED: Deck count error. Expected 41 Actual 40
+Smithy Card: Test 229
+TEST FAILED: Hand count error. Expected 314 Actual 315
+TEST FAILED: Deck count error. Expected 4 Actual 3
+Smithy Card: Test 230
+TEST FAILED: Hand count error. Expected 230 Actual 231
+TEST FAILED: Deck count error. Expected 136 Actual 135
+Smithy Card: Test 231
+TEST FAILED: Hand count error. Expected 452 Actual 453
+TEST FAILED: Deck count error. Expected 46 Actual 45
+Smithy Card: Test 232
+TEST FAILED: Hand count error. Expected 300 Actual 301
+TEST FAILED: Deck count error. Expected 189 Actual 188
+Smithy Card: Test 233
+TEST FAILED: Hand count error. Expected 218 Actual 219
+TEST FAILED: Deck count error. Expected 213 Actual 212
+Smithy Card: Test 234
+TEST FAILED: Hand count error. Expected 131 Actual 132
+TEST FAILED: Deck count error. Expected 173 Actual 172
+Smithy Card: Test 235
+TEST FAILED: Hand count error. Expected 247 Actual 248
+TEST FAILED: Deck count error. Expected 217 Actual 216
+Smithy Card: Test 236
+TEST FAILED: Hand count error. Expected 129 Actual 130
+TEST FAILED: Deck count error. Expected 354 Actual 353
+Smithy Card: Test 237
+TEST FAILED: Hand count error. Expected 98 Actual 99
+TEST FAILED: Deck count error. Expected 166 Actual 165
+Smithy Card: Test 238
+TEST FAILED: Hand count error. Expected 203 Actual 204
+TEST FAILED: Deck count error. Expected 278 Actual 277
+Smithy Card: Test 239
+TEST FAILED: Hand count error. Expected 43 Actual 44
+TEST FAILED: Deck count error. Expected 184 Actual 183
+Smithy Card: Test 240
+TEST FAILED: Hand count error. Expected 180 Actual 181
+TEST FAILED: Deck count error. Expected 53 Actual 52
+Smithy Card: Test 241
+TEST FAILED: Hand count error. Expected 111 Actual 112
+TEST FAILED: Deck count error. Expected 108 Actual 107
+Smithy Card: Test 242
+TEST FAILED: Hand count error. Expected 241 Actual 242
+TEST FAILED: Deck count error. Expected 177 Actual 176
+Smithy Card: Test 243
+TEST FAILED: Hand count error. Expected 388 Actual 389
+TEST FAILED: Deck count error. Expected 11 Actual 10
+Smithy Card: Test 244
+TEST FAILED: Hand count error. Expected 317 Actual 318
+TEST FAILED: Deck count error. Expected 103 Actual 102
+Smithy Card: Test 245
+TEST FAILED: Hand count error. Expected 261 Actual 262
+TEST FAILED: Deck count error. Expected 169 Actual 168
+Smithy Card: Test 246
+TEST FAILED: Hand count error. Expected 20 Actual 21
+TEST FAILED: Deck count error. Expected 434 Actual 433
+Smithy Card: Test 247
+TEST FAILED: Hand count error. Expected 468 Actual 469
+TEST FAILED: Deck count error. Expected 31 Actual 30
+Smithy Card: Test 248
+TEST FAILED: Hand count error. Expected 206 Actual 207
+TEST FAILED: Deck count error. Expected 188 Actual 187
+Smithy Card: Test 249
+TEST FAILED: Hand count error. Expected 278 Actual 279
+TEST FAILED: Deck count error. Expected 202 Actual 201
+Smithy Card: Test 250
+TEST FAILED: Hand count error. Expected 332 Actual 333
+TEST FAILED: Deck count error. Expected 2 Actual 1
+Smithy Card: Test 251
+TEST FAILED: Hand count error. Expected 75 Actual 76
+TEST FAILED: Deck count error. Expected 50 Actual 49
+Smithy Card: Test 252
+TEST FAILED: Hand count error. Expected 283 Actual 284
+TEST FAILED: Deck count error. Expected 85 Actual 84
+Smithy Card: Test 253
+TEST FAILED: Hand count error. Expected 456 Actual 457
+TEST FAILED: Deck count error. Expected 41 Actual 40
+Smithy Card: Test 254
+TEST FAILED: Hand count error. Expected 314 Actual 315
+TEST FAILED: Deck count error. Expected 4 Actual 3
+Smithy Card: Test 255
+TEST FAILED: Hand count error. Expected 230 Actual 231
+TEST FAILED: Deck count error. Expected 136 Actual 135
+Smithy Card: Test 256
+TEST FAILED: Hand count error. Expected 452 Actual 453
+TEST FAILED: Deck count error. Expected 46 Actual 45
+Smithy Card: Test 257
+TEST FAILED: Hand count error. Expected 300 Actual 301
+TEST FAILED: Deck count error. Expected 189 Actual 188
+Smithy Card: Test 258
+TEST FAILED: Hand count error. Expected 218 Actual 219
+TEST FAILED: Deck count error. Expected 213 Actual 212
+Smithy Card: Test 259
+TEST FAILED: Hand count error. Expected 131 Actual 132
+TEST FAILED: Deck count error. Expected 173 Actual 172
+Smithy Card: Test 260
+TEST FAILED: Hand count error. Expected 247 Actual 248
+TEST FAILED: Deck count error. Expected 217 Actual 216
+Smithy Card: Test 261
+TEST FAILED: Hand count error. Expected 129 Actual 130
+TEST FAILED: Deck count error. Expected 354 Actual 353
+Smithy Card: Test 262
+TEST FAILED: Hand count error. Expected 98 Actual 99
+TEST FAILED: Deck count error. Expected 166 Actual 165
+Smithy Card: Test 263
+TEST FAILED: Hand count error. Expected 203 Actual 204
+TEST FAILED: Deck count error. Expected 278 Actual 277
+Smithy Card: Test 264
+TEST FAILED: Hand count error. Expected 43 Actual 44
+TEST FAILED: Deck count error. Expected 184 Actual 183
+Smithy Card: Test 265
+TEST FAILED: Hand count error. Expected 180 Actual 181
+TEST FAILED: Deck count error. Expected 53 Actual 52
+Smithy Card: Test 266
+TEST FAILED: Hand count error. Expected 111 Actual 112
+TEST FAILED: Deck count error. Expected 108 Actual 107
+Smithy Card: Test 267
+TEST FAILED: Hand count error. Expected 241 Actual 242
+TEST FAILED: Deck count error. Expected 177 Actual 176
+Smithy Card: Test 268
+TEST FAILED: Hand count error. Expected 388 Actual 389
+TEST FAILED: Deck count error. Expected 11 Actual 10
+Smithy Card: Test 269
+TEST FAILED: Hand count error. Expected 317 Actual 318
+TEST FAILED: Deck count error. Expected 103 Actual 102
+Smithy Card: Test 270
+TEST FAILED: Hand count error. Expected 261 Actual 262
+TEST FAILED: Deck count error. Expected 169 Actual 168
+Smithy Card: Test 271
+TEST FAILED: Hand count error. Expected 20 Actual 21
+TEST FAILED: Deck count error. Expected 434 Actual 433
+Smithy Card: Test 272
+TEST FAILED: Hand count error. Expected 468 Actual 469
+TEST FAILED: Deck count error. Expected 31 Actual 30
+Smithy Card: Test 273
+TEST FAILED: Hand count error. Expected 206 Actual 207
+TEST FAILED: Deck count error. Expected 188 Actual 187
+Smithy Card: Test 274
+TEST FAILED: Hand count error. Expected 278 Actual 279
+TEST FAILED: Deck count error. Expected 202 Actual 201
+Smithy Card: Test 275
+TEST FAILED: Hand count error. Expected 332 Actual 333
+TEST FAILED: Deck count error. Expected 2 Actual 1
+Smithy Card: Test 276
+TEST FAILED: Hand count error. Expected 75 Actual 76
+TEST FAILED: Deck count error. Expected 50 Actual 49
+Smithy Card: Test 277
+TEST FAILED: Hand count error. Expected 283 Actual 284
+TEST FAILED: Deck count error. Expected 85 Actual 84
+Smithy Card: Test 278
+TEST FAILED: Hand count error. Expected 456 Actual 457
+TEST FAILED: Deck count error. Expected 41 Actual 40
+Smithy Card: Test 279
+TEST FAILED: Hand count error. Expected 314 Actual 315
+TEST FAILED: Deck count error. Expected 4 Actual 3
+Smithy Card: Test 280
+TEST FAILED: Hand count error. Expected 230 Actual 231
+TEST FAILED: Deck count error. Expected 136 Actual 135
+Smithy Card: Test 281
+TEST FAILED: Hand count error. Expected 452 Actual 453
+TEST FAILED: Deck count error. Expected 46 Actual 45
+Smithy Card: Test 282
+TEST FAILED: Hand count error. Expected 300 Actual 301
+TEST FAILED: Deck count error. Expected 189 Actual 188
+Smithy Card: Test 283
+TEST FAILED: Hand count error. Expected 218 Actual 219
+TEST FAILED: Deck count error. Expected 213 Actual 212
+Smithy Card: Test 284
+TEST FAILED: Hand count error. Expected 131 Actual 132
+TEST FAILED: Deck count error. Expected 173 Actual 172
+Smithy Card: Test 285
+TEST FAILED: Hand count error. Expected 247 Actual 248
+TEST FAILED: Deck count error. Expected 217 Actual 216
+Smithy Card: Test 286
+TEST FAILED: Hand count error. Expected 129 Actual 130
+TEST FAILED: Deck count error. Expected 354 Actual 353
+Smithy Card: Test 287
+TEST FAILED: Hand count error. Expected 98 Actual 99
+TEST FAILED: Deck count error. Expected 166 Actual 165
+Smithy Card: Test 288
+TEST FAILED: Hand count error. Expected 203 Actual 204
+TEST FAILED: Deck count error. Expected 278 Actual 277
+Smithy Card: Test 289
+TEST FAILED: Hand count error. Expected 43 Actual 44
+TEST FAILED: Deck count error. Expected 184 Actual 183
+Smithy Card: Test 290
+TEST FAILED: Hand count error. Expected 180 Actual 181
+TEST FAILED: Deck count error. Expected 53 Actual 52
+Smithy Card: Test 291
+TEST FAILED: Hand count error. Expected 111 Actual 112
+TEST FAILED: Deck count error. Expected 108 Actual 107
+Smithy Card: Test 292
+TEST FAILED: Hand count error. Expected 241 Actual 242
+TEST FAILED: Deck count error. Expected 177 Actual 176
+Smithy Card: Test 293
+TEST FAILED: Hand count error. Expected 388 Actual 389
+TEST FAILED: Deck count error. Expected 11 Actual 10
+Smithy Card: Test 294
+TEST FAILED: Hand count error. Expected 317 Actual 318
+TEST FAILED: Deck count error. Expected 103 Actual 102
+Smithy Card: Test 295
+TEST FAILED: Hand count error. Expected 261 Actual 262
+TEST FAILED: Deck count error. Expected 169 Actual 168
+Smithy Card: Test 296
+TEST FAILED: Hand count error. Expected 20 Actual 21
+TEST FAILED: Deck count error. Expected 434 Actual 433
+Smithy Card: Test 297
+TEST FAILED: Hand count error. Expected 468 Actual 469
+TEST FAILED: Deck count error. Expected 31 Actual 30
+Smithy Card: Test 298
+TEST FAILED: Hand count error. Expected 206 Actual 207
+TEST FAILED: Deck count error. Expected 188 Actual 187
+Smithy Card: Test 299
+TEST FAILED: Hand count error. Expected 278 Actual 279
+TEST FAILED: Deck count error. Expected 202 Actual 201
+Smithy Card: Test 300
+TEST FAILED: Hand count error. Expected 332 Actual 333
+TEST FAILED: Deck count error. Expected 2 Actual 1
+Smithy Card: Test 301
+TEST FAILED: Hand count error. Expected 75 Actual 76
+TEST FAILED: Deck count error. Expected 50 Actual 49
+Smithy Card: Test 302
+TEST FAILED: Hand count error. Expected 283 Actual 284
+TEST FAILED: Deck count error. Expected 85 Actual 84
+Smithy Card: Test 303
+TEST FAILED: Hand count error. Expected 456 Actual 457
+TEST FAILED: Deck count error. Expected 41 Actual 40
+Smithy Card: Test 304
+TEST FAILED: Hand count error. Expected 314 Actual 315
+TEST FAILED: Deck count error. Expected 4 Actual 3
+Smithy Card: Test 305
+TEST FAILED: Hand count error. Expected 230 Actual 231
+TEST FAILED: Deck count error. Expected 136 Actual 135
+Smithy Card: Test 306
+TEST FAILED: Hand count error. Expected 452 Actual 453
+TEST FAILED: Deck count error. Expected 46 Actual 45
+Smithy Card: Test 307
+TEST FAILED: Hand count error. Expected 300 Actual 301
+TEST FAILED: Deck count error. Expected 189 Actual 188
+Smithy Card: Test 308
+TEST FAILED: Hand count error. Expected 218 Actual 219
+TEST FAILED: Deck count error. Expected 213 Actual 212
+Smithy Card: Test 309
+TEST FAILED: Hand count error. Expected 131 Actual 132
+TEST FAILED: Deck count error. Expected 173 Actual 172
+Smithy Card: Test 310
+TEST FAILED: Hand count error. Expected 247 Actual 248
+TEST FAILED: Deck count error. Expected 217 Actual 216
+Smithy Card: Test 311
+TEST FAILED: Hand count error. Expected 129 Actual 130
+TEST FAILED: Deck count error. Expected 354 Actual 353
+Smithy Card: Test 312
+TEST FAILED: Hand count error. Expected 98 Actual 99
+TEST FAILED: Deck count error. Expected 166 Actual 165
+Smithy Card: Test 313
+TEST FAILED: Hand count error. Expected 203 Actual 204
+TEST FAILED: Deck count error. Expected 278 Actual 277
+Smithy Card: Test 314
+TEST FAILED: Hand count error. Expected 43 Actual 44
+TEST FAILED: Deck count error. Expected 184 Actual 183
+Smithy Card: Test 315
+TEST FAILED: Hand count error. Expected 180 Actual 181
+TEST FAILED: Deck count error. Expected 53 Actual 52
+Smithy Card: Test 316
+TEST FAILED: Hand count error. Expected 111 Actual 112
+TEST FAILED: Deck count error. Expected 108 Actual 107
+Smithy Card: Test 317
+TEST FAILED: Hand count error. Expected 241 Actual 242
+TEST FAILED: Deck count error. Expected 177 Actual 176
+Smithy Card: Test 318
+TEST FAILED: Hand count error. Expected 388 Actual 389
+TEST FAILED: Deck count error. Expected 11 Actual 10
+Smithy Card: Test 319
+TEST FAILED: Hand count error. Expected 317 Actual 318
+TEST FAILED: Deck count error. Expected 103 Actual 102
+Smithy Card: Test 320
+TEST FAILED: Hand count error. Expected 261 Actual 262
+TEST FAILED: Deck count error. Expected 169 Actual 168
+Smithy Card: Test 321
+TEST FAILED: Hand count error. Expected 20 Actual 21
+TEST FAILED: Deck count error. Expected 434 Actual 433
+Smithy Card: Test 322
+TEST FAILED: Hand count error. Expected 468 Actual 469
+TEST FAILED: Deck count error. Expected 31 Actual 30
+Smithy Card: Test 323
+TEST FAILED: Hand count error. Expected 206 Actual 207
+TEST FAILED: Deck count error. Expected 188 Actual 187
+Smithy Card: Test 324
+TEST FAILED: Hand count error. Expected 278 Actual 279
+TEST FAILED: Deck count error. Expected 202 Actual 201
+Smithy Card: Test 325
+TEST FAILED: Hand count error. Expected 332 Actual 333
+TEST FAILED: Deck count error. Expected 2 Actual 1
+Smithy Card: Test 326
+TEST FAILED: Hand count error. Expected 75 Actual 76
+TEST FAILED: Deck count error. Expected 50 Actual 49
+Smithy Card: Test 327
+TEST FAILED: Hand count error. Expected 283 Actual 284
+TEST FAILED: Deck count error. Expected 85 Actual 84
+Smithy Card: Test 328
+TEST FAILED: Hand count error. Expected 456 Actual 457
+TEST FAILED: Deck count error. Expected 41 Actual 40
+Smithy Card: Test 329
+TEST FAILED: Hand count error. Expected 314 Actual 315
+TEST FAILED: Deck count error. Expected 4 Actual 3
+Smithy Card: Test 330
+TEST FAILED: Hand count error. Expected 230 Actual 231
+TEST FAILED: Deck count error. Expected 136 Actual 135
+Smithy Card: Test 331
+TEST FAILED: Hand count error. Expected 452 Actual 453
+TEST FAILED: Deck count error. Expected 46 Actual 45
+Smithy Card: Test 332
+TEST FAILED: Hand count error. Expected 300 Actual 301
+TEST FAILED: Deck count error. Expected 189 Actual 188
+Smithy Card: Test 333
+TEST FAILED: Hand count error. Expected 218 Actual 219
+TEST FAILED: Deck count error. Expected 213 Actual 212
+Smithy Card: Test 334
+TEST FAILED: Hand count error. Expected 131 Actual 132
+TEST FAILED: Deck count error. Expected 173 Actual 172
+Smithy Card: Test 335
+TEST FAILED: Hand count error. Expected 247 Actual 248
+TEST FAILED: Deck count error. Expected 217 Actual 216
+Smithy Card: Test 336
+TEST FAILED: Hand count error. Expected 129 Actual 130
+TEST FAILED: Deck count error. Expected 354 Actual 353
+Smithy Card: Test 337
+TEST FAILED: Hand count error. Expected 98 Actual 99
+TEST FAILED: Deck count error. Expected 166 Actual 165
+Smithy Card: Test 338
+TEST FAILED: Hand count error. Expected 203 Actual 204
+TEST FAILED: Deck count error. Expected 278 Actual 277
+Smithy Card: Test 339
+TEST FAILED: Hand count error. Expected 43 Actual 44
+TEST FAILED: Deck count error. Expected 184 Actual 183
+Smithy Card: Test 340
+TEST FAILED: Hand count error. Expected 180 Actual 181
+TEST FAILED: Deck count error. Expected 53 Actual 52
+Smithy Card: Test 341
+TEST FAILED: Hand count error. Expected 111 Actual 112
+TEST FAILED: Deck count error. Expected 108 Actual 107
+Smithy Card: Test 342
+TEST FAILED: Hand count error. Expected 241 Actual 242
+TEST FAILED: Deck count error. Expected 177 Actual 176
+Smithy Card: Test 343
+TEST FAILED: Hand count error. Expected 388 Actual 389
+TEST FAILED: Deck count error. Expected 11 Actual 10
+Smithy Card: Test 344
+TEST FAILED: Hand count error. Expected 317 Actual 318
+TEST FAILED: Deck count error. Expected 103 Actual 102
+Smithy Card: Test 345
+TEST FAILED: Hand count error. Expected 261 Actual 262
+TEST FAILED: Deck count error. Expected 169 Actual 168
+Smithy Card: Test 346
+TEST FAILED: Hand count error. Expected 20 Actual 21
+TEST FAILED: Deck count error. Expected 434 Actual 433
+Smithy Card: Test 347
+TEST FAILED: Hand count error. Expected 468 Actual 469
+TEST FAILED: Deck count error. Expected 31 Actual 30
+Smithy Card: Test 348
+TEST FAILED: Hand count error. Expected 206 Actual 207
+TEST FAILED: Deck count error. Expected 188 Actual 187
+Smithy Card: Test 349
+TEST FAILED: Hand count error. Expected 278 Actual 279
+TEST FAILED: Deck count error. Expected 202 Actual 201
+Smithy Card: Test 350
+TEST FAILED: Hand count error. Expected 332 Actual 333
+TEST FAILED: Deck count error. Expected 2 Actual 1
+Smithy Card: Test 351
+TEST FAILED: Hand count error. Expected 75 Actual 76
+TEST FAILED: Deck count error. Expected 50 Actual 49
+Smithy Card: Test 352
+TEST FAILED: Hand count error. Expected 283 Actual 284
+TEST FAILED: Deck count error. Expected 85 Actual 84
+Smithy Card: Test 353
+TEST FAILED: Hand count error. Expected 456 Actual 457
+TEST FAILED: Deck count error. Expected 41 Actual 40
+Smithy Card: Test 354
+TEST FAILED: Hand count error. Expected 314 Actual 315
+TEST FAILED: Deck count error. Expected 4 Actual 3
+Smithy Card: Test 355
+TEST FAILED: Hand count error. Expected 230 Actual 231
+TEST FAILED: Deck count error. Expected 136 Actual 135
+Smithy Card: Test 356
+TEST FAILED: Hand count error. Expected 452 Actual 453
+TEST FAILED: Deck count error. Expected 46 Actual 45
+Smithy Card: Test 357
+TEST FAILED: Hand count error. Expected 300 Actual 301
+TEST FAILED: Deck count error. Expected 189 Actual 188
+Smithy Card: Test 358
+TEST FAILED: Hand count error. Expected 218 Actual 219
+TEST FAILED: Deck count error. Expected 213 Actual 212
+Smithy Card: Test 359
+TEST FAILED: Hand count error. Expected 131 Actual 132
+TEST FAILED: Deck count error. Expected 173 Actual 172
+Smithy Card: Test 360
+TEST FAILED: Hand count error. Expected 247 Actual 248
+TEST FAILED: Deck count error. Expected 217 Actual 216
+Smithy Card: Test 361
+TEST FAILED: Hand count error. Expected 129 Actual 130
+TEST FAILED: Deck count error. Expected 354 Actual 353
+Smithy Card: Test 362
+TEST FAILED: Hand count error. Expected 98 Actual 99
+TEST FAILED: Deck count error. Expected 166 Actual 165
+Smithy Card: Test 363
+TEST FAILED: Hand count error. Expected 203 Actual 204
+TEST FAILED: Deck count error. Expected 278 Actual 277
+Smithy Card: Test 364
+TEST FAILED: Hand count error. Expected 43 Actual 44
+TEST FAILED: Deck count error. Expected 184 Actual 183
+Smithy Card: Test 365
+TEST FAILED: Hand count error. Expected 180 Actual 181
+TEST FAILED: Deck count error. Expected 53 Actual 52
+Smithy Card: Test 366
+TEST FAILED: Hand count error. Expected 111 Actual 112
+TEST FAILED: Deck count error. Expected 108 Actual 107
+Smithy Card: Test 367
+TEST FAILED: Hand count error. Expected 241 Actual 242
+TEST FAILED: Deck count error. Expected 177 Actual 176
+Smithy Card: Test 368
+TEST FAILED: Hand count error. Expected 388 Actual 389
+TEST FAILED: Deck count error. Expected 11 Actual 10
+Smithy Card: Test 369
+TEST FAILED: Hand count error. Expected 317 Actual 318
+TEST FAILED: Deck count error. Expected 103 Actual 102
+Smithy Card: Test 370
+TEST FAILED: Hand count error. Expected 261 Actual 262
+TEST FAILED: Deck count error. Expected 169 Actual 168
+Smithy Card: Test 371
+TEST FAILED: Hand count error. Expected 20 Actual 21
+TEST FAILED: Deck count error. Expected 434 Actual 433
+Smithy Card: Test 372
+TEST FAILED: Hand count error. Expected 468 Actual 469
+TEST FAILED: Deck count error. Expected 31 Actual 30
+Smithy Card: Test 373
+TEST FAILED: Hand count error. Expected 206 Actual 207
+TEST FAILED: Deck count error. Expected 188 Actual 187
+Smithy Card: Test 374
+TEST FAILED: Hand count error. Expected 278 Actual 279
+TEST FAILED: Deck count error. Expected 202 Actual 201
+Smithy Card: Test 375
+TEST FAILED: Hand count error. Expected 332 Actual 333
+TEST FAILED: Deck count error. Expected 2 Actual 1
+Smithy Card: Test 376
+TEST FAILED: Hand count error. Expected 75 Actual 76
+TEST FAILED: Deck count error. Expected 50 Actual 49
+Smithy Card: Test 377
+TEST FAILED: Hand count error. Expected 283 Actual 284
+TEST FAILED: Deck count error. Expected 85 Actual 84
+Smithy Card: Test 378
+TEST FAILED: Hand count error. Expected 456 Actual 457
+TEST FAILED: Deck count error. Expected 41 Actual 40
+Smithy Card: Test 379
+TEST FAILED: Hand count error. Expected 314 Actual 315
+TEST FAILED: Deck count error. Expected 4 Actual 3
+Smithy Card: Test 380
+TEST FAILED: Hand count error. Expected 230 Actual 231
+TEST FAILED: Deck count error. Expected 136 Actual 135
+Smithy Card: Test 381
+TEST FAILED: Hand count error. Expected 452 Actual 453
+TEST FAILED: Deck count error. Expected 46 Actual 45
+Smithy Card: Test 382
+TEST FAILED: Hand count error. Expected 300 Actual 301
+TEST FAILED: Deck count error. Expected 189 Actual 188
+Smithy Card: Test 383
+TEST FAILED: Hand count error. Expected 218 Actual 219
+TEST FAILED: Deck count error. Expected 213 Actual 212
+Smithy Card: Test 384
+TEST FAILED: Hand count error. Expected 131 Actual 132
+TEST FAILED: Deck count error. Expected 173 Actual 172
+Smithy Card: Test 385
+TEST FAILED: Hand count error. Expected 247 Actual 248
+TEST FAILED: Deck count error. Expected 217 Actual 216
+Smithy Card: Test 386
+TEST FAILED: Hand count error. Expected 129 Actual 130
+TEST FAILED: Deck count error. Expected 354 Actual 353
+Smithy Card: Test 387
+TEST FAILED: Hand count error. Expected 98 Actual 99
+TEST FAILED: Deck count error. Expected 166 Actual 165
+Smithy Card: Test 388
+TEST FAILED: Hand count error. Expected 203 Actual 204
+TEST FAILED: Deck count error. Expected 278 Actual 277
+Smithy Card: Test 389
+TEST FAILED: Hand count error. Expected 43 Actual 44
+TEST FAILED: Deck count error. Expected 184 Actual 183
+Smithy Card: Test 390
+TEST FAILED: Hand count error. Expected 180 Actual 181
+TEST FAILED: Deck count error. Expected 53 Actual 52
+Smithy Card: Test 391
+TEST FAILED: Hand count error. Expected 111 Actual 112
+TEST FAILED: Deck count error. Expected 108 Actual 107
+Smithy Card: Test 392
+TEST FAILED: Hand count error. Expected 241 Actual 242
+TEST FAILED: Deck count error. Expected 177 Actual 176
+Smithy Card: Test 393
+TEST FAILED: Hand count error. Expected 388 Actual 389
+TEST FAILED: Deck count error. Expected 11 Actual 10
+Smithy Card: Test 394
+TEST FAILED: Hand count error. Expected 317 Actual 318
+TEST FAILED: Deck count error. Expected 103 Actual 102
+Smithy Card: Test 395
+TEST FAILED: Hand count error. Expected 261 Actual 262
+TEST FAILED: Deck count error. Expected 169 Actual 168
+Smithy Card: Test 396
+TEST FAILED: Hand count error. Expected 20 Actual 21
+TEST FAILED: Deck count error. Expected 434 Actual 433
+Smithy Card: Test 397
+TEST FAILED: Hand count error. Expected 468 Actual 469
+TEST FAILED: Deck count error. Expected 31 Actual 30
+Smithy Card: Test 398
+TEST FAILED: Hand count error. Expected 206 Actual 207
+TEST FAILED: Deck count error. Expected 188 Actual 187
+Smithy Card: Test 399
+TEST FAILED: Hand count error. Expected 278 Actual 279
+TEST FAILED: Deck count error. Expected 202 Actual 201
+Smithy Card: Test 400
+TEST FAILED: Hand count error. Expected 332 Actual 333
+TEST FAILED: Deck count error. Expected 2 Actual 1
+Smithy Card: Test 401
+TEST FAILED: Hand count error. Expected 75 Actual 76
+TEST FAILED: Deck count error. Expected 50 Actual 49
+Smithy Card: Test 402
+TEST FAILED: Hand count error. Expected 283 Actual 284
+TEST FAILED: Deck count error. Expected 85 Actual 84
+Smithy Card: Test 403
+TEST FAILED: Hand count error. Expected 456 Actual 457
+TEST FAILED: Deck count error. Expected 41 Actual 40
+Smithy Card: Test 404
+TEST FAILED: Hand count error. Expected 314 Actual 315
+TEST FAILED: Deck count error. Expected 4 Actual 3
+Smithy Card: Test 405
+TEST FAILED: Hand count error. Expected 230 Actual 231
+TEST FAILED: Deck count error. Expected 136 Actual 135
+Smithy Card: Test 406
+TEST FAILED: Hand count error. Expected 452 Actual 453
+TEST FAILED: Deck count error. Expected 46 Actual 45
+Smithy Card: Test 407
+TEST FAILED: Hand count error. Expected 300 Actual 301
+TEST FAILED: Deck count error. Expected 189 Actual 188
+Smithy Card: Test 408
+TEST FAILED: Hand count error. Expected 218 Actual 219
+TEST FAILED: Deck count error. Expected 213 Actual 212
+Smithy Card: Test 409
+TEST FAILED: Hand count error. Expected 131 Actual 132
+TEST FAILED: Deck count error. Expected 173 Actual 172
+Smithy Card: Test 410
+TEST FAILED: Hand count error. Expected 247 Actual 248
+TEST FAILED: Deck count error. Expected 217 Actual 216
+Smithy Card: Test 411
+TEST FAILED: Hand count error. Expected 129 Actual 130
+TEST FAILED: Deck count error. Expected 354 Actual 353
+Smithy Card: Test 412
+TEST FAILED: Hand count error. Expected 98 Actual 99
+TEST FAILED: Deck count error. Expected 166 Actual 165
+Smithy Card: Test 413
+TEST FAILED: Hand count error. Expected 203 Actual 204
+TEST FAILED: Deck count error. Expected 278 Actual 277
+Smithy Card: Test 414
+TEST FAILED: Hand count error. Expected 43 Actual 44
+TEST FAILED: Deck count error. Expected 184 Actual 183
+Smithy Card: Test 415
+TEST FAILED: Hand count error. Expected 180 Actual 181
+TEST FAILED: Deck count error. Expected 53 Actual 52
+Smithy Card: Test 416
+TEST FAILED: Hand count error. Expected 111 Actual 112
+TEST FAILED: Deck count error. Expected 108 Actual 107
+Smithy Card: Test 417
+TEST FAILED: Hand count error. Expected 241 Actual 242
+TEST FAILED: Deck count error. Expected 177 Actual 176
+Smithy Card: Test 418
+TEST FAILED: Hand count error. Expected 388 Actual 389
+TEST FAILED: Deck count error. Expected 11 Actual 10
+Smithy Card: Test 419
+TEST FAILED: Hand count error. Expected 317 Actual 318
+TEST FAILED: Deck count error. Expected 103 Actual 102
+Smithy Card: Test 420
+TEST FAILED: Hand count error. Expected 261 Actual 262
+TEST FAILED: Deck count error. Expected 169 Actual 168
+Smithy Card: Test 421
+TEST FAILED: Hand count error. Expected 20 Actual 21
+TEST FAILED: Deck count error. Expected 434 Actual 433
+Smithy Card: Test 422
+TEST FAILED: Hand count error. Expected 468 Actual 469
+TEST FAILED: Deck count error. Expected 31 Actual 30
+Smithy Card: Test 423
+TEST FAILED: Hand count error. Expected 206 Actual 207
+TEST FAILED: Deck count error. Expected 188 Actual 187
+Smithy Card: Test 424
+TEST FAILED: Hand count error. Expected 278 Actual 279
+TEST FAILED: Deck count error. Expected 202 Actual 201
+Smithy Card: Test 425
+TEST FAILED: Hand count error. Expected 332 Actual 333
+TEST FAILED: Deck count error. Expected 2 Actual 1
+Smithy Card: Test 426
+TEST FAILED: Hand count error. Expected 75 Actual 76
+TEST FAILED: Deck count error. Expected 50 Actual 49
+Smithy Card: Test 427
+TEST FAILED: Hand count error. Expected 283 Actual 284
+TEST FAILED: Deck count error. Expected 85 Actual 84
+Smithy Card: Test 428
+TEST FAILED: Hand count error. Expected 456 Actual 457
+TEST FAILED: Deck count error. Expected 41 Actual 40
+Smithy Card: Test 429
+TEST FAILED: Hand count error. Expected 314 Actual 315
+TEST FAILED: Deck count error. Expected 4 Actual 3
+Smithy Card: Test 430
+TEST FAILED: Hand count error. Expected 230 Actual 231
+TEST FAILED: Deck count error. Expected 136 Actual 135
+Smithy Card: Test 431
+TEST FAILED: Hand count error. Expected 452 Actual 453
+TEST FAILED: Deck count error. Expected 46 Actual 45
+Smithy Card: Test 432
+TEST FAILED: Hand count error. Expected 300 Actual 301
+TEST FAILED: Deck count error. Expected 189 Actual 188
+Smithy Card: Test 433
+TEST FAILED: Hand count error. Expected 218 Actual 219
+TEST FAILED: Deck count error. Expected 213 Actual 212
+Smithy Card: Test 434
+TEST FAILED: Hand count error. Expected 131 Actual 132
+TEST FAILED: Deck count error. Expected 173 Actual 172
+Smithy Card: Test 435
+TEST FAILED: Hand count error. Expected 247 Actual 248
+TEST FAILED: Deck count error. Expected 217 Actual 216
+Smithy Card: Test 436
+TEST FAILED: Hand count error. Expected 129 Actual 130
+TEST FAILED: Deck count error. Expected 354 Actual 353
+Smithy Card: Test 437
+TEST FAILED: Hand count error. Expected 98 Actual 99
+TEST FAILED: Deck count error. Expected 166 Actual 165
+Smithy Card: Test 438
+TEST FAILED: Hand count error. Expected 203 Actual 204
+TEST FAILED: Deck count error. Expected 278 Actual 277
+Smithy Card: Test 439
+TEST FAILED: Hand count error. Expected 43 Actual 44
+TEST FAILED: Deck count error. Expected 184 Actual 183
+Smithy Card: Test 440
+TEST FAILED: Hand count error. Expected 180 Actual 181
+TEST FAILED: Deck count error. Expected 53 Actual 52
+Smithy Card: Test 441
+TEST FAILED: Hand count error. Expected 111 Actual 112
+TEST FAILED: Deck count error. Expected 108 Actual 107
+Smithy Card: Test 442
+TEST FAILED: Hand count error. Expected 241 Actual 242
+TEST FAILED: Deck count error. Expected 177 Actual 176
+Smithy Card: Test 443
+TEST FAILED: Hand count error. Expected 388 Actual 389
+TEST FAILED: Deck count error. Expected 11 Actual 10
+Smithy Card: Test 444
+TEST FAILED: Hand count error. Expected 317 Actual 318
+TEST FAILED: Deck count error. Expected 103 Actual 102
+Smithy Card: Test 445
+TEST FAILED: Hand count error. Expected 261 Actual 262
+TEST FAILED: Deck count error. Expected 169 Actual 168
+Smithy Card: Test 446
+TEST FAILED: Hand count error. Expected 20 Actual 21
+TEST FAILED: Deck count error. Expected 434 Actual 433
+Smithy Card: Test 447
+TEST FAILED: Hand count error. Expected 468 Actual 469
+TEST FAILED: Deck count error. Expected 31 Actual 30
+Smithy Card: Test 448
+TEST FAILED: Hand count error. Expected 206 Actual 207
+TEST FAILED: Deck count error. Expected 188 Actual 187
+Smithy Card: Test 449
+TEST FAILED: Hand count error. Expected 278 Actual 279
+TEST FAILED: Deck count error. Expected 202 Actual 201
+Smithy Card: Test 450
+TEST FAILED: Hand count error. Expected 332 Actual 333
+TEST FAILED: Deck count error. Expected 2 Actual 1
+Smithy Card: Test 451
+TEST FAILED: Hand count error. Expected 75 Actual 76
+TEST FAILED: Deck count error. Expected 50 Actual 49
+Smithy Card: Test 452
+TEST FAILED: Hand count error. Expected 283 Actual 284
+TEST FAILED: Deck count error. Expected 85 Actual 84
+Smithy Card: Test 453
+TEST FAILED: Hand count error. Expected 456 Actual 457
+TEST FAILED: Deck count error. Expected 41 Actual 40
+Smithy Card: Test 454
+TEST FAILED: Hand count error. Expected 314 Actual 315
+TEST FAILED: Deck count error. Expected 4 Actual 3
+Smithy Card: Test 455
+TEST FAILED: Hand count error. Expected 230 Actual 231
+TEST FAILED: Deck count error. Expected 136 Actual 135
+Smithy Card: Test 456
+TEST FAILED: Hand count error. Expected 452 Actual 453
+TEST FAILED: Deck count error. Expected 46 Actual 45
+Smithy Card: Test 457
+TEST FAILED: Hand count error. Expected 300 Actual 301
+TEST FAILED: Deck count error. Expected 189 Actual 188
+Smithy Card: Test 458
+TEST FAILED: Hand count error. Expected 218 Actual 219
+TEST FAILED: Deck count error. Expected 213 Actual 212
+Smithy Card: Test 459
+TEST FAILED: Hand count error. Expected 131 Actual 132
+TEST FAILED: Deck count error. Expected 173 Actual 172
+Smithy Card: Test 460
+TEST FAILED: Hand count error. Expected 247 Actual 248
+TEST FAILED: Deck count error. Expected 217 Actual 216
+Smithy Card: Test 461
+TEST FAILED: Hand count error. Expected 129 Actual 130
+TEST FAILED: Deck count error. Expected 354 Actual 353
+Smithy Card: Test 462
+TEST FAILED: Hand count error. Expected 98 Actual 99
+TEST FAILED: Deck count error. Expected 166 Actual 165
+Smithy Card: Test 463
+TEST FAILED: Hand count error. Expected 203 Actual 204
+TEST FAILED: Deck count error. Expected 278 Actual 277
+Smithy Card: Test 464
+TEST FAILED: Hand count error. Expected 43 Actual 44
+TEST FAILED: Deck count error. Expected 184 Actual 183
+Smithy Card: Test 465
+TEST FAILED: Hand count error. Expected 180 Actual 181
+TEST FAILED: Deck count error. Expected 53 Actual 52
+Smithy Card: Test 466
+TEST FAILED: Hand count error. Expected 111 Actual 112
+TEST FAILED: Deck count error. Expected 108 Actual 107
+Smithy Card: Test 467
+TEST FAILED: Hand count error. Expected 241 Actual 242
+TEST FAILED: Deck count error. Expected 177 Actual 176
+Smithy Card: Test 468
+TEST FAILED: Hand count error. Expected 388 Actual 389
+TEST FAILED: Deck count error. Expected 11 Actual 10
+Smithy Card: Test 469
+TEST FAILED: Hand count error. Expected 317 Actual 318
+TEST FAILED: Deck count error. Expected 103 Actual 102
+Smithy Card: Test 470
+TEST FAILED: Hand count error. Expected 261 Actual 262
+TEST FAILED: Deck count error. Expected 169 Actual 168
+Smithy Card: Test 471
+TEST FAILED: Hand count error. Expected 20 Actual 21
+TEST FAILED: Deck count error. Expected 434 Actual 433
+Smithy Card: Test 472
+TEST FAILED: Hand count error. Expected 468 Actual 469
+TEST FAILED: Deck count error. Expected 31 Actual 30
+Smithy Card: Test 473
+TEST FAILED: Hand count error. Expected 206 Actual 207
+TEST FAILED: Deck count error. Expected 188 Actual 187
+Smithy Card: Test 474
+TEST FAILED: Hand count error. Expected 278 Actual 279
+TEST FAILED: Deck count error. Expected 202 Actual 201
+Smithy Card: Test 475
+TEST FAILED: Hand count error. Expected 332 Actual 333
+TEST FAILED: Deck count error. Expected 2 Actual 1
+Smithy Card: Test 476
+TEST FAILED: Hand count error. Expected 75 Actual 76
+TEST FAILED: Deck count error. Expected 50 Actual 49
+Smithy Card: Test 477
+TEST FAILED: Hand count error. Expected 283 Actual 284
+TEST FAILED: Deck count error. Expected 85 Actual 84
+Smithy Card: Test 478
+TEST FAILED: Hand count error. Expected 456 Actual 457
+TEST FAILED: Deck count error. Expected 41 Actual 40
+Smithy Card: Test 479
+TEST FAILED: Hand count error. Expected 314 Actual 315
+TEST FAILED: Deck count error. Expected 4 Actual 3
+Smithy Card: Test 480
+TEST FAILED: Hand count error. Expected 230 Actual 231
+TEST FAILED: Deck count error. Expected 136 Actual 135
+Smithy Card: Test 481
+TEST FAILED: Hand count error. Expected 452 Actual 453
+TEST FAILED: Deck count error. Expected 46 Actual 45
+Smithy Card: Test 482
+TEST FAILED: Hand count error. Expected 300 Actual 301
+TEST FAILED: Deck count error. Expected 189 Actual 188
+Smithy Card: Test 483
+TEST FAILED: Hand count error. Expected 218 Actual 219
+TEST FAILED: Deck count error. Expected 213 Actual 212
+Smithy Card: Test 484
+TEST FAILED: Hand count error. Expected 131 Actual 132
+TEST FAILED: Deck count error. Expected 173 Actual 172
+Smithy Card: Test 485
+TEST FAILED: Hand count error. Expected 247 Actual 248
+TEST FAILED: Deck count error. Expected 217 Actual 216
+Smithy Card: Test 486
+TEST FAILED: Hand count error. Expected 129 Actual 130
+TEST FAILED: Deck count error. Expected 354 Actual 353
+Smithy Card: Test 487
+TEST FAILED: Hand count error. Expected 98 Actual 99
+TEST FAILED: Deck count error. Expected 166 Actual 165
+Smithy Card: Test 488
+TEST FAILED: Hand count error. Expected 203 Actual 204
+TEST FAILED: Deck count error. Expected 278 Actual 277
+Smithy Card: Test 489
+TEST FAILED: Hand count error. Expected 43 Actual 44
+TEST FAILED: Deck count error. Expected 184 Actual 183
+Smithy Card: Test 490
+TEST FAILED: Hand count error. Expected 180 Actual 181
+TEST FAILED: Deck count error. Expected 53 Actual 52
+Smithy Card: Test 491
+TEST FAILED: Hand count error. Expected 111 Actual 112
+TEST FAILED: Deck count error. Expected 108 Actual 107
+Smithy Card: Test 492
+TEST FAILED: Hand count error. Expected 241 Actual 242
+TEST FAILED: Deck count error. Expected 177 Actual 176
+Smithy Card: Test 493
+TEST FAILED: Hand count error. Expected 388 Actual 389
+TEST FAILED: Deck count error. Expected 11 Actual 10
+Smithy Card: Test 494
+TEST FAILED: Hand count error. Expected 317 Actual 318
+TEST FAILED: Deck count error. Expected 103 Actual 102
+Smithy Card: Test 495
+TEST FAILED: Hand count error. Expected 261 Actual 262
+TEST FAILED: Deck count error. Expected 169 Actual 168
+Smithy Card: Test 496
+TEST FAILED: Hand count error. Expected 20 Actual 21
+TEST FAILED: Deck count error. Expected 434 Actual 433
+Smithy Card: Test 497
+TEST FAILED: Hand count error. Expected 468 Actual 469
+TEST FAILED: Deck count error. Expected 31 Actual 30
+Smithy Card: Test 498
+TEST FAILED: Hand count error. Expected 206 Actual 207
+TEST FAILED: Deck count error. Expected 188 Actual 187
+Smithy Card: Test 499
+TEST FAILED: Hand count error. Expected 278 Actual 279
+TEST FAILED: Deck count error. Expected 202 Actual 201
+Smithy Card: Test 500
+TEST FAILED: Hand count error. Expected 332 Actual 333
+TEST FAILED: Deck count error. Expected 2 Actual 1
+Smithy Card: Test 501
+TEST FAILED: Hand count error. Expected 75 Actual 76
+TEST FAILED: Deck count error. Expected 50 Actual 49
+Smithy Card: Test 502
+TEST FAILED: Hand count error. Expected 283 Actual 284
+TEST FAILED: Deck count error. Expected 85 Actual 84
+Smithy Card: Test 503
+TEST FAILED: Hand count error. Expected 456 Actual 457
+TEST FAILED: Deck count error. Expected 41 Actual 40
+Smithy Card: Test 504
+TEST FAILED: Hand count error. Expected 314 Actual 315
+TEST FAILED: Deck count error. Expected 4 Actual 3
+Smithy Card: Test 505
+TEST FAILED: Hand count error. Expected 230 Actual 231
+TEST FAILED: Deck count error. Expected 136 Actual 135
+Smithy Card: Test 506
+TEST FAILED: Hand count error. Expected 452 Actual 453
+TEST FAILED: Deck count error. Expected 46 Actual 45
+Smithy Card: Test 507
+TEST FAILED: Hand count error. Expected 300 Actual 301
+TEST FAILED: Deck count error. Expected 189 Actual 188
+Smithy Card: Test 508
+TEST FAILED: Hand count error. Expected 218 Actual 219
+TEST FAILED: Deck count error. Expected 213 Actual 212
+Smithy Card: Test 509
+TEST FAILED: Hand count error. Expected 131 Actual 132
+TEST FAILED: Deck count error. Expected 173 Actual 172
+Smithy Card: Test 510
+TEST FAILED: Hand count error. Expected 247 Actual 248
+TEST FAILED: Deck count error. Expected 217 Actual 216
+Smithy Card: Test 511
+TEST FAILED: Hand count error. Expected 129 Actual 130
+TEST FAILED: Deck count error. Expected 354 Actual 353
+Smithy Card: Test 512
+TEST FAILED: Hand count error. Expected 98 Actual 99
+TEST FAILED: Deck count error. Expected 166 Actual 165
+Smithy Card: Test 513
+TEST FAILED: Hand count error. Expected 203 Actual 204
+TEST FAILED: Deck count error. Expected 278 Actual 277
+Smithy Card: Test 514
+TEST FAILED: Hand count error. Expected 43 Actual 44
+TEST FAILED: Deck count error. Expected 184 Actual 183
+Smithy Card: Test 515
+TEST FAILED: Hand count error. Expected 180 Actual 181
+TEST FAILED: Deck count error. Expected 53 Actual 52
+Smithy Card: Test 516
+TEST FAILED: Hand count error. Expected 111 Actual 112
+TEST FAILED: Deck count error. Expected 108 Actual 107
+Smithy Card: Test 517
+TEST FAILED: Hand count error. Expected 241 Actual 242
+TEST FAILED: Deck count error. Expected 177 Actual 176
+Smithy Card: Test 518
+TEST FAILED: Hand count error. Expected 388 Actual 389
+TEST FAILED: Deck count error. Expected 11 Actual 10
+Smithy Card: Test 519
+TEST FAILED: Hand count error. Expected 317 Actual 318
+TEST FAILED: Deck count error. Expected 103 Actual 102
+Smithy Card: Test 520
+TEST FAILED: Hand count error. Expected 261 Actual 262
+TEST FAILED: Deck count error. Expected 169 Actual 168
+Smithy Card: Test 521
+TEST FAILED: Hand count error. Expected 20 Actual 21
+TEST FAILED: Deck count error. Expected 434 Actual 433
+Smithy Card: Test 522
+TEST FAILED: Hand count error. Expected 468 Actual 469
+TEST FAILED: Deck count error. Expected 31 Actual 30
+Smithy Card: Test 523
+TEST FAILED: Hand count error. Expected 206 Actual 207
+TEST FAILED: Deck count error. Expected 188 Actual 187
+Smithy Card: Test 524
+TEST FAILED: Hand count error. Expected 278 Actual 279
+TEST FAILED: Deck count error. Expected 202 Actual 201
+Smithy Card: Test 525
+TEST FAILED: Hand count error. Expected 332 Actual 333
+TEST FAILED: Deck count error. Expected 2 Actual 1
+Smithy Card: Test 526
+TEST FAILED: Hand count error. Expected 75 Actual 76
+TEST FAILED: Deck count error. Expected 50 Actual 49
+Smithy Card: Test 527
+TEST FAILED: Hand count error. Expected 283 Actual 284
+TEST FAILED: Deck count error. Expected 85 Actual 84
+Smithy Card: Test 528
+TEST FAILED: Hand count error. Expected 456 Actual 457
+TEST FAILED: Deck count error. Expected 41 Actual 40
+Smithy Card: Test 529
+TEST FAILED: Hand count error. Expected 314 Actual 315
+TEST FAILED: Deck count error. Expected 4 Actual 3
+Smithy Card: Test 530
+TEST FAILED: Hand count error. Expected 230 Actual 231
+TEST FAILED: Deck count error. Expected 136 Actual 135
+Smithy Card: Test 531
+TEST FAILED: Hand count error. Expected 452 Actual 453
+TEST FAILED: Deck count error. Expected 46 Actual 45
+Smithy Card: Test 532
+TEST FAILED: Hand count error. Expected 300 Actual 301
+TEST FAILED: Deck count error. Expected 189 Actual 188
+Smithy Card: Test 533
+TEST FAILED: Hand count error. Expected 218 Actual 219
+TEST FAILED: Deck count error. Expected 213 Actual 212
+Smithy Card: Test 534
+TEST FAILED: Hand count error. Expected 131 Actual 132
+TEST FAILED: Deck count error. Expected 173 Actual 172
+Smithy Card: Test 535
+TEST FAILED: Hand count error. Expected 247 Actual 248
+TEST FAILED: Deck count error. Expected 217 Actual 216
+Smithy Card: Test 536
+TEST FAILED: Hand count error. Expected 129 Actual 130
+TEST FAILED: Deck count error. Expected 354 Actual 353
+Smithy Card: Test 537
+TEST FAILED: Hand count error. Expected 98 Actual 99
+TEST FAILED: Deck count error. Expected 166 Actual 165
+Smithy Card: Test 538
+TEST FAILED: Hand count error. Expected 203 Actual 204
+TEST FAILED: Deck count error. Expected 278 Actual 277
+Smithy Card: Test 539
+TEST FAILED: Hand count error. Expected 43 Actual 44
+TEST FAILED: Deck count error. Expected 184 Actual 183
+Smithy Card: Test 540
+TEST FAILED: Hand count error. Expected 180 Actual 181
+TEST FAILED: Deck count error. Expected 53 Actual 52
+Smithy Card: Test 541
+TEST FAILED: Hand count error. Expected 111 Actual 112
+TEST FAILED: Deck count error. Expected 108 Actual 107
+Smithy Card: Test 542
+TEST FAILED: Hand count error. Expected 241 Actual 242
+TEST FAILED: Deck count error. Expected 177 Actual 176
+Smithy Card: Test 543
+TEST FAILED: Hand count error. Expected 388 Actual 389
+TEST FAILED: Deck count error. Expected 11 Actual 10
+Smithy Card: Test 544
+TEST FAILED: Hand count error. Expected 317 Actual 318
+TEST FAILED: Deck count error. Expected 103 Actual 102
+Smithy Card: Test 545
+TEST FAILED: Hand count error. Expected 261 Actual 262
+TEST FAILED: Deck count error. Expected 169 Actual 168
+Smithy Card: Test 546
+TEST FAILED: Hand count error. Expected 20 Actual 21
+TEST FAILED: Deck count error. Expected 434 Actual 433
+Smithy Card: Test 547
+TEST FAILED: Hand count error. Expected 468 Actual 469
+TEST FAILED: Deck count error. Expected 31 Actual 30
+Smithy Card: Test 548
+TEST FAILED: Hand count error. Expected 206 Actual 207
+TEST FAILED: Deck count error. Expected 188 Actual 187
+Smithy Card: Test 549
+TEST FAILED: Hand count error. Expected 278 Actual 279
+TEST FAILED: Deck count error. Expected 202 Actual 201
+Smithy Card: Test 550
+TEST FAILED: Hand count error. Expected 332 Actual 333
+TEST FAILED: Deck count error. Expected 2 Actual 1
+Smithy Card: Test 551
+TEST FAILED: Hand count error. Expected 75 Actual 76
+TEST FAILED: Deck count error. Expected 50 Actual 49
+Smithy Card: Test 552
+TEST FAILED: Hand count error. Expected 283 Actual 284
+TEST FAILED: Deck count error. Expected 85 Actual 84
+Smithy Card: Test 553
+TEST FAILED: Hand count error. Expected 456 Actual 457
+TEST FAILED: Deck count error. Expected 41 Actual 40
+Smithy Card: Test 554
+TEST FAILED: Hand count error. Expected 314 Actual 315
+TEST FAILED: Deck count error. Expected 4 Actual 3
+Smithy Card: Test 555
+TEST FAILED: Hand count error. Expected 230 Actual 231
+TEST FAILED: Deck count error. Expected 136 Actual 135
+Smithy Card: Test 556
+TEST FAILED: Hand count error. Expected 452 Actual 453
+TEST FAILED: Deck count error. Expected 46 Actual 45
+Smithy Card: Test 557
+TEST FAILED: Hand count error. Expected 300 Actual 301
+TEST FAILED: Deck count error. Expected 189 Actual 188
+Smithy Card: Test 558
+TEST FAILED: Hand count error. Expected 218 Actual 219
+TEST FAILED: Deck count error. Expected 213 Actual 212
+Smithy Card: Test 559
+TEST FAILED: Hand count error. Expected 131 Actual 132
+TEST FAILED: Deck count error. Expected 173 Actual 172
+Smithy Card: Test 560
+TEST FAILED: Hand count error. Expected 247 Actual 248
+TEST FAILED: Deck count error. Expected 217 Actual 216
+Smithy Card: Test 561
+TEST FAILED: Hand count error. Expected 129 Actual 130
+TEST FAILED: Deck count error. Expected 354 Actual 353
+Smithy Card: Test 562
+TEST FAILED: Hand count error. Expected 98 Actual 99
+TEST FAILED: Deck count error. Expected 166 Actual 165
+Smithy Card: Test 563
+TEST FAILED: Hand count error. Expected 203 Actual 204
+TEST FAILED: Deck count error. Expected 278 Actual 277
+Smithy Card: Test 564
+TEST FAILED: Hand count error. Expected 43 Actual 44
+TEST FAILED: Deck count error. Expected 184 Actual 183
+Smithy Card: Test 565
+TEST FAILED: Hand count error. Expected 180 Actual 181
+TEST FAILED: Deck count error. Expected 53 Actual 52
+Smithy Card: Test 566
+TEST FAILED: Hand count error. Expected 111 Actual 112
+TEST FAILED: Deck count error. Expected 108 Actual 107
+Smithy Card: Test 567
+TEST FAILED: Hand count error. Expected 241 Actual 242
+TEST FAILED: Deck count error. Expected 177 Actual 176
+Smithy Card: Test 568
+TEST FAILED: Hand count error. Expected 388 Actual 389
+TEST FAILED: Deck count error. Expected 11 Actual 10
+Smithy Card: Test 569
+TEST FAILED: Hand count error. Expected 317 Actual 318
+TEST FAILED: Deck count error. Expected 103 Actual 102
+Smithy Card: Test 570
+TEST FAILED: Hand count error. Expected 261 Actual 262
+TEST FAILED: Deck count error. Expected 169 Actual 168
+Smithy Card: Test 571
+TEST FAILED: Hand count error. Expected 20 Actual 21
+TEST FAILED: Deck count error. Expected 434 Actual 433
+Smithy Card: Test 572
+TEST FAILED: Hand count error. Expected 468 Actual 469
+TEST FAILED: Deck count error. Expected 31 Actual 30
+Smithy Card: Test 573
+TEST FAILED: Hand count error. Expected 206 Actual 207
+TEST FAILED: Deck count error. Expected 188 Actual 187
+Smithy Card: Test 574
+TEST FAILED: Hand count error. Expected 278 Actual 279
+TEST FAILED: Deck count error. Expected 202 Actual 201
+Smithy Card: Test 575
+TEST FAILED: Hand count error. Expected 332 Actual 333
+TEST FAILED: Deck count error. Expected 2 Actual 1
+Smithy Card: Test 576
+TEST FAILED: Hand count error. Expected 75 Actual 76
+TEST FAILED: Deck count error. Expected 50 Actual 49
+Smithy Card: Test 577
+TEST FAILED: Hand count error. Expected 283 Actual 284
+TEST FAILED: Deck count error. Expected 85 Actual 84
+Smithy Card: Test 578
+TEST FAILED: Hand count error. Expected 456 Actual 457
+TEST FAILED: Deck count error. Expected 41 Actual 40
+Smithy Card: Test 579
+TEST FAILED: Hand count error. Expected 314 Actual 315
+TEST FAILED: Deck count error. Expected 4 Actual 3
+Smithy Card: Test 580
+TEST FAILED: Hand count error. Expected 230 Actual 231
+TEST FAILED: Deck count error. Expected 136 Actual 135
+Smithy Card: Test 581
+TEST FAILED: Hand count error. Expected 452 Actual 453
+TEST FAILED: Deck count error. Expected 46 Actual 45
+Smithy Card: Test 582
+TEST FAILED: Hand count error. Expected 300 Actual 301
+TEST FAILED: Deck count error. Expected 189 Actual 188
+Smithy Card: Test 583
+TEST FAILED: Hand count error. Expected 218 Actual 219
+TEST FAILED: Deck count error. Expected 213 Actual 212
+Smithy Card: Test 584
+TEST FAILED: Hand count error. Expected 131 Actual 132
+TEST FAILED: Deck count error. Expected 173 Actual 172
+Smithy Card: Test 585
+TEST FAILED: Hand count error. Expected 247 Actual 248
+TEST FAILED: Deck count error. Expected 217 Actual 216
+Smithy Card: Test 586
+TEST FAILED: Hand count error. Expected 129 Actual 130
+TEST FAILED: Deck count error. Expected 354 Actual 353
+Smithy Card: Test 587
+TEST FAILED: Hand count error. Expected 98 Actual 99
+TEST FAILED: Deck count error. Expected 166 Actual 165
+Smithy Card: Test 588
+TEST FAILED: Hand count error. Expected 203 Actual 204
+TEST FAILED: Deck count error. Expected 278 Actual 277
+Smithy Card: Test 589
+TEST FAILED: Hand count error. Expected 43 Actual 44
+TEST FAILED: Deck count error. Expected 184 Actual 183
+Smithy Card: Test 590
+TEST FAILED: Hand count error. Expected 180 Actual 181
+TEST FAILED: Deck count error. Expected 53 Actual 52
+Smithy Card: Test 591
+TEST FAILED: Hand count error. Expected 111 Actual 112
+TEST FAILED: Deck count error. Expected 108 Actual 107
+Smithy Card: Test 592
+TEST FAILED: Hand count error. Expected 241 Actual 242
+TEST FAILED: Deck count error. Expected 177 Actual 176
+Smithy Card: Test 593
+TEST FAILED: Hand count error. Expected 388 Actual 389
+TEST FAILED: Deck count error. Expected 11 Actual 10
+Smithy Card: Test 594
+TEST FAILED: Hand count error. Expected 317 Actual 318
+TEST FAILED: Deck count error. Expected 103 Actual 102
+Smithy Card: Test 595
+TEST FAILED: Hand count error. Expected 261 Actual 262
+TEST FAILED: Deck count error. Expected 169 Actual 168
+Smithy Card: Test 596
+TEST FAILED: Hand count error. Expected 20 Actual 21
+TEST FAILED: Deck count error. Expected 434 Actual 433
+Smithy Card: Test 597
+TEST FAILED: Hand count error. Expected 468 Actual 469
+TEST FAILED: Deck count error. Expected 31 Actual 30
+Smithy Card: Test 598
+TEST FAILED: Hand count error. Expected 206 Actual 207
+TEST FAILED: Deck count error. Expected 188 Actual 187
+Smithy Card: Test 599
+TEST FAILED: Hand count error. Expected 278 Actual 279
+TEST FAILED: Deck count error. Expected 202 Actual 201
+Smithy Card: Test 600
+TEST FAILED: Hand count error. Expected 332 Actual 333
+TEST FAILED: Deck count error. Expected 2 Actual 1
+Smithy Card: Test 601
+TEST FAILED: Hand count error. Expected 75 Actual 76
+TEST FAILED: Deck count error. Expected 50 Actual 49
+Smithy Card: Test 602
+TEST FAILED: Hand count error. Expected 283 Actual 284
+TEST FAILED: Deck count error. Expected 85 Actual 84
+Smithy Card: Test 603
+TEST FAILED: Hand count error. Expected 456 Actual 457
+TEST FAILED: Deck count error. Expected 41 Actual 40
+Smithy Card: Test 604
+TEST FAILED: Hand count error. Expected 314 Actual 315
+TEST FAILED: Deck count error. Expected 4 Actual 3
+Smithy Card: Test 605
+TEST FAILED: Hand count error. Expected 230 Actual 231
+TEST FAILED: Deck count error. Expected 136 Actual 135
+Smithy Card: Test 606
+TEST FAILED: Hand count error. Expected 452 Actual 453
+TEST FAILED: Deck count error. Expected 46 Actual 45
+Smithy Card: Test 607
+TEST FAILED: Hand count error. Expected 300 Actual 301
+TEST FAILED: Deck count error. Expected 189 Actual 188
+Smithy Card: Test 608
+TEST FAILED: Hand count error. Expected 218 Actual 219
+TEST FAILED: Deck count error. Expected 213 Actual 212
+Smithy Card: Test 609
+TEST FAILED: Hand count error. Expected 131 Actual 132
+TEST FAILED: Deck count error. Expected 173 Actual 172
+Smithy Card: Test 610
+TEST FAILED: Hand count error. Expected 247 Actual 248
+TEST FAILED: Deck count error. Expected 217 Actual 216
+Smithy Card: Test 611
+TEST FAILED: Hand count error. Expected 129 Actual 130
+TEST FAILED: Deck count error. Expected 354 Actual 353
+Smithy Card: Test 612
+TEST FAILED: Hand count error. Expected 98 Actual 99
+TEST FAILED: Deck count error. Expected 166 Actual 165
+Smithy Card: Test 613
+TEST FAILED: Hand count error. Expected 203 Actual 204
+TEST FAILED: Deck count error. Expected 278 Actual 277
+Smithy Card: Test 614
+TEST FAILED: Hand count error. Expected 43 Actual 44
+TEST FAILED: Deck count error. Expected 184 Actual 183
+Smithy Card: Test 615
+TEST FAILED: Hand count error. Expected 180 Actual 181
+TEST FAILED: Deck count error. Expected 53 Actual 52
+Smithy Card: Test 616
+TEST FAILED: Hand count error. Expected 111 Actual 112
+TEST FAILED: Deck count error. Expected 108 Actual 107
+Smithy Card: Test 617
+TEST FAILED: Hand count error. Expected 241 Actual 242
+TEST FAILED: Deck count error. Expected 177 Actual 176
+Smithy Card: Test 618
+TEST FAILED: Hand count error. Expected 388 Actual 389
+TEST FAILED: Deck count error. Expected 11 Actual 10
+Smithy Card: Test 619
+TEST FAILED: Hand count error. Expected 317 Actual 318
+TEST FAILED: Deck count error. Expected 103 Actual 102
+Smithy Card: Test 620
+TEST FAILED: Hand count error. Expected 261 Actual 262
+TEST FAILED: Deck count error. Expected 169 Actual 168
+Smithy Card: Test 621
+TEST FAILED: Hand count error. Expected 20 Actual 21
+TEST FAILED: Deck count error. Expected 434 Actual 433
+Smithy Card: Test 622
+TEST FAILED: Hand count error. Expected 468 Actual 469
+TEST FAILED: Deck count error. Expected 31 Actual 30
+Smithy Card: Test 623
+TEST FAILED: Hand count error. Expected 206 Actual 207
+TEST FAILED: Deck count error. Expected 188 Actual 187
+Smithy Card: Test 624
+TEST FAILED: Hand count error. Expected 278 Actual 279
+TEST FAILED: Deck count error. Expected 202 Actual 201
+Smithy Card: Test 625
+TEST FAILED: Hand count error. Expected 332 Actual 333
+TEST FAILED: Deck count error. Expected 2 Actual 1
+Smithy Card: Test 626
+TEST FAILED: Hand count error. Expected 75 Actual 76
+TEST FAILED: Deck count error. Expected 50 Actual 49
+Smithy Card: Test 627
+TEST FAILED: Hand count error. Expected 283 Actual 284
+TEST FAILED: Deck count error. Expected 85 Actual 84
+Smithy Card: Test 628
+TEST FAILED: Hand count error. Expected 456 Actual 457
+TEST FAILED: Deck count error. Expected 41 Actual 40
+Smithy Card: Test 629
+TEST FAILED: Hand count error. Expected 314 Actual 315
+TEST FAILED: Deck count error. Expected 4 Actual 3
+Smithy Card: Test 630
+TEST FAILED: Hand count error. Expected 230 Actual 231
+TEST FAILED: Deck count error. Expected 136 Actual 135
+Smithy Card: Test 631
+TEST FAILED: Hand count error. Expected 452 Actual 453
+TEST FAILED: Deck count error. Expected 46 Actual 45
+Smithy Card: Test 632
+TEST FAILED: Hand count error. Expected 300 Actual 301
+TEST FAILED: Deck count error. Expected 189 Actual 188
+Smithy Card: Test 633
+TEST FAILED: Hand count error. Expected 218 Actual 219
+TEST FAILED: Deck count error. Expected 213 Actual 212
+Smithy Card: Test 634
+TEST FAILED: Hand count error. Expected 131 Actual 132
+TEST FAILED: Deck count error. Expected 173 Actual 172
+Smithy Card: Test 635
+TEST FAILED: Hand count error. Expected 247 Actual 248
+TEST FAILED: Deck count error. Expected 217 Actual 216
+Smithy Card: Test 636
+TEST FAILED: Hand count error. Expected 129 Actual 130
+TEST FAILED: Deck count error. Expected 354 Actual 353
+Smithy Card: Test 637
+TEST FAILED: Hand count error. Expected 98 Actual 99
+TEST FAILED: Deck count error. Expected 166 Actual 165
+Smithy Card: Test 638
+TEST FAILED: Hand count error. Expected 203 Actual 204
+TEST FAILED: Deck count error. Expected 278 Actual 277
+Smithy Card: Test 639
+TEST FAILED: Hand count error. Expected 43 Actual 44
+TEST FAILED: Deck count error. Expected 184 Actual 183
+Smithy Card: Test 640
+TEST FAILED: Hand count error. Expected 180 Actual 181
+TEST FAILED: Deck count error. Expected 53 Actual 52
+Smithy Card: Test 641
+TEST FAILED: Hand count error. Expected 111 Actual 112
+TEST FAILED: Deck count error. Expected 108 Actual 107
+Smithy Card: Test 642
+TEST FAILED: Hand count error. Expected 241 Actual 242
+TEST FAILED: Deck count error. Expected 177 Actual 176
+Smithy Card: Test 643
+TEST FAILED: Hand count error. Expected 388 Actual 389
+TEST FAILED: Deck count error. Expected 11 Actual 10
+Smithy Card: Test 644
+TEST FAILED: Hand count error. Expected 317 Actual 318
+TEST FAILED: Deck count error. Expected 103 Actual 102
+Smithy Card: Test 645
+TEST FAILED: Hand count error. Expected 261 Actual 262
+TEST FAILED: Deck count error. Expected 169 Actual 168
+Smithy Card: Test 646
+TEST FAILED: Hand count error. Expected 20 Actual 21
+TEST FAILED: Deck count error. Expected 434 Actual 433
+Smithy Card: Test 647
+TEST FAILED: Hand count error. Expected 468 Actual 469
+TEST FAILED: Deck count error. Expected 31 Actual 30
+Smithy Card: Test 648
+TEST FAILED: Hand count error. Expected 206 Actual 207
+TEST FAILED: Deck count error. Expected 188 Actual 187
+Smithy Card: Test 649
+TEST FAILED: Hand count error. Expected 278 Actual 279
+TEST FAILED: Deck count error. Expected 202 Actual 201
+Smithy Card: Test 650
+TEST FAILED: Hand count error. Expected 332 Actual 333
+TEST FAILED: Deck count error. Expected 2 Actual 1
+Smithy Card: Test 651
+TEST FAILED: Hand count error. Expected 75 Actual 76
+TEST FAILED: Deck count error. Expected 50 Actual 49
+Smithy Card: Test 652
+TEST FAILED: Hand count error. Expected 283 Actual 284
+TEST FAILED: Deck count error. Expected 85 Actual 84
+Smithy Card: Test 653
+TEST FAILED: Hand count error. Expected 456 Actual 457
+TEST FAILED: Deck count error. Expected 41 Actual 40
+Smithy Card: Test 654
+TEST FAILED: Hand count error. Expected 314 Actual 315
+TEST FAILED: Deck count error. Expected 4 Actual 3
+Smithy Card: Test 655
+TEST FAILED: Hand count error. Expected 230 Actual 231
+TEST FAILED: Deck count error. Expected 136 Actual 135
+Smithy Card: Test 656
+TEST FAILED: Hand count error. Expected 452 Actual 453
+TEST FAILED: Deck count error. Expected 46 Actual 45
+Smithy Card: Test 657
+TEST FAILED: Hand count error. Expected 300 Actual 301
+TEST FAILED: Deck count error. Expected 189 Actual 188
+Smithy Card: Test 658
+TEST FAILED: Hand count error. Expected 218 Actual 219
+TEST FAILED: Deck count error. Expected 213 Actual 212
+Smithy Card: Test 659
+TEST FAILED: Hand count error. Expected 131 Actual 132
+TEST FAILED: Deck count error. Expected 173 Actual 172
+Smithy Card: Test 660
+TEST FAILED: Hand count error. Expected 247 Actual 248
+TEST FAILED: Deck count error. Expected 217 Actual 216
+Smithy Card: Test 661
+TEST FAILED: Hand count error. Expected 129 Actual 130
+TEST FAILED: Deck count error. Expected 354 Actual 353
+Smithy Card: Test 662
+TEST FAILED: Hand count error. Expected 98 Actual 99
+TEST FAILED: Deck count error. Expected 166 Actual 165
+Smithy Card: Test 663
+TEST FAILED: Hand count error. Expected 203 Actual 204
+TEST FAILED: Deck count error. Expected 278 Actual 277
+Smithy Card: Test 664
+TEST FAILED: Hand count error. Expected 43 Actual 44
+TEST FAILED: Deck count error. Expected 184 Actual 183
+Smithy Card: Test 665
+TEST FAILED: Hand count error. Expected 180 Actual 181
+TEST FAILED: Deck count error. Expected 53 Actual 52
+Smithy Card: Test 666
+TEST FAILED: Hand count error. Expected 111 Actual 112
+TEST FAILED: Deck count error. Expected 108 Actual 107
+Smithy Card: Test 667
+TEST FAILED: Hand count error. Expected 241 Actual 242
+TEST FAILED: Deck count error. Expected 177 Actual 176
+Smithy Card: Test 668
+TEST FAILED: Hand count error. Expected 388 Actual 389
+TEST FAILED: Deck count error. Expected 11 Actual 10
+Smithy Card: Test 669
+TEST FAILED: Hand count error. Expected 317 Actual 318
+TEST FAILED: Deck count error. Expected 103 Actual 102
+Smithy Card: Test 670
+TEST FAILED: Hand count error. Expected 261 Actual 262
+TEST FAILED: Deck count error. Expected 169 Actual 168
+Smithy Card: Test 671
+TEST FAILED: Hand count error. Expected 20 Actual 21
+TEST FAILED: Deck count error. Expected 434 Actual 433
+Smithy Card: Test 672
+TEST FAILED: Hand count error. Expected 468 Actual 469
+TEST FAILED: Deck count error. Expected 31 Actual 30
+Smithy Card: Test 673
+TEST FAILED: Hand count error. Expected 206 Actual 207
+TEST FAILED: Deck count error. Expected 188 Actual 187
+Smithy Card: Test 674
+TEST FAILED: Hand count error. Expected 278 Actual 279
+TEST FAILED: Deck count error. Expected 202 Actual 201
+Smithy Card: Test 675
+TEST FAILED: Hand count error. Expected 332 Actual 333
+TEST FAILED: Deck count error. Expected 2 Actual 1
+Smithy Card: Test 676
+TEST FAILED: Hand count error. Expected 75 Actual 76
+TEST FAILED: Deck count error. Expected 50 Actual 49
+Smithy Card: Test 677
+TEST FAILED: Hand count error. Expected 283 Actual 284
+TEST FAILED: Deck count error. Expected 85 Actual 84
+Smithy Card: Test 678
+TEST FAILED: Hand count error. Expected 456 Actual 457
+TEST FAILED: Deck count error. Expected 41 Actual 40
+Smithy Card: Test 679
+TEST FAILED: Hand count error. Expected 314 Actual 315
+TEST FAILED: Deck count error. Expected 4 Actual 3
+Smithy Card: Test 680
+TEST FAILED: Hand count error. Expected 230 Actual 231
+TEST FAILED: Deck count error. Expected 136 Actual 135
+Smithy Card: Test 681
+TEST FAILED: Hand count error. Expected 452 Actual 453
+TEST FAILED: Deck count error. Expected 46 Actual 45
+Smithy Card: Test 682
+TEST FAILED: Hand count error. Expected 300 Actual 301
+TEST FAILED: Deck count error. Expected 189 Actual 188
+Smithy Card: Test 683
+TEST FAILED: Hand count error. Expected 218 Actual 219
+TEST FAILED: Deck count error. Expected 213 Actual 212
+Smithy Card: Test 684
+TEST FAILED: Hand count error. Expected 131 Actual 132
+TEST FAILED: Deck count error. Expected 173 Actual 172
+Smithy Card: Test 685
+TEST FAILED: Hand count error. Expected 247 Actual 248
+TEST FAILED: Deck count error. Expected 217 Actual 216
+Smithy Card: Test 686
+TEST FAILED: Hand count error. Expected 129 Actual 130
+TEST FAILED: Deck count error. Expected 354 Actual 353
+Smithy Card: Test 687
+TEST FAILED: Hand count error. Expected 98 Actual 99
+TEST FAILED: Deck count error. Expected 166 Actual 165
+Smithy Card: Test 688
+TEST FAILED: Hand count error. Expected 203 Actual 204
+TEST FAILED: Deck count error. Expected 278 Actual 277
+Smithy Card: Test 689
+TEST FAILED: Hand count error. Expected 43 Actual 44
+TEST FAILED: Deck count error. Expected 184 Actual 183
+Smithy Card: Test 690
+TEST FAILED: Hand count error. Expected 180 Actual 181
+TEST FAILED: Deck count error. Expected 53 Actual 52
+Smithy Card: Test 691
+TEST FAILED: Hand count error. Expected 111 Actual 112
+TEST FAILED: Deck count error. Expected 108 Actual 107
+Smithy Card: Test 692
+TEST FAILED: Hand count error. Expected 241 Actual 242
+TEST FAILED: Deck count error. Expected 177 Actual 176
+Smithy Card: Test 693
+TEST FAILED: Hand count error. Expected 388 Actual 389
+TEST FAILED: Deck count error. Expected 11 Actual 10
+Smithy Card: Test 694
+TEST FAILED: Hand count error. Expected 317 Actual 318
+TEST FAILED: Deck count error. Expected 103 Actual 102
+Smithy Card: Test 695
+TEST FAILED: Hand count error. Expected 261 Actual 262
+TEST FAILED: Deck count error. Expected 169 Actual 168
+Smithy Card: Test 696
+TEST FAILED: Hand count error. Expected 20 Actual 21
+TEST FAILED: Deck count error. Expected 434 Actual 433
+Smithy Card: Test 697
+TEST FAILED: Hand count error. Expected 468 Actual 469
+TEST FAILED: Deck count error. Expected 31 Actual 30
+Smithy Card: Test 698
+TEST FAILED: Hand count error. Expected 206 Actual 207
+TEST FAILED: Deck count error. Expected 188 Actual 187
+Smithy Card: Test 699
+TEST FAILED: Hand count error. Expected 278 Actual 279
+TEST FAILED: Deck count error. Expected 202 Actual 201
+Smithy Card: Test 700
+TEST FAILED: Hand count error. Expected 332 Actual 333
+TEST FAILED: Deck count error. Expected 2 Actual 1
+Smithy Card: Test 701
+TEST FAILED: Hand count error. Expected 75 Actual 76
+TEST FAILED: Deck count error. Expected 50 Actual 49
+Smithy Card: Test 702
+TEST FAILED: Hand count error. Expected 283 Actual 284
+TEST FAILED: Deck count error. Expected 85 Actual 84
+Smithy Card: Test 703
+TEST FAILED: Hand count error. Expected 456 Actual 457
+TEST FAILED: Deck count error. Expected 41 Actual 40
+Smithy Card: Test 704
+TEST FAILED: Hand count error. Expected 314 Actual 315
+TEST FAILED: Deck count error. Expected 4 Actual 3
+Smithy Card: Test 705
+TEST FAILED: Hand count error. Expected 230 Actual 231
+TEST FAILED: Deck count error. Expected 136 Actual 135
+Smithy Card: Test 706
+TEST FAILED: Hand count error. Expected 452 Actual 453
+TEST FAILED: Deck count error. Expected 46 Actual 45
+Smithy Card: Test 707
+TEST FAILED: Hand count error. Expected 300 Actual 301
+TEST FAILED: Deck count error. Expected 189 Actual 188
+Smithy Card: Test 708
+TEST FAILED: Hand count error. Expected 218 Actual 219
+TEST FAILED: Deck count error. Expected 213 Actual 212
+Smithy Card: Test 709
+TEST FAILED: Hand count error. Expected 131 Actual 132
+TEST FAILED: Deck count error. Expected 173 Actual 172
+Smithy Card: Test 710
+TEST FAILED: Hand count error. Expected 247 Actual 248
+TEST FAILED: Deck count error. Expected 217 Actual 216
+Smithy Card: Test 711
+TEST FAILED: Hand count error. Expected 129 Actual 130
+TEST FAILED: Deck count error. Expected 354 Actual 353
+Smithy Card: Test 712
+TEST FAILED: Hand count error. Expected 98 Actual 99
+TEST FAILED: Deck count error. Expected 166 Actual 165
+Smithy Card: Test 713
+TEST FAILED: Hand count error. Expected 203 Actual 204
+TEST FAILED: Deck count error. Expected 278 Actual 277
+Smithy Card: Test 714
+TEST FAILED: Hand count error. Expected 43 Actual 44
+TEST FAILED: Deck count error. Expected 184 Actual 183
+Smithy Card: Test 715
+TEST FAILED: Hand count error. Expected 180 Actual 181
+TEST FAILED: Deck count error. Expected 53 Actual 52
+Smithy Card: Test 716
+TEST FAILED: Hand count error. Expected 111 Actual 112
+TEST FAILED: Deck count error. Expected 108 Actual 107
+Smithy Card: Test 717
+TEST FAILED: Hand count error. Expected 241 Actual 242
+TEST FAILED: Deck count error. Expected 177 Actual 176
+Smithy Card: Test 718
+TEST FAILED: Hand count error. Expected 388 Actual 389
+TEST FAILED: Deck count error. Expected 11 Actual 10
+Smithy Card: Test 719
+TEST FAILED: Hand count error. Expected 317 Actual 318
+TEST FAILED: Deck count error. Expected 103 Actual 102
+Smithy Card: Test 720
+TEST FAILED: Hand count error. Expected 261 Actual 262
+TEST FAILED: Deck count error. Expected 169 Actual 168
+Smithy Card: Test 721
+TEST FAILED: Hand count error. Expected 20 Actual 21
+TEST FAILED: Deck count error. Expected 434 Actual 433
+Smithy Card: Test 722
+TEST FAILED: Hand count error. Expected 468 Actual 469
+TEST FAILED: Deck count error. Expected 31 Actual 30
+Smithy Card: Test 723
+TEST FAILED: Hand count error. Expected 206 Actual 207
+TEST FAILED: Deck count error. Expected 188 Actual 187
+Smithy Card: Test 724
+TEST FAILED: Hand count error. Expected 278 Actual 279
+TEST FAILED: Deck count error. Expected 202 Actual 201
+Smithy Card: Test 725
+TEST FAILED: Hand count error. Expected 332 Actual 333
+TEST FAILED: Deck count error. Expected 2 Actual 1
+Smithy Card: Test 726
+TEST FAILED: Hand count error. Expected 75 Actual 76
+TEST FAILED: Deck count error. Expected 50 Actual 49
+Smithy Card: Test 727
+TEST FAILED: Hand count error. Expected 283 Actual 284
+TEST FAILED: Deck count error. Expected 85 Actual 84
+Smithy Card: Test 728
+TEST FAILED: Hand count error. Expected 456 Actual 457
+TEST FAILED: Deck count error. Expected 41 Actual 40
+Smithy Card: Test 729
+TEST FAILED: Hand count error. Expected 314 Actual 315
+TEST FAILED: Deck count error. Expected 4 Actual 3
+Smithy Card: Test 730
+TEST FAILED: Hand count error. Expected 230 Actual 231
+TEST FAILED: Deck count error. Expected 136 Actual 135
+Smithy Card: Test 731
+TEST FAILED: Hand count error. Expected 452 Actual 453
+TEST FAILED: Deck count error. Expected 46 Actual 45
+Smithy Card: Test 732
+TEST FAILED: Hand count error. Expected 300 Actual 301
+TEST FAILED: Deck count error. Expected 189 Actual 188
+Smithy Card: Test 733
+TEST FAILED: Hand count error. Expected 218 Actual 219
+TEST FAILED: Deck count error. Expected 213 Actual 212
+Smithy Card: Test 734
+TEST FAILED: Hand count error. Expected 131 Actual 132
+TEST FAILED: Deck count error. Expected 173 Actual 172
+Smithy Card: Test 735
+TEST FAILED: Hand count error. Expected 247 Actual 248
+TEST FAILED: Deck count error. Expected 217 Actual 216
+Smithy Card: Test 736
+TEST FAILED: Hand count error. Expected 129 Actual 130
+TEST FAILED: Deck count error. Expected 354 Actual 353
+Smithy Card: Test 737
+TEST FAILED: Hand count error. Expected 98 Actual 99
+TEST FAILED: Deck count error. Expected 166 Actual 165
+Smithy Card: Test 738
+TEST FAILED: Hand count error. Expected 203 Actual 204
+TEST FAILED: Deck count error. Expected 278 Actual 277
+Smithy Card: Test 739
+TEST FAILED: Hand count error. Expected 43 Actual 44
+TEST FAILED: Deck count error. Expected 184 Actual 183
+Smithy Card: Test 740
+TEST FAILED: Hand count error. Expected 180 Actual 181
+TEST FAILED: Deck count error. Expected 53 Actual 52
+Smithy Card: Test 741
+TEST FAILED: Hand count error. Expected 111 Actual 112
+TEST FAILED: Deck count error. Expected 108 Actual 107
+Smithy Card: Test 742
+TEST FAILED: Hand count error. Expected 241 Actual 242
+TEST FAILED: Deck count error. Expected 177 Actual 176
+Smithy Card: Test 743
+TEST FAILED: Hand count error. Expected 388 Actual 389
+TEST FAILED: Deck count error. Expected 11 Actual 10
+Smithy Card: Test 744
+TEST FAILED: Hand count error. Expected 317 Actual 318
+TEST FAILED: Deck count error. Expected 103 Actual 102
+Smithy Card: Test 745
+TEST FAILED: Hand count error. Expected 261 Actual 262
+TEST FAILED: Deck count error. Expected 169 Actual 168
+Smithy Card: Test 746
+TEST FAILED: Hand count error. Expected 20 Actual 21
+TEST FAILED: Deck count error. Expected 434 Actual 433
+Smithy Card: Test 747
+TEST FAILED: Hand count error. Expected 468 Actual 469
+TEST FAILED: Deck count error. Expected 31 Actual 30
+Smithy Card: Test 748
+TEST FAILED: Hand count error. Expected 206 Actual 207
+TEST FAILED: Deck count error. Expected 188 Actual 187
+Smithy Card: Test 749
+TEST FAILED: Hand count error. Expected 278 Actual 279
+TEST FAILED: Deck count error. Expected 202 Actual 201
+Smithy Card: Test 750
+TEST FAILED: Hand count error. Expected 332 Actual 333
+TEST FAILED: Deck count error. Expected 2 Actual 1
+Smithy Card: Test 751
+TEST FAILED: Hand count error. Expected 75 Actual 76
+TEST FAILED: Deck count error. Expected 50 Actual 49
+Smithy Card: Test 752
+TEST FAILED: Hand count error. Expected 283 Actual 284
+TEST FAILED: Deck count error. Expected 85 Actual 84
+Smithy Card: Test 753
+TEST FAILED: Hand count error. Expected 456 Actual 457
+TEST FAILED: Deck count error. Expected 41 Actual 40
+Smithy Card: Test 754
+TEST FAILED: Hand count error. Expected 314 Actual 315
+TEST FAILED: Deck count error. Expected 4 Actual 3
+Smithy Card: Test 755
+TEST FAILED: Hand count error. Expected 230 Actual 231
+TEST FAILED: Deck count error. Expected 136 Actual 135
+Smithy Card: Test 756
+TEST FAILED: Hand count error. Expected 452 Actual 453
+TEST FAILED: Deck count error. Expected 46 Actual 45
+Smithy Card: Test 757
+TEST FAILED: Hand count error. Expected 300 Actual 301
+TEST FAILED: Deck count error. Expected 189 Actual 188
+Smithy Card: Test 758
+TEST FAILED: Hand count error. Expected 218 Actual 219
+TEST FAILED: Deck count error. Expected 213 Actual 212
+Smithy Card: Test 759
+TEST FAILED: Hand count error. Expected 131 Actual 132
+TEST FAILED: Deck count error. Expected 173 Actual 172
+Smithy Card: Test 760
+TEST FAILED: Hand count error. Expected 247 Actual 248
+TEST FAILED: Deck count error. Expected 217 Actual 216
+Smithy Card: Test 761
+TEST FAILED: Hand count error. Expected 129 Actual 130
+TEST FAILED: Deck count error. Expected 354 Actual 353
+Smithy Card: Test 762
+TEST FAILED: Hand count error. Expected 98 Actual 99
+TEST FAILED: Deck count error. Expected 166 Actual 165
+Smithy Card: Test 763
+TEST FAILED: Hand count error. Expected 203 Actual 204
+TEST FAILED: Deck count error. Expected 278 Actual 277
+Smithy Card: Test 764
+TEST FAILED: Hand count error. Expected 43 Actual 44
+TEST FAILED: Deck count error. Expected 184 Actual 183
+Smithy Card: Test 765
+TEST FAILED: Hand count error. Expected 180 Actual 181
+TEST FAILED: Deck count error. Expected 53 Actual 52
+Smithy Card: Test 766
+TEST FAILED: Hand count error. Expected 111 Actual 112
+TEST FAILED: Deck count error. Expected 108 Actual 107
+Smithy Card: Test 767
+TEST FAILED: Hand count error. Expected 241 Actual 242
+TEST FAILED: Deck count error. Expected 177 Actual 176
+Smithy Card: Test 768
+TEST FAILED: Hand count error. Expected 388 Actual 389
+TEST FAILED: Deck count error. Expected 11 Actual 10
+Smithy Card: Test 769
+TEST FAILED: Hand count error. Expected 317 Actual 318
+TEST FAILED: Deck count error. Expected 103 Actual 102
+Smithy Card: Test 770
+TEST FAILED: Hand count error. Expected 261 Actual 262
+TEST FAILED: Deck count error. Expected 169 Actual 168
+Smithy Card: Test 771
+TEST FAILED: Hand count error. Expected 20 Actual 21
+TEST FAILED: Deck count error. Expected 434 Actual 433
+Smithy Card: Test 772
+TEST FAILED: Hand count error. Expected 468 Actual 469
+TEST FAILED: Deck count error. Expected 31 Actual 30
+Smithy Card: Test 773
+TEST FAILED: Hand count error. Expected 206 Actual 207
+TEST FAILED: Deck count error. Expected 188 Actual 187
+Smithy Card: Test 774
+TEST FAILED: Hand count error. Expected 278 Actual 279
+TEST FAILED: Deck count error. Expected 202 Actual 201
+Smithy Card: Test 775
+TEST FAILED: Hand count error. Expected 332 Actual 333
+TEST FAILED: Deck count error. Expected 2 Actual 1
+Smithy Card: Test 776
+TEST FAILED: Hand count error. Expected 75 Actual 76
+TEST FAILED: Deck count error. Expected 50 Actual 49
+Smithy Card: Test 777
+TEST FAILED: Hand count error. Expected 283 Actual 284
+TEST FAILED: Deck count error. Expected 85 Actual 84
+Smithy Card: Test 778
+TEST FAILED: Hand count error. Expected 456 Actual 457
+TEST FAILED: Deck count error. Expected 41 Actual 40
+Smithy Card: Test 779
+TEST FAILED: Hand count error. Expected 314 Actual 315
+TEST FAILED: Deck count error. Expected 4 Actual 3
+Smithy Card: Test 780
+TEST FAILED: Hand count error. Expected 230 Actual 231
+TEST FAILED: Deck count error. Expected 136 Actual 135
+Smithy Card: Test 781
+TEST FAILED: Hand count error. Expected 452 Actual 453
+TEST FAILED: Deck count error. Expected 46 Actual 45
+Smithy Card: Test 782
+TEST FAILED: Hand count error. Expected 300 Actual 301
+TEST FAILED: Deck count error. Expected 189 Actual 188
+Smithy Card: Test 783
+TEST FAILED: Hand count error. Expected 218 Actual 219
+TEST FAILED: Deck count error. Expected 213 Actual 212
+Smithy Card: Test 784
+TEST FAILED: Hand count error. Expected 131 Actual 132
+TEST FAILED: Deck count error. Expected 173 Actual 172
+Smithy Card: Test 785
+TEST FAILED: Hand count error. Expected 247 Actual 248
+TEST FAILED: Deck count error. Expected 217 Actual 216
+Smithy Card: Test 786
+TEST FAILED: Hand count error. Expected 129 Actual 130
+TEST FAILED: Deck count error. Expected 354 Actual 353
+Smithy Card: Test 787
+TEST FAILED: Hand count error. Expected 98 Actual 99
+TEST FAILED: Deck count error. Expected 166 Actual 165
+Smithy Card: Test 788
+TEST FAILED: Hand count error. Expected 203 Actual 204
+TEST FAILED: Deck count error. Expected 278 Actual 277
+Smithy Card: Test 789
+TEST FAILED: Hand count error. Expected 43 Actual 44
+TEST FAILED: Deck count error. Expected 184 Actual 183
+Smithy Card: Test 790
+TEST FAILED: Hand count error. Expected 180 Actual 181
+TEST FAILED: Deck count error. Expected 53 Actual 52
+Smithy Card: Test 791
+TEST FAILED: Hand count error. Expected 111 Actual 112
+TEST FAILED: Deck count error. Expected 108 Actual 107
+Smithy Card: Test 792
+TEST FAILED: Hand count error. Expected 241 Actual 242
+TEST FAILED: Deck count error. Expected 177 Actual 176
+Smithy Card: Test 793
+TEST FAILED: Hand count error. Expected 388 Actual 389
+TEST FAILED: Deck count error. Expected 11 Actual 10
+Smithy Card: Test 794
+TEST FAILED: Hand count error. Expected 317 Actual 318
+TEST FAILED: Deck count error. Expected 103 Actual 102
+Smithy Card: Test 795
+TEST FAILED: Hand count error. Expected 261 Actual 262
+TEST FAILED: Deck count error. Expected 169 Actual 168
+Smithy Card: Test 796
+TEST FAILED: Hand count error. Expected 20 Actual 21
+TEST FAILED: Deck count error. Expected 434 Actual 433
+Smithy Card: Test 797
+TEST FAILED: Hand count error. Expected 468 Actual 469
+TEST FAILED: Deck count error. Expected 31 Actual 30
+Smithy Card: Test 798
+TEST FAILED: Hand count error. Expected 206 Actual 207
+TEST FAILED: Deck count error. Expected 188 Actual 187
+Smithy Card: Test 799
+TEST FAILED: Hand count error. Expected 278 Actual 279
+TEST FAILED: Deck count error. Expected 202 Actual 201
+Smithy Card: Test 800
+TEST FAILED: Hand count error. Expected 332 Actual 333
+TEST FAILED: Deck count error. Expected 2 Actual 1
+Smithy Card: Test 801
+TEST FAILED: Hand count error. Expected 75 Actual 76
+TEST FAILED: Deck count error. Expected 50 Actual 49
+Smithy Card: Test 802
+TEST FAILED: Hand count error. Expected 283 Actual 284
+TEST FAILED: Deck count error. Expected 85 Actual 84
+Smithy Card: Test 803
+TEST FAILED: Hand count error. Expected 456 Actual 457
+TEST FAILED: Deck count error. Expected 41 Actual 40
+Smithy Card: Test 804
+TEST FAILED: Hand count error. Expected 314 Actual 315
+TEST FAILED: Deck count error. Expected 4 Actual 3
+Smithy Card: Test 805
+TEST FAILED: Hand count error. Expected 230 Actual 231
+TEST FAILED: Deck count error. Expected 136 Actual 135
+Smithy Card: Test 806
+TEST FAILED: Hand count error. Expected 452 Actual 453
+TEST FAILED: Deck count error. Expected 46 Actual 45
+Smithy Card: Test 807
+TEST FAILED: Hand count error. Expected 300 Actual 301
+TEST FAILED: Deck count error. Expected 189 Actual 188
+Smithy Card: Test 808
+TEST FAILED: Hand count error. Expected 218 Actual 219
+TEST FAILED: Deck count error. Expected 213 Actual 212
+Smithy Card: Test 809
+TEST FAILED: Hand count error. Expected 131 Actual 132
+TEST FAILED: Deck count error. Expected 173 Actual 172
+Smithy Card: Test 810
+TEST FAILED: Hand count error. Expected 247 Actual 248
+TEST FAILED: Deck count error. Expected 217 Actual 216
+Smithy Card: Test 811
+TEST FAILED: Hand count error. Expected 129 Actual 130
+TEST FAILED: Deck count error. Expected 354 Actual 353
+Smithy Card: Test 812
+TEST FAILED: Hand count error. Expected 98 Actual 99
+TEST FAILED: Deck count error. Expected 166 Actual 165
+Smithy Card: Test 813
+TEST FAILED: Hand count error. Expected 203 Actual 204
+TEST FAILED: Deck count error. Expected 278 Actual 277
+Smithy Card: Test 814
+TEST FAILED: Hand count error. Expected 43 Actual 44
+TEST FAILED: Deck count error. Expected 184 Actual 183
+Smithy Card: Test 815
+TEST FAILED: Hand count error. Expected 180 Actual 181
+TEST FAILED: Deck count error. Expected 53 Actual 52
+Smithy Card: Test 816
+TEST FAILED: Hand count error. Expected 111 Actual 112
+TEST FAILED: Deck count error. Expected 108 Actual 107
+Smithy Card: Test 817
+TEST FAILED: Hand count error. Expected 241 Actual 242
+TEST FAILED: Deck count error. Expected 177 Actual 176
+Smithy Card: Test 818
+TEST FAILED: Hand count error. Expected 388 Actual 389
+TEST FAILED: Deck count error. Expected 11 Actual 10
+Smithy Card: Test 819
+TEST FAILED: Hand count error. Expected 317 Actual 318
+TEST FAILED: Deck count error. Expected 103 Actual 102
+Smithy Card: Test 820
+TEST FAILED: Hand count error. Expected 261 Actual 262
+TEST FAILED: Deck count error. Expected 169 Actual 168
+Smithy Card: Test 821
+TEST FAILED: Hand count error. Expected 20 Actual 21
+TEST FAILED: Deck count error. Expected 434 Actual 433
+Smithy Card: Test 822
+TEST FAILED: Hand count error. Expected 468 Actual 469
+TEST FAILED: Deck count error. Expected 31 Actual 30
+Smithy Card: Test 823
+TEST FAILED: Hand count error. Expected 206 Actual 207
+TEST FAILED: Deck count error. Expected 188 Actual 187
+Smithy Card: Test 824
+TEST FAILED: Hand count error. Expected 278 Actual 279
+TEST FAILED: Deck count error. Expected 202 Actual 201
+Smithy Card: Test 825
+TEST FAILED: Hand count error. Expected 332 Actual 333
+TEST FAILED: Deck count error. Expected 2 Actual 1
+Smithy Card: Test 826
+TEST FAILED: Hand count error. Expected 75 Actual 76
+TEST FAILED: Deck count error. Expected 50 Actual 49
+Smithy Card: Test 827
+TEST FAILED: Hand count error. Expected 283 Actual 284
+TEST FAILED: Deck count error. Expected 85 Actual 84
+Smithy Card: Test 828
+TEST FAILED: Hand count error. Expected 456 Actual 457
+TEST FAILED: Deck count error. Expected 41 Actual 40
+Smithy Card: Test 829
+TEST FAILED: Hand count error. Expected 314 Actual 315
+TEST FAILED: Deck count error. Expected 4 Actual 3
+Smithy Card: Test 830
+TEST FAILED: Hand count error. Expected 230 Actual 231
+TEST FAILED: Deck count error. Expected 136 Actual 135
+Smithy Card: Test 831
+TEST FAILED: Hand count error. Expected 452 Actual 453
+TEST FAILED: Deck count error. Expected 46 Actual 45
+Smithy Card: Test 832
+TEST FAILED: Hand count error. Expected 300 Actual 301
+TEST FAILED: Deck count error. Expected 189 Actual 188
+Smithy Card: Test 833
+TEST FAILED: Hand count error. Expected 218 Actual 219
+TEST FAILED: Deck count error. Expected 213 Actual 212
+Smithy Card: Test 834
+TEST FAILED: Hand count error. Expected 131 Actual 132
+TEST FAILED: Deck count error. Expected 173 Actual 172
+Smithy Card: Test 835
+TEST FAILED: Hand count error. Expected 247 Actual 248
+TEST FAILED: Deck count error. Expected 217 Actual 216
+Smithy Card: Test 836
+TEST FAILED: Hand count error. Expected 129 Actual 130
+TEST FAILED: Deck count error. Expected 354 Actual 353
+Smithy Card: Test 837
+TEST FAILED: Hand count error. Expected 98 Actual 99
+TEST FAILED: Deck count error. Expected 166 Actual 165
+Smithy Card: Test 838
+TEST FAILED: Hand count error. Expected 203 Actual 204
+TEST FAILED: Deck count error. Expected 278 Actual 277
+Smithy Card: Test 839
+TEST FAILED: Hand count error. Expected 43 Actual 44
+TEST FAILED: Deck count error. Expected 184 Actual 183
+Smithy Card: Test 840
+TEST FAILED: Hand count error. Expected 180 Actual 181
+TEST FAILED: Deck count error. Expected 53 Actual 52
+Smithy Card: Test 841
+TEST FAILED: Hand count error. Expected 111 Actual 112
+TEST FAILED: Deck count error. Expected 108 Actual 107
+Smithy Card: Test 842
+TEST FAILED: Hand count error. Expected 241 Actual 242
+TEST FAILED: Deck count error. Expected 177 Actual 176
+Smithy Card: Test 843
+TEST FAILED: Hand count error. Expected 388 Actual 389
+TEST FAILED: Deck count error. Expected 11 Actual 10
+Smithy Card: Test 844
+TEST FAILED: Hand count error. Expected 317 Actual 318
+TEST FAILED: Deck count error. Expected 103 Actual 102
+Smithy Card: Test 845
+TEST FAILED: Hand count error. Expected 261 Actual 262
+TEST FAILED: Deck count error. Expected 169 Actual 168
+Smithy Card: Test 846
+TEST FAILED: Hand count error. Expected 20 Actual 21
+TEST FAILED: Deck count error. Expected 434 Actual 433
+Smithy Card: Test 847
+TEST FAILED: Hand count error. Expected 468 Actual 469
+TEST FAILED: Deck count error. Expected 31 Actual 30
+Smithy Card: Test 848
+TEST FAILED: Hand count error. Expected 206 Actual 207
+TEST FAILED: Deck count error. Expected 188 Actual 187
+Smithy Card: Test 849
+TEST FAILED: Hand count error. Expected 278 Actual 279
+TEST FAILED: Deck count error. Expected 202 Actual 201
+Smithy Card: Test 850
+TEST FAILED: Hand count error. Expected 332 Actual 333
+TEST FAILED: Deck count error. Expected 2 Actual 1
+Smithy Card: Test 851
+TEST FAILED: Hand count error. Expected 75 Actual 76
+TEST FAILED: Deck count error. Expected 50 Actual 49
+Smithy Card: Test 852
+TEST FAILED: Hand count error. Expected 283 Actual 284
+TEST FAILED: Deck count error. Expected 85 Actual 84
+Smithy Card: Test 853
+TEST FAILED: Hand count error. Expected 456 Actual 457
+TEST FAILED: Deck count error. Expected 41 Actual 40
+Smithy Card: Test 854
+TEST FAILED: Hand count error. Expected 314 Actual 315
+TEST FAILED: Deck count error. Expected 4 Actual 3
+Smithy Card: Test 855
+TEST FAILED: Hand count error. Expected 230 Actual 231
+TEST FAILED: Deck count error. Expected 136 Actual 135
+Smithy Card: Test 856
+TEST FAILED: Hand count error. Expected 452 Actual 453
+TEST FAILED: Deck count error. Expected 46 Actual 45
+Smithy Card: Test 857
+TEST FAILED: Hand count error. Expected 300 Actual 301
+TEST FAILED: Deck count error. Expected 189 Actual 188
+Smithy Card: Test 858
+TEST FAILED: Hand count error. Expected 218 Actual 219
+TEST FAILED: Deck count error. Expected 213 Actual 212
+Smithy Card: Test 859
+TEST FAILED: Hand count error. Expected 131 Actual 132
+TEST FAILED: Deck count error. Expected 173 Actual 172
+Smithy Card: Test 860
+TEST FAILED: Hand count error. Expected 247 Actual 248
+TEST FAILED: Deck count error. Expected 217 Actual 216
+Smithy Card: Test 861
+TEST FAILED: Hand count error. Expected 129 Actual 130
+TEST FAILED: Deck count error. Expected 354 Actual 353
+Smithy Card: Test 862
+TEST FAILED: Hand count error. Expected 98 Actual 99
+TEST FAILED: Deck count error. Expected 166 Actual 165
+Smithy Card: Test 863
+TEST FAILED: Hand count error. Expected 203 Actual 204
+TEST FAILED: Deck count error. Expected 278 Actual 277
+Smithy Card: Test 864
+TEST FAILED: Hand count error. Expected 43 Actual 44
+TEST FAILED: Deck count error. Expected 184 Actual 183
+Smithy Card: Test 865
+TEST FAILED: Hand count error. Expected 180 Actual 181
+TEST FAILED: Deck count error. Expected 53 Actual 52
+Smithy Card: Test 866
+TEST FAILED: Hand count error. Expected 111 Actual 112
+TEST FAILED: Deck count error. Expected 108 Actual 107
+Smithy Card: Test 867
+TEST FAILED: Hand count error. Expected 241 Actual 242
+TEST FAILED: Deck count error. Expected 177 Actual 176
+Smithy Card: Test 868
+TEST FAILED: Hand count error. Expected 388 Actual 389
+TEST FAILED: Deck count error. Expected 11 Actual 10
+Smithy Card: Test 869
+TEST FAILED: Hand count error. Expected 317 Actual 318
+TEST FAILED: Deck count error. Expected 103 Actual 102
+Smithy Card: Test 870
+TEST FAILED: Hand count error. Expected 261 Actual 262
+TEST FAILED: Deck count error. Expected 169 Actual 168
+Smithy Card: Test 871
+TEST FAILED: Hand count error. Expected 20 Actual 21
+TEST FAILED: Deck count error. Expected 434 Actual 433
+Smithy Card: Test 872
+TEST FAILED: Hand count error. Expected 468 Actual 469
+TEST FAILED: Deck count error. Expected 31 Actual 30
+Smithy Card: Test 873
+TEST FAILED: Hand count error. Expected 206 Actual 207
+TEST FAILED: Deck count error. Expected 188 Actual 187
+Smithy Card: Test 874
+TEST FAILED: Hand count error. Expected 278 Actual 279
+TEST FAILED: Deck count error. Expected 202 Actual 201
+Smithy Card: Test 875
+TEST FAILED: Hand count error. Expected 332 Actual 333
+TEST FAILED: Deck count error. Expected 2 Actual 1
+Smithy Card: Test 876
+TEST FAILED: Hand count error. Expected 75 Actual 76
+TEST FAILED: Deck count error. Expected 50 Actual 49
+Smithy Card: Test 877
+TEST FAILED: Hand count error. Expected 283 Actual 284
+TEST FAILED: Deck count error. Expected 85 Actual 84
+Smithy Card: Test 878
+TEST FAILED: Hand count error. Expected 456 Actual 457
+TEST FAILED: Deck count error. Expected 41 Actual 40
+Smithy Card: Test 879
+TEST FAILED: Hand count error. Expected 314 Actual 315
+TEST FAILED: Deck count error. Expected 4 Actual 3
+Smithy Card: Test 880
+TEST FAILED: Hand count error. Expected 230 Actual 231
+TEST FAILED: Deck count error. Expected 136 Actual 135
+Smithy Card: Test 881
+TEST FAILED: Hand count error. Expected 452 Actual 453
+TEST FAILED: Deck count error. Expected 46 Actual 45
+Smithy Card: Test 882
+TEST FAILED: Hand count error. Expected 300 Actual 301
+TEST FAILED: Deck count error. Expected 189 Actual 188
+Smithy Card: Test 883
+TEST FAILED: Hand count error. Expected 218 Actual 219
+TEST FAILED: Deck count error. Expected 213 Actual 212
+Smithy Card: Test 884
+TEST FAILED: Hand count error. Expected 131 Actual 132
+TEST FAILED: Deck count error. Expected 173 Actual 172
+Smithy Card: Test 885
+TEST FAILED: Hand count error. Expected 247 Actual 248
+TEST FAILED: Deck count error. Expected 217 Actual 216
+Smithy Card: Test 886
+TEST FAILED: Hand count error. Expected 129 Actual 130
+TEST FAILED: Deck count error. Expected 354 Actual 353
+Smithy Card: Test 887
+TEST FAILED: Hand count error. Expected 98 Actual 99
+TEST FAILED: Deck count error. Expected 166 Actual 165
+Smithy Card: Test 888
+TEST FAILED: Hand count error. Expected 203 Actual 204
+TEST FAILED: Deck count error. Expected 278 Actual 277
+Smithy Card: Test 889
+TEST FAILED: Hand count error. Expected 43 Actual 44
+TEST FAILED: Deck count error. Expected 184 Actual 183
+Smithy Card: Test 890
+TEST FAILED: Hand count error. Expected 180 Actual 181
+TEST FAILED: Deck count error. Expected 53 Actual 52
+Smithy Card: Test 891
+TEST FAILED: Hand count error. Expected 111 Actual 112
+TEST FAILED: Deck count error. Expected 108 Actual 107
+Smithy Card: Test 892
+TEST FAILED: Hand count error. Expected 241 Actual 242
+TEST FAILED: Deck count error. Expected 177 Actual 176
+Smithy Card: Test 893
+TEST FAILED: Hand count error. Expected 388 Actual 389
+TEST FAILED: Deck count error. Expected 11 Actual 10
+Smithy Card: Test 894
+TEST FAILED: Hand count error. Expected 317 Actual 318
+TEST FAILED: Deck count error. Expected 103 Actual 102
+Smithy Card: Test 895
+TEST FAILED: Hand count error. Expected 261 Actual 262
+TEST FAILED: Deck count error. Expected 169 Actual 168
+Smithy Card: Test 896
+TEST FAILED: Hand count error. Expected 20 Actual 21
+TEST FAILED: Deck count error. Expected 434 Actual 433
+Smithy Card: Test 897
+TEST FAILED: Hand count error. Expected 468 Actual 469
+TEST FAILED: Deck count error. Expected 31 Actual 30
+Smithy Card: Test 898
+TEST FAILED: Hand count error. Expected 206 Actual 207
+TEST FAILED: Deck count error. Expected 188 Actual 187
+Smithy Card: Test 899
+TEST FAILED: Hand count error. Expected 278 Actual 279
+TEST FAILED: Deck count error. Expected 202 Actual 201
+Smithy Card: Test 900
+TEST FAILED: Hand count error. Expected 332 Actual 333
+TEST FAILED: Deck count error. Expected 2 Actual 1
+Smithy Card: Test 901
+TEST FAILED: Hand count error. Expected 75 Actual 76
+TEST FAILED: Deck count error. Expected 50 Actual 49
+Smithy Card: Test 902
+TEST FAILED: Hand count error. Expected 283 Actual 284
+TEST FAILED: Deck count error. Expected 85 Actual 84
+Smithy Card: Test 903
+TEST FAILED: Hand count error. Expected 456 Actual 457
+TEST FAILED: Deck count error. Expected 41 Actual 40
+Smithy Card: Test 904
+TEST FAILED: Hand count error. Expected 314 Actual 315
+TEST FAILED: Deck count error. Expected 4 Actual 3
+Smithy Card: Test 905
+TEST FAILED: Hand count error. Expected 230 Actual 231
+TEST FAILED: Deck count error. Expected 136 Actual 135
+Smithy Card: Test 906
+TEST FAILED: Hand count error. Expected 452 Actual 453
+TEST FAILED: Deck count error. Expected 46 Actual 45
+Smithy Card: Test 907
+TEST FAILED: Hand count error. Expected 300 Actual 301
+TEST FAILED: Deck count error. Expected 189 Actual 188
+Smithy Card: Test 908
+TEST FAILED: Hand count error. Expected 218 Actual 219
+TEST FAILED: Deck count error. Expected 213 Actual 212
+Smithy Card: Test 909
+TEST FAILED: Hand count error. Expected 131 Actual 132
+TEST FAILED: Deck count error. Expected 173 Actual 172
+Smithy Card: Test 910
+TEST FAILED: Hand count error. Expected 247 Actual 248
+TEST FAILED: Deck count error. Expected 217 Actual 216
+Smithy Card: Test 911
+TEST FAILED: Hand count error. Expected 129 Actual 130
+TEST FAILED: Deck count error. Expected 354 Actual 353
+Smithy Card: Test 912
+TEST FAILED: Hand count error. Expected 98 Actual 99
+TEST FAILED: Deck count error. Expected 166 Actual 165
+Smithy Card: Test 913
+TEST FAILED: Hand count error. Expected 203 Actual 204
+TEST FAILED: Deck count error. Expected 278 Actual 277
+Smithy Card: Test 914
+TEST FAILED: Hand count error. Expected 43 Actual 44
+TEST FAILED: Deck count error. Expected 184 Actual 183
+Smithy Card: Test 915
+TEST FAILED: Hand count error. Expected 180 Actual 181
+TEST FAILED: Deck count error. Expected 53 Actual 52
+Smithy Card: Test 916
+TEST FAILED: Hand count error. Expected 111 Actual 112
+TEST FAILED: Deck count error. Expected 108 Actual 107
+Smithy Card: Test 917
+TEST FAILED: Hand count error. Expected 241 Actual 242
+TEST FAILED: Deck count error. Expected 177 Actual 176
+Smithy Card: Test 918
+TEST FAILED: Hand count error. Expected 388 Actual 389
+TEST FAILED: Deck count error. Expected 11 Actual 10
+Smithy Card: Test 919
+TEST FAILED: Hand count error. Expected 317 Actual 318
+TEST FAILED: Deck count error. Expected 103 Actual 102
+Smithy Card: Test 920
+TEST FAILED: Hand count error. Expected 261 Actual 262
+TEST FAILED: Deck count error. Expected 169 Actual 168
+Smithy Card: Test 921
+TEST FAILED: Hand count error. Expected 20 Actual 21
+TEST FAILED: Deck count error. Expected 434 Actual 433
+Smithy Card: Test 922
+TEST FAILED: Hand count error. Expected 468 Actual 469
+TEST FAILED: Deck count error. Expected 31 Actual 30
+Smithy Card: Test 923
+TEST FAILED: Hand count error. Expected 206 Actual 207
+TEST FAILED: Deck count error. Expected 188 Actual 187
+Smithy Card: Test 924
+TEST FAILED: Hand count error. Expected 278 Actual 279
+TEST FAILED: Deck count error. Expected 202 Actual 201
+Smithy Card: Test 925
+TEST FAILED: Hand count error. Expected 332 Actual 333
+TEST FAILED: Deck count error. Expected 2 Actual 1
+Smithy Card: Test 926
+TEST FAILED: Hand count error. Expected 75 Actual 76
+TEST FAILED: Deck count error. Expected 50 Actual 49
+Smithy Card: Test 927
+TEST FAILED: Hand count error. Expected 283 Actual 284
+TEST FAILED: Deck count error. Expected 85 Actual 84
+Smithy Card: Test 928
+TEST FAILED: Hand count error. Expected 456 Actual 457
+TEST FAILED: Deck count error. Expected 41 Actual 40
+Smithy Card: Test 929
+TEST FAILED: Hand count error. Expected 314 Actual 315
+TEST FAILED: Deck count error. Expected 4 Actual 3
+Smithy Card: Test 930
+TEST FAILED: Hand count error. Expected 230 Actual 231
+TEST FAILED: Deck count error. Expected 136 Actual 135
+Smithy Card: Test 931
+TEST FAILED: Hand count error. Expected 452 Actual 453
+TEST FAILED: Deck count error. Expected 46 Actual 45
+Smithy Card: Test 932
+TEST FAILED: Hand count error. Expected 300 Actual 301
+TEST FAILED: Deck count error. Expected 189 Actual 188
+Smithy Card: Test 933
+TEST FAILED: Hand count error. Expected 218 Actual 219
+TEST FAILED: Deck count error. Expected 213 Actual 212
+Smithy Card: Test 934
+TEST FAILED: Hand count error. Expected 131 Actual 132
+TEST FAILED: Deck count error. Expected 173 Actual 172
+Smithy Card: Test 935
+TEST FAILED: Hand count error. Expected 247 Actual 248
+TEST FAILED: Deck count error. Expected 217 Actual 216
+Smithy Card: Test 936
+TEST FAILED: Hand count error. Expected 129 Actual 130
+TEST FAILED: Deck count error. Expected 354 Actual 353
+Smithy Card: Test 937
+TEST FAILED: Hand count error. Expected 98 Actual 99
+TEST FAILED: Deck count error. Expected 166 Actual 165
+Smithy Card: Test 938
+TEST FAILED: Hand count error. Expected 203 Actual 204
+TEST FAILED: Deck count error. Expected 278 Actual 277
+Smithy Card: Test 939
+TEST FAILED: Hand count error. Expected 43 Actual 44
+TEST FAILED: Deck count error. Expected 184 Actual 183
+Smithy Card: Test 940
+TEST FAILED: Hand count error. Expected 180 Actual 181
+TEST FAILED: Deck count error. Expected 53 Actual 52
+Smithy Card: Test 941
+TEST FAILED: Hand count error. Expected 111 Actual 112
+TEST FAILED: Deck count error. Expected 108 Actual 107
+Smithy Card: Test 942
+TEST FAILED: Hand count error. Expected 241 Actual 242
+TEST FAILED: Deck count error. Expected 177 Actual 176
+Smithy Card: Test 943
+TEST FAILED: Hand count error. Expected 388 Actual 389
+TEST FAILED: Deck count error. Expected 11 Actual 10
+Smithy Card: Test 944
+TEST FAILED: Hand count error. Expected 317 Actual 318
+TEST FAILED: Deck count error. Expected 103 Actual 102
+Smithy Card: Test 945
+TEST FAILED: Hand count error. Expected 261 Actual 262
+TEST FAILED: Deck count error. Expected 169 Actual 168
+Smithy Card: Test 946
+TEST FAILED: Hand count error. Expected 20 Actual 21
+TEST FAILED: Deck count error. Expected 434 Actual 433
+Smithy Card: Test 947
+TEST FAILED: Hand count error. Expected 468 Actual 469
+TEST FAILED: Deck count error. Expected 31 Actual 30
+Smithy Card: Test 948
+TEST FAILED: Hand count error. Expected 206 Actual 207
+TEST FAILED: Deck count error. Expected 188 Actual 187
+Smithy Card: Test 949
+TEST FAILED: Hand count error. Expected 278 Actual 279
+TEST FAILED: Deck count error. Expected 202 Actual 201
+Smithy Card: Test 950
+TEST FAILED: Hand count error. Expected 332 Actual 333
+TEST FAILED: Deck count error. Expected 2 Actual 1
+Smithy Card: Test 951
+TEST FAILED: Hand count error. Expected 75 Actual 76
+TEST FAILED: Deck count error. Expected 50 Actual 49
+Smithy Card: Test 952
+TEST FAILED: Hand count error. Expected 283 Actual 284
+TEST FAILED: Deck count error. Expected 85 Actual 84
+Smithy Card: Test 953
+TEST FAILED: Hand count error. Expected 456 Actual 457
+TEST FAILED: Deck count error. Expected 41 Actual 40
+Smithy Card: Test 954
+TEST FAILED: Hand count error. Expected 314 Actual 315
+TEST FAILED: Deck count error. Expected 4 Actual 3
+Smithy Card: Test 955
+TEST FAILED: Hand count error. Expected 230 Actual 231
+TEST FAILED: Deck count error. Expected 136 Actual 135
+Smithy Card: Test 956
+TEST FAILED: Hand count error. Expected 452 Actual 453
+TEST FAILED: Deck count error. Expected 46 Actual 45
+Smithy Card: Test 957
+TEST FAILED: Hand count error. Expected 300 Actual 301
+TEST FAILED: Deck count error. Expected 189 Actual 188
+Smithy Card: Test 958
+TEST FAILED: Hand count error. Expected 218 Actual 219
+TEST FAILED: Deck count error. Expected 213 Actual 212
+Smithy Card: Test 959
+TEST FAILED: Hand count error. Expected 131 Actual 132
+TEST FAILED: Deck count error. Expected 173 Actual 172
+Smithy Card: Test 960
+TEST FAILED: Hand count error. Expected 247 Actual 248
+TEST FAILED: Deck count error. Expected 217 Actual 216
+Smithy Card: Test 961
+TEST FAILED: Hand count error. Expected 129 Actual 130
+TEST FAILED: Deck count error. Expected 354 Actual 353
+Smithy Card: Test 962
+TEST FAILED: Hand count error. Expected 98 Actual 99
+TEST FAILED: Deck count error. Expected 166 Actual 165
+Smithy Card: Test 963
+TEST FAILED: Hand count error. Expected 203 Actual 204
+TEST FAILED: Deck count error. Expected 278 Actual 277
+Smithy Card: Test 964
+TEST FAILED: Hand count error. Expected 43 Actual 44
+TEST FAILED: Deck count error. Expected 184 Actual 183
+Smithy Card: Test 965
+TEST FAILED: Hand count error. Expected 180 Actual 181
+TEST FAILED: Deck count error. Expected 53 Actual 52
+Smithy Card: Test 966
+TEST FAILED: Hand count error. Expected 111 Actual 112
+TEST FAILED: Deck count error. Expected 108 Actual 107
+Smithy Card: Test 967
+TEST FAILED: Hand count error. Expected 241 Actual 242
+TEST FAILED: Deck count error. Expected 177 Actual 176
+Smithy Card: Test 968
+TEST FAILED: Hand count error. Expected 388 Actual 389
+TEST FAILED: Deck count error. Expected 11 Actual 10
+Smithy Card: Test 969
+TEST FAILED: Hand count error. Expected 317 Actual 318
+TEST FAILED: Deck count error. Expected 103 Actual 102
+Smithy Card: Test 970
+TEST FAILED: Hand count error. Expected 261 Actual 262
+TEST FAILED: Deck count error. Expected 169 Actual 168
+Smithy Card: Test 971
+TEST FAILED: Hand count error. Expected 20 Actual 21
+TEST FAILED: Deck count error. Expected 434 Actual 433
+Smithy Card: Test 972
+TEST FAILED: Hand count error. Expected 468 Actual 469
+TEST FAILED: Deck count error. Expected 31 Actual 30
+Smithy Card: Test 973
+TEST FAILED: Hand count error. Expected 206 Actual 207
+TEST FAILED: Deck count error. Expected 188 Actual 187
+Smithy Card: Test 974
+TEST FAILED: Hand count error. Expected 278 Actual 279
+TEST FAILED: Deck count error. Expected 202 Actual 201
+Smithy Card: Test 975
+TEST FAILED: Hand count error. Expected 332 Actual 333
+TEST FAILED: Deck count error. Expected 2 Actual 1
+Smithy Card: Test 976
+TEST FAILED: Hand count error. Expected 75 Actual 76
+TEST FAILED: Deck count error. Expected 50 Actual 49
+Smithy Card: Test 977
+TEST FAILED: Hand count error. Expected 283 Actual 284
+TEST FAILED: Deck count error. Expected 85 Actual 84
+Smithy Card: Test 978
+TEST FAILED: Hand count error. Expected 456 Actual 457
+TEST FAILED: Deck count error. Expected 41 Actual 40
+Smithy Card: Test 979
+TEST FAILED: Hand count error. Expected 314 Actual 315
+TEST FAILED: Deck count error. Expected 4 Actual 3
+Smithy Card: Test 980
+TEST FAILED: Hand count error. Expected 230 Actual 231
+TEST FAILED: Deck count error. Expected 136 Actual 135
+Smithy Card: Test 981
+TEST FAILED: Hand count error. Expected 452 Actual 453
+TEST FAILED: Deck count error. Expected 46 Actual 45
+Smithy Card: Test 982
+TEST FAILED: Hand count error. Expected 300 Actual 301
+TEST FAILED: Deck count error. Expected 189 Actual 188
+Smithy Card: Test 983
+TEST FAILED: Hand count error. Expected 218 Actual 219
+TEST FAILED: Deck count error. Expected 213 Actual 212
+Smithy Card: Test 984
+TEST FAILED: Hand count error. Expected 131 Actual 132
+TEST FAILED: Deck count error. Expected 173 Actual 172
+Smithy Card: Test 985
+TEST FAILED: Hand count error. Expected 247 Actual 248
+TEST FAILED: Deck count error. Expected 217 Actual 216
+Smithy Card: Test 986
+TEST FAILED: Hand count error. Expected 129 Actual 130
+TEST FAILED: Deck count error. Expected 354 Actual 353
+Smithy Card: Test 987
+TEST FAILED: Hand count error. Expected 98 Actual 99
+TEST FAILED: Deck count error. Expected 166 Actual 165
+Smithy Card: Test 988
+TEST FAILED: Hand count error. Expected 203 Actual 204
+TEST FAILED: Deck count error. Expected 278 Actual 277
+Smithy Card: Test 989
+TEST FAILED: Hand count error. Expected 43 Actual 44
+TEST FAILED: Deck count error. Expected 184 Actual 183
+Smithy Card: Test 990
+TEST FAILED: Hand count error. Expected 180 Actual 181
+TEST FAILED: Deck count error. Expected 53 Actual 52
+Smithy Card: Test 991
+TEST FAILED: Hand count error. Expected 111 Actual 112
+TEST FAILED: Deck count error. Expected 108 Actual 107
+Smithy Card: Test 992
+TEST FAILED: Hand count error. Expected 241 Actual 242
+TEST FAILED: Deck count error. Expected 177 Actual 176
+Smithy Card: Test 993
+TEST FAILED: Hand count error. Expected 388 Actual 389
+TEST FAILED: Deck count error. Expected 11 Actual 10
+Smithy Card: Test 994
+TEST FAILED: Hand count error. Expected 317 Actual 318
+TEST FAILED: Deck count error. Expected 103 Actual 102
+Smithy Card: Test 995
+TEST FAILED: Hand count error. Expected 261 Actual 262
+TEST FAILED: Deck count error. Expected 169 Actual 168
+Smithy Card: Test 996
+TEST FAILED: Hand count error. Expected 20 Actual 21
+TEST FAILED: Deck count error. Expected 434 Actual 433
+Smithy Card: Test 997
+TEST FAILED: Hand count error. Expected 468 Actual 469
+TEST FAILED: Deck count error. Expected 31 Actual 30
+Smithy Card: Test 998
+TEST FAILED: Hand count error. Expected 206 Actual 207
+TEST FAILED: Deck count error. Expected 188 Actual 187
+Smithy Card: Test 999
+TEST FAILED: Hand count error. Expected 278 Actual 279
+TEST FAILED: Deck count error. Expected 202 Actual 201
+Smithy Card: Test 1000
+TEST FAILED: Hand count error. Expected 332 Actual 333
+TEST FAILED: Deck count error. Expected 2 Actual 1
+0 TEST ARE PASSED
+File 'randomtestcard1.c'
+Lines executed:90.48% of 42
+Branches executed:100.00% of 18
+Taken at least once:77.78% of 18
+Calls executed:88.89% of 18
+Creating 'randomtestcard1.c.gcov'
+
+        -:    0:Source:randomtestcard1.c
+        -:    0:Graph:randomtestcard1.gcno
+        -:    0:Data:randomtestcard1.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1://random tester for smithy
+        -:    2:#include "dominion.h"
+        -:    3:#include "dominion_helpers.h"
+        -:    4:#include "rngs.h"
+        -:    5:#include <string.h>
+        -:    6:#include <stdio.h>
+        -:    7:#include <assert.h>
+        -:    8:#include <math.h>
+        -:    9:
+function main called 1 returned 100% blocks executed 93%
+        1:   10:int main() 
+        -:   11:{
+        1:   12:	int passedTests, deckCount, remainderCard, handCount, state, numPlayers, curPlayer, numTests, seed, status = 0;
+        1:   13:	int k[10] = { adventurer, gardens, embargo, village, minion, mine, cutpurse, sea_hag, tribute, smithy };
+        -:   14:	struct gameState G, prevG;
+        -:   15:
+        1:   16:	SelectStream(2);
+call    0 returned 1
+        1:   17:	PutSeed(3);
+call    0 returned 1
+        -:   18:
+        1:   19:	numTests = 1000;
+     1001:   20:	for (int x = 0; x < numTests; x++) 
+branch  0 taken 1000
+branch  1 taken 1 (fallthrough)
+        -:   21:	{
+     1000:   22:		status = 0;
+     1000:   23:		numPlayers = floor(Random() * (MAX_PLAYERS - 1)) + 2; //random number of players 2 to MAX_PLAYERS
+call    0 returned 1000
+     1000:   24:		seed = floor(Random() * 2000);
+call    0 returned 1000
+        -:   25:
+     1000:   26:		initializeGame(numPlayers, k, seed, &G);
+call    0 returned 1000
+        -:   27:
+     1000:   28:		curPlayer = floor(Random() * numPlayers);	//select current player at random
+call    0 returned 1000
+     1000:   29:		G.whoseTurn = curPlayer;	
+        -:   30:
+        -:   31:		//filling  up player's hands
+     3842:   32:		for (int i = 0; i < numPlayers; i++) {
+branch  0 taken 2842
+branch  1 taken 1000 (fallthrough)
+     2842:   33:			handCount = floor(Random() * MAX_HAND); //random hand size 0 to MAX_HAND
+call    0 returned 2842
+     2842:   34:			G.handCount[i] = handCount;	//set hand count value		
+   747452:   35:			for (int j = 0; j < handCount; j++) { //for each card in hand, select random card
+branch  0 taken 744610
+branch  1 taken 2842 (fallthrough)
+   744610:   36:				G.hand[i][j] = floor(Random() * (treasure_map + 1));
+call    0 returned 744610
+        -:   37:			}
+        -:   38:		}
+        -:   39:
+        -:   40:		//filling up  player's decks
+     3842:   41:		for (int i = 0; i < G.numPlayers; i++) {
+branch  0 taken 2842
+branch  1 taken 1000 (fallthrough)
+     2842:   42:			remainderCard = MAX_DECK - G.handCount[i]; //maximum possible cards left for deck
+     2842:   43:			deckCount = floor(Random() * remainderCard);	//random number of cards in deck 0 to remainderCard
+call    0 returned 2842
+     2842:   44:			G.deckCount[i] = deckCount; //set deck size for player i
+   382474:   45:			for (int j = 0; j < deckCount; j++) //for each card in deck, select random card
+branch  0 taken 379632
+branch  1 taken 2842 (fallthrough)
+        -:   46:			{
+   379632:   47:				G.deck[i][j] = floor(Random() * (treasure_map + 1));
+call    0 returned 379632
+        -:   48:			}
+        -:   49:		}
+        -:   50:
+        -:   51:		//add smithy card to player
+     1000:   52:		gainCard(smithy, &G, 2, curPlayer);
+call    0 returned 1000
+        -:   53:
+        -:   54:		//preserve game state
+     1000:   55:		memcpy(&prevG, &G, sizeof(struct gameState));
+        -:   56:
+        -:   57:		//play smithy card
+     1000:   58:		state = cardEffect(smithy, 0, 0, 0, &G, 0, NULL);
+call    0 returned 1000
+        -:   59:		//state = playCard((G.handCount[curPlayer] - 1), 0, 0, 0, &G);
+        -:   60:		
+     1000:   61:		printf("Smithy Card: Test %d\n", x + 1);
+call    0 returned 1000
+        -:   62:
+        -:   63:		//Current player should have 2 more cards in their hand, 3 new cards and 1 discard
+     1000:   64:		if (prevG.handCount[curPlayer] + 2 != G.handCount[curPlayer]) {
+branch  0 taken 1000 (fallthrough)
+branch  1 taken 0
+     1000:   65:			printf("TEST FAILED: Hand count error. Expected %d Actual %d\n", prevG.handCount[curPlayer] + 2, G.handCount[curPlayer]);
+call    0 returned 1000
+     1000:   66:			status = 1;
+        -:   67:		}
+        -:   68:
+        -:   69:		//Player should have 3 fewer cards in their deck
+     1000:   70:		if (prevG.deckCount[curPlayer] - 3 != G.deckCount[curPlayer]) {
+branch  0 taken 1000 (fallthrough)
+branch  1 taken 0
+     1000:   71:			printf("TEST FAILED: Deck count error. Expected %d Actual %d\n", prevG.deckCount[curPlayer] - 3, G.deckCount[curPlayer]);
+call    0 returned 1000
+     1000:   72:			status = 1;
+        -:   73:		}
+        -:   74:
+        -:   75:		//Player's discard pile should remain unchanged
+     1000:   76:		if (prevG.discardCount[curPlayer] != G.discardCount[curPlayer]) {
+branch  0 taken 0 (fallthrough)
+branch  1 taken 1000
+    #####:   77:			printf("TEST FAILED: Smithy altered discard pile\n");
+call    0 never executed
+    #####:   78:			status = 1;
+        -:   79:		}
+        -:   80:
+        -:   81:		
+        -:   82:		
+     1000:   83:		if (status == 0)
+branch  0 taken 0 (fallthrough)
+branch  1 taken 1000
+        -:   84:		{
+    #####:   85:			++passedTests;
+        -:   86:
+    #####:   87:			printf("TEST SUCCEEDED\n");
+call    0 never executed
+        -:   88:		}
+        -:   89:		
+        -:   90:	}
+        -:   91:
+        1:   92:	printf("%d TEST ARE PASSED\n", passedTests);
+call    0 returned 1
+        -:   93:
+        1:   94:	return 0;
+        -:   95:}
