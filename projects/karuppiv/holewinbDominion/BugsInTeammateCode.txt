@@ -5,8 +5,9 @@ Assignment 5 : Bugs of Teammate Code
 
 
 BUG 1 : Adventurer  
-Bug on line 1372  : drawntreasure += 2; // for each treasure card drawn, the drawntreasure count incremented by 2 instead of 1 
-
+Bug on line 1372  : drawntreasure += 2; 
+Expected Results :  for each treasure card drawn, the drawntreasure count incremented by 1
+Actual Results : for each treasure card drawn, the drawntreasure count incremented by 2
 
 Fixing the bug : drawntreasure ++;
 920 TEST ARE PASSED
@@ -17,15 +18,15 @@ Taken at least once:92.86% of 28
 Calls executed:85.71% of 21
 Creating 'randomtestadventurer.c.gcov'
 
-printf("Must gain a first treasure card\n");
-printf("Must gain a second treasure card\n");
 
-state->discardCount[currentPlayer]++; //ADDING THIS
 
 ************************************************************************************************
 
 BUG 2 : Smithy 
-Bug on line 1395 : 	for (i = 0; i < 2; i++) // only allowing to draw two cards instead of three
+Bug on line 1395 : 	for (i = 0; i < 2; i++) 
+
+Expected Results : loop allowing to draw THREE cards
+Actual Results :loop allowing to draw TWO cards 
 
 Fixing the bug :   for (i = 0; i < 3; i++)
 1000 TEST ARE PASSED
@@ -41,7 +42,9 @@ Creating 'randomtestcard1.c.gcov'
 
 BUG 3 : Village 
 Bug on line 1412-1413 : drawCard(currentPlayer, state);
-				        drawCard(currentPlayer, state);    //drawCard(currentPlayer, state);//was called twice to make it drawing two cards.
+			drawCard(currentPlayer, state);    
+Expected Results : drawCard(currentPlayer, state); is  called ONCE to make it drawing ONE card.
+Actual Results : drawCard(currentPlayer, state); was called TWICE to make it drawing TWO cards.
 
 
 After Fixing the bug 
