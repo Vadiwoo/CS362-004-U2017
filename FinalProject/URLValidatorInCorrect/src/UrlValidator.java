@@ -334,7 +334,7 @@ public class UrlValidator implements Serializable {
      */
     protected boolean isValidScheme(String scheme) {
         if (scheme == null) {
-            return false;
+            return false; 
         }
 
         if (!SCHEME_PATTERN.matcher(scheme).matches()) {

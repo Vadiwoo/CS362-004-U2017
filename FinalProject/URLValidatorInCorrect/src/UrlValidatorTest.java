@@ -18,6 +18,7 @@
 
 import junit.framework.TestCase;
 
+import java.util.Random;
 
 
 
@@ -42,19 +43,101 @@ public class UrlValidatorTest extends TestCase {
    {
 	   UrlValidator urlVal = new UrlValidator(null, null, UrlValidator.ALLOW_ALL_SCHEMES);
 	   System.out.println(urlVal.isValid("http://www.amazon.com"));
-	   
+	   System.out.println(urlVal.isValid("https://///www.google.com"));
+	   System.out.println(urlVal.isValid("http://www.google.com"));
+	   System.out.println(urlVal.isValid("http://www.google.com:80"));
+	   System.out.println(urlVal.isValid("https://piazza.com/class/j4bo6gz138r46l?cid=158"));
+	   System.out.println(urlVal.isValid("h3t://256.256.256.256:65535/$23?action=edit&mode=up"));
+	   System.out.println(urlVal.isValid("http://www.google.com:80/$23"));
 	   
    }
    
-   
+   /*****************************Testing Scheme. *****************************/
    public void testYourFirstPartition()
    {
+	   UrlValidator urlVal = new UrlValidator(null, null, UrlValidator.ALLOW_ALL_SCHEMES);
+	
+	   String baseURL = "www.amazon.com";
+	 
+	   String testUrl = "https://" +baseURL;
+	   System.out.println("Testing Valid Scheme : ");
+	   boolean result = urlVal.isValid(testUrl);
+	   
+	   System.out.println("Expected Result : TRUE    Actual Result : "+result); 
+		   
+
+	   String[] inValidScheme = {"htsp://", "hts://", "ht://",  "h://"};
+	 
+	   System.out.println("Testing Invalid Scheme : ");
+	   result = false; //these tests should return false
+	   for (int i = 0; i <= inValidScheme.length ; i++)
+	   {
+		    testUrl = inValidScheme[i] +baseURL;
+		   result = (urlVal.isValid(testUrl));
+		   if(result)
+		   System.out.println("Expected Result : FALSE    Actual Result : "+result);
+	   }
+
+   }
+   /*****************************Testing Authority *****************************/
+   public void testYourSecondPartition(){
+   
+	   
+	   
+	   
+	   
+	   
+	   
+   }
+   /*****************************Testing Authority *****************************/
+   public void testYourThirdPartition(){
+	   UrlValidator urlVal = new UrlValidator(null, null, UrlValidator.ALLOW_ALL_SCHEMES);
+		
+	   String baseURL = "https://www.amazon.com";
+	 
+	   String testUrl =  baseURL + ":80";
+	   System.out.println("Testing Valid Scheme : ");
+	   boolean result = urlVal.isValid(testUrl);
+	   
+	   System.out.println("Expected Result : TRUE    Actual Result : "+result); 
+		   
+	   Random rand = new Random();
+	  
+
+	 
+	   System.out.println("Testing Invalid Scheme : ");
+	   //result = false; //these tests should return false
+	   for (int i = 0; i < 1000 ; i++)
+	   {
+		   int n = rand.nextInt(65535);
+		   System.out.println(n);
+		    testUrl = baseURL + ":" + n;
+		   result = (urlVal.isValid(testUrl));
+		   if(!result)
+		   System.out.println(n + "is invalid port");
+		  
+			   
+	   }
+	   
+   }
+   /*****************************Testing Path *****************************/
+   public void testYourFourthPartition(){
+   
+	   
+	   
+	   
+	   
+	   
 	   
    }
    
-   public void testYourSecondPartition(){
+   /*****************************Testing Query *****************************/
+   public void testYourFifthPartition(){
 	   
+   
    }
+   
+   
    
    
    public void testIsValid()
@@ -67,14 +150,13 @@ public class UrlValidatorTest extends TestCase {
    
    public void testAnyOtherUnitTest()
    {
-	   
+		
    }
-   /**
-    * Create set of tests by taking the testUrlXXX arrays and
-    * running through all possible permutations of their combinations.
-    *
-    * @param testObjects Used to create a url.
-    */
-   
 
+ 
+       
 }
+
+
+
+
