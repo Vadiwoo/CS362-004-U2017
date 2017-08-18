@@ -1,0 +1,2791 @@
+URL Random Testing Started.....
+
+URL: 3ht://www.google.com:80/test1/
+Passed: The URL "3ht://www.google.com:80/test1/" was correctly identified by isValid() as false.
+
+URL: h3t://aaa:65636/../?action=view
+Passed: The URL "h3t://aaa:65636/../?action=view" was correctly identified by isValid() as false.
+
+URL: http/1.2.3:65535/test1?action=edit&mode=up
+Passed: The URL "http/1.2.3:65535/test1?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ftp://.aaa:80/$23?action=edit&mode=up
+Passed: The URL "ftp://.aaa:80/$23?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http/go.cc:-1/..
+Passed: The URL "http/go.cc:-1/.." was correctly identified by isValid() as false.
+
+URL: http:/go.a1a/..//file
+Passed: The URL "http:/go.a1a/..//file" was correctly identified by isValid() as false.
+
+URL: http/1.2.3.4.5:65636/..?action=view
+Passed: The URL "http/1.2.3.4.5:65636/..?action=view" was correctly identified by isValid() as false.
+
+URL: http:1.2.3.4.:80/$23?action=view
+Passed: The URL "http:1.2.3.4.:80/$23?action=view" was correctly identified by isValid() as false.
+
+URL: h3t://go.cc:65a/$23?action=view
+Passed: The URL "h3t://go.cc:65a/$23?action=view" was correctly identified by isValid() as false.
+
+URL: ftp://go.1aa:0?action=view
+Passed: The URL "ftp://go.1aa:0?action=view" was correctly identified by isValid() as false.
+
+URL: http://go.a1a:65535/$23?action=edit&mode=up
+Passed: The URL "http://go.a1a:65535/$23?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:/1.2.3:65535/test1//file
+Passed: The URL "http:/1.2.3:65535/test1//file" was correctly identified by isValid() as false.
+
+URL: 3ht://go.1aa/test1/file?action=view
+Passed: The URL "3ht://go.1aa/test1/file?action=view" was correctly identified by isValid() as false.
+
+URL: 3ht://aaa:0/t123?action=view
+Passed: The URL "3ht://aaa:0/t123?action=view" was correctly identified by isValid() as false.
+
+URL: ://1.2.3:0/..//file?action=view
+Passed: The URL "://1.2.3:0/..//file?action=view" was correctly identified by isValid() as false.
+
+URL: www.google.com:80/test1
+Failed: The URL "www.google.com:80/test1" was incorrectly identified by isValid() as false.
+
+URL: 3ht://go.cc/test1//file?action=edit&mode=up
+Passed: The URL "3ht://go.cc/test1//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ftp://1.2.3.4.5:65a/..?action=edit&mode=up
+Passed: The URL "ftp://1.2.3.4.5:65a/..?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ftp://go.cc:65636
+Failed: The URL "ftp://go.cc:65636" was incorrectly identified by isValid() as false.
+
+URL: h3t://256.256.256.256:80/..?action=view
+Passed: The URL "h3t://256.256.256.256:80/..?action=view" was correctly identified by isValid() as false.
+
+URL: http/aaa./test1
+Passed: The URL "http/aaa./test1" was correctly identified by isValid() as false.
+
+URL: http:/255.255.255.255:65a
+Passed: The URL "http:/255.255.255.255:65a" was correctly identified by isValid() as false.
+
+URL: ://www.google.com:0/..//file?action=edit&mode=up
+Passed: The URL "://www.google.com:0/..//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ftp://aaa.:65535/..//file
+Passed: The URL "ftp://aaa.:65535/..//file" was correctly identified by isValid() as false.
+
+URL: ftp://.aaa:-1/$23
+Passed: The URL "ftp://.aaa:-1/$23" was correctly identified by isValid() as false.
+
+URL: http::0/..//file
+Passed: The URL "http::0/..//file" was correctly identified by isValid() as false.
+
+URL: http://0.0.0.0:65a/test1/file?action=edit&mode=up
+Passed: The URL "http://0.0.0.0:65a/test1/file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http/go.cc:65636/../?action=view
+Passed: The URL "http/go.cc:65636/../?action=view" was correctly identified by isValid() as false.
+
+URL: 3ht://go.1aa:-1/../?action=edit&mode=up
+Passed: The URL "3ht://go.1aa:-1/../?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: h3t://:65636/test1/
+Passed: The URL "h3t://:65636/test1/" was correctly identified by isValid() as false.
+
+URL: http://go.au/test1/file
+Passed: The URL "http://go.au/test1/file" was correctly identified by isValid() as true.
+
+URL: http/.aaa:80/..
+Passed: The URL "http/.aaa:80/.." was correctly identified by isValid() as false.
+
+URL: ://go.1aa:80?action=view
+Passed: The URL "://go.1aa:80?action=view" was correctly identified by isValid() as false.
+
+URL: http://1.2.3:65636/test1//file?action=edit&mode=up
+Passed: The URL "http://1.2.3:65636/test1//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:/go.au:65636/test1/file
+Passed: The URL "http:/go.au:65636/test1/file" was correctly identified by isValid() as false.
+
+URL: 1.2.3.4./test1//file?action=view
+Passed: The URL "1.2.3.4./test1//file?action=view" was correctly identified by isValid() as false.
+
+URL: ftp://aaa.:-1
+Passed: The URL "ftp://aaa.:-1" was correctly identified by isValid() as false.
+
+URL: ftp://255.255.255.255:0?action=edit&mode=up
+Failed: The URL "ftp://255.255.255.255:0?action=edit&mode=up" was incorrectly identified by isValid() as false.
+
+URL: go.cc:-1/../?action=edit&mode=up
+Passed: The URL "go.cc:-1/../?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: h3t://go.1aa:65535/test1/file?action=view
+Passed: The URL "h3t://go.1aa:65535/test1/file?action=view" was correctly identified by isValid() as false.
+
+URL: go.1aa:65535/test1/
+Passed: The URL "go.1aa:65535/test1/" was correctly identified by isValid() as false.
+
+URL: http://go.com:65535/test1/file?action=view
+Failed: The URL "http://go.com:65535/test1/file?action=view" was incorrectly identified by isValid() as false.
+
+URL: http/255.255.255.255:65a/test1
+Passed: The URL "http/255.255.255.255:65a/test1" was correctly identified by isValid() as false.
+
+URL: http:/1.2.3:-1
+Passed: The URL "http:/1.2.3:-1" was correctly identified by isValid() as false.
+
+URL: http:1.2.3.4.:80
+Passed: The URL "http:1.2.3.4.:80" was correctly identified by isValid() as false.
+
+URL: ://.aaa:65636?action=view
+Passed: The URL "://.aaa:65636?action=view" was correctly identified by isValid() as false.
+
+URL: 256.256.256.256:65535/$23
+Passed: The URL "256.256.256.256:65535/$23" was correctly identified by isValid() as false.
+
+URL: http:/aaa.:65636/test1/?action=edit&mode=up
+Passed: The URL "http:/aaa.:65636/test1/?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: h3t://go.cc:80?action=edit&mode=up
+Failed: The URL "h3t://go.cc:80?action=edit&mode=up" was incorrectly identified by isValid() as false.
+
+URL: ://www.google.com:0/test1/file?action=edit&mode=up
+Passed: The URL "://www.google.com:0/test1/file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ://.1.2.3.4:65a/..
+Passed: The URL "://.1.2.3.4:65a/.." was correctly identified by isValid() as false.
+
+URL: ://1.2.3:-1/test1//file?action=edit&mode=up
+Passed: The URL "://1.2.3:-1/test1//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:/1.2.3:65636/t123?action=view
+Passed: The URL "http:/1.2.3:65636/t123?action=view" was correctly identified by isValid() as false.
+
+URL: http/go.1aa:0/test1/?action=edit&mode=up
+Passed: The URL "http/go.1aa:0/test1/?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: h3t://go.1aa:65535/test1/file?action=view
+Passed: The URL "h3t://go.1aa:65535/test1/file?action=view" was correctly identified by isValid() as false.
+
+URL: 3ht://1.2.3.4.:-1/t123?action=edit&mode=up
+Passed: The URL "3ht://1.2.3.4.:-1/t123?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: h3t://www.google.com:80/test1/file?action=view
+Failed: The URL "h3t://www.google.com:80/test1/file?action=view" was incorrectly identified by isValid() as false.
+
+URL: http/255.255.255.255:65636?action=edit&mode=up
+Passed: The URL "http/255.255.255.255:65636?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http://255.255.255.255:0/..?action=edit&mode=up
+Passed: The URL "http://255.255.255.255:0/..?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:255.com:-1/test1/file?action=view
+Passed: The URL "http:255.com:-1/test1/file?action=view" was correctly identified by isValid() as false.
+
+URL: ftp://1.2.3.4.5:65a/..//file?action=edit&mode=up
+Passed: The URL "ftp://1.2.3.4.5:65a/..//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: 1.2.3:65636/$23?action=edit&mode=up
+Passed: The URL "1.2.3:65636/$23?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http://go.au:-1/..//file?action=edit&mode=up
+Passed: The URL "http://go.au:-1/..//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http/0.0.0.0:65a/test1/file?action=view
+Passed: The URL "http/0.0.0.0:65a/test1/file?action=view" was correctly identified by isValid() as false.
+
+URL: http:/256.256.256.256:-1/test1/file?action=edit&mode=up
+Passed: The URL "http:/256.256.256.256:-1/test1/file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http/.1.2.3.4:-1/test1?action=view
+Passed: The URL "http/.1.2.3.4:-1/test1?action=view" was correctly identified by isValid() as false.
+
+URL: http://256.256.256.256:65a/$23
+Passed: The URL "http://256.256.256.256:65a/$23" was correctly identified by isValid() as false.
+
+URL: http/go.cc:80/../
+Passed: The URL "http/go.cc:80/../" was correctly identified by isValid() as false.
+
+URL: http:/go.au:-1
+Passed: The URL "http:/go.au:-1" was correctly identified by isValid() as false.
+
+URL: 3ht://go.com:65535/test1/file?action=edit&mode=up
+Passed: The URL "3ht://go.com:65535/test1/file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http://256.256.256.256:-1/t123?action=edit&mode=up
+Passed: The URL "http://256.256.256.256:-1/t123?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:/go.a:0/$23
+Passed: The URL "http:/go.a:0/$23" was correctly identified by isValid() as false.
+
+URL: http:.1.2.3.4:65a/test1/
+Passed: The URL "http:.1.2.3.4:65a/test1/" was correctly identified by isValid() as false.
+
+URL: h3t://.aaa:0/..//file
+Passed: The URL "h3t://.aaa:0/..//file" was correctly identified by isValid() as false.
+
+URL: http://255.255.255.255:80/test1//file?action=edit&mode=up
+Passed: The URL "http://255.255.255.255:80/test1//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: www.google.com:-1/test1?action=view
+Passed: The URL "www.google.com:-1/test1?action=view" was correctly identified by isValid() as false.
+
+URL: http://.1.2.3.4:65535/..//file
+Passed: The URL "http://.1.2.3.4:65535/..//file" was correctly identified by isValid() as false.
+
+URL: http://.aaa:65636/test1?action=view
+Passed: The URL "http://.aaa:65636/test1?action=view" was correctly identified by isValid() as false.
+
+URL: ftp://1.2.3:65535/test1/?action=edit&mode=up
+Passed: The URL "ftp://1.2.3:65535/test1/?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http://aaa:0/..//file?action=edit&mode=up
+Passed: The URL "http://aaa:0/..//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: go.au:-1/..?action=edit&mode=up
+Passed: The URL "go.au:-1/..?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ftp://1.2.3.4.:0/test1/
+Passed: The URL "ftp://1.2.3.4.:0/test1/" was correctly identified by isValid() as false.
+
+URL: http/aaa:65535/../
+Passed: The URL "http/aaa:65535/../" was correctly identified by isValid() as false.
+
+URL: h3t://1.2.3.4.5/..?action=view
+Passed: The URL "h3t://1.2.3.4.5/..?action=view" was correctly identified by isValid() as false.
+
+URL: 3ht://go.com:65a/test1/
+Passed: The URL "3ht://go.com:65a/test1/" was correctly identified by isValid() as false.
+
+URL: ://go.com:65636/test1/file
+Passed: The URL "://go.com:65636/test1/file" was correctly identified by isValid() as false.
+
+URL: http:255.255.255.255:-1/test1?action=view
+Passed: The URL "http:255.255.255.255:-1/test1?action=view" was correctly identified by isValid() as false.
+
+URL: go.com:65535/test1/file?action=view
+Failed: The URL "go.com:65535/test1/file?action=view" was incorrectly identified by isValid() as false.
+
+URL: ftp://256.256.256.256:0/test1//file?action=edit&mode=up
+Passed: The URL "ftp://256.256.256.256:0/test1//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http://aaa:-1/test1/?action=edit&mode=up
+Passed: The URL "http://aaa:-1/test1/?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http://www.google.com:65a/../?action=edit&mode=up
+Passed: The URL "http://www.google.com:65a/../?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: 3ht://go.com:-1/test1
+Passed: The URL "3ht://go.com:-1/test1" was correctly identified by isValid() as false.
+
+URL: 3ht://go.a1a:65a/test1//file?action=view
+Passed: The URL "3ht://go.a1a:65a/test1//file?action=view" was correctly identified by isValid() as false.
+
+URL: http:/go.cc:65636/test1//file?action=view
+Passed: The URL "http:/go.cc:65636/test1//file?action=view" was correctly identified by isValid() as false.
+
+URL: .aaa:-1/t123?action=view
+Passed: The URL ".aaa:-1/t123?action=view" was correctly identified by isValid() as false.
+
+URL: h3t://256.256.256.256:80/..//file?action=view
+Passed: The URL "h3t://256.256.256.256:80/..//file?action=view" was correctly identified by isValid() as false.
+
+URL: http/go.1aa:80/test1/?action=edit&mode=up
+Passed: The URL "http/go.1aa:80/test1/?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: h3t://.1.2.3.4:65636/t123
+Passed: The URL "h3t://.1.2.3.4:65636/t123" was correctly identified by isValid() as false.
+
+URL: http:/1.2.3.4.5:65535/test1?action=view
+Passed: The URL "http:/1.2.3.4.5:65535/test1?action=view" was correctly identified by isValid() as false.
+
+URL: http://1.2.3.4.5:65636?action=view
+Passed: The URL "http://1.2.3.4.5:65636?action=view" was correctly identified by isValid() as false.
+
+URL: :0/test1/?action=edit&mode=up
+Passed: The URL ":0/test1/?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: 3ht://:65a/test1/
+Passed: The URL "3ht://:65a/test1/" was correctly identified by isValid() as false.
+
+URL: http/.1.2.3.4:0/t123?action=edit&mode=up
+Passed: The URL "http/.1.2.3.4:0/t123?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ftp://0.0.0.0:0/..?action=edit&mode=up
+Passed: The URL "ftp://0.0.0.0:0/..?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ://aaa/$23?action=view
+Passed: The URL "://aaa/$23?action=view" was correctly identified by isValid() as false.
+
+URL: aaa:65636/test1/file?action=edit&mode=up
+Passed: The URL "aaa:65636/test1/file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ftp://go.au:65535/test1/file?action=view
+Failed: The URL "ftp://go.au:65535/test1/file?action=view" was incorrectly identified by isValid() as false.
+
+URL: .1.2.3.4:0/test1/file?action=view
+Passed: The URL ".1.2.3.4:0/test1/file?action=view" was correctly identified by isValid() as false.
+
+URL: 3ht://255.com/$23
+Passed: The URL "3ht://255.com/$23" was correctly identified by isValid() as false.
+
+URL: http://1.2.3.4.5:80/test1/file
+Passed: The URL "http://1.2.3.4.5:80/test1/file" was correctly identified by isValid() as false.
+
+URL: http:go.au:65535/t123
+Passed: The URL "http:go.au:65535/t123" was correctly identified by isValid() as false.
+
+URL: ://:-1/test1
+Passed: The URL "://:-1/test1" was correctly identified by isValid() as false.
+
+URL: 3ht://aaa:65636/t123
+Passed: The URL "3ht://aaa:65636/t123" was correctly identified by isValid() as false.
+
+URL: http://go.a/$23?action=view
+Passed: The URL "http://go.a/$23?action=view" was correctly identified by isValid() as false.
+
+URL: http/.1.2.3.4:0/..
+Passed: The URL "http/.1.2.3.4:0/.." was correctly identified by isValid() as false.
+
+URL: http:1.2.3.4.:0
+Passed: The URL "http:1.2.3.4.:0" was correctly identified by isValid() as false.
+
+URL: ://aaa:0/t123?action=view
+Passed: The URL "://aaa:0/t123?action=view" was correctly identified by isValid() as false.
+
+URL: ftp://:0/..//file
+Passed: The URL "ftp://:0/..//file" was correctly identified by isValid() as false.
+
+URL: http:/go.a:0/..
+Passed: The URL "http:/go.a:0/.." was correctly identified by isValid() as false.
+
+URL: 1.2.3.4.5:65535/test1
+Passed: The URL "1.2.3.4.5:65535/test1" was correctly identified by isValid() as false.
+
+URL: http:/aaa:-1/t123?action=edit&mode=up
+Passed: The URL "http:/aaa:-1/t123?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:aaa.:-1
+Passed: The URL "http:aaa.:-1" was correctly identified by isValid() as false.
+
+URL: ftp://1.2.3:65a/..//file
+Passed: The URL "ftp://1.2.3:65a/..//file" was correctly identified by isValid() as false.
+
+URL: http:.aaa/test1//file
+Passed: The URL "http:.aaa/test1//file" was correctly identified by isValid() as false.
+
+URL: http:www.google.com:0
+Passed: The URL "http:www.google.com:0" was correctly identified by isValid() as false.
+
+URL: http:1.2.3.4.5:0/test1//file?action=edit&mode=up
+Passed: The URL "http:1.2.3.4.5:0/test1//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http::80/..
+Passed: The URL "http::80/.." was correctly identified by isValid() as false.
+
+URL: http/1.2.3.4.5:-1/../
+Passed: The URL "http/1.2.3.4.5:-1/../" was correctly identified by isValid() as false.
+
+URL: http/.1.2.3.4:65636/test1
+Passed: The URL "http/.1.2.3.4:65636/test1" was correctly identified by isValid() as false.
+
+URL: ftp://1.2.3.4.:-1/..//file?action=view
+Passed: The URL "ftp://1.2.3.4.:-1/..//file?action=view" was correctly identified by isValid() as false.
+
+URL: h3t://0.0.0.0/test1/file?action=edit&mode=up
+Failed: The URL "h3t://0.0.0.0/test1/file?action=edit&mode=up" was incorrectly identified by isValid() as false.
+
+URL: http:/1.2.3/$23?action=view
+Passed: The URL "http:/1.2.3/$23?action=view" was correctly identified by isValid() as false.
+
+URL: ftp://go.a:65636
+Passed: The URL "ftp://go.a:65636" was correctly identified by isValid() as false.
+
+URL: http::-1/..//file
+Passed: The URL "http::-1/..//file" was correctly identified by isValid() as false.
+
+URL: ftp://0.0.0.0:-1?action=view
+Passed: The URL "ftp://0.0.0.0:-1?action=view" was correctly identified by isValid() as false.
+
+URL: http:.1.2.3.4:0/test1?action=edit&mode=up
+Passed: The URL "http:.1.2.3.4:0/test1?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ftp://255.com:65636/t123?action=view
+Failed: The URL "ftp://255.com:65636/t123?action=view" was incorrectly identified by isValid() as false.
+
+URL: ://256.256.256.256:65a/test1/file?action=view
+Passed: The URL "://256.256.256.256:65a/test1/file?action=view" was correctly identified by isValid() as false.
+
+URL: 256.256.256.256:65636/$23?action=view
+Passed: The URL "256.256.256.256:65636/$23?action=view" was correctly identified by isValid() as false.
+
+URL: aaa.:0/$23?action=view
+Passed: The URL "aaa.:0/$23?action=view" was correctly identified by isValid() as false.
+
+URL: 3ht://go.au:-1/test1//file?action=edit&mode=up
+Passed: The URL "3ht://go.au:-1/test1//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: 0.0.0.0:80/t123?action=view
+Failed: The URL "0.0.0.0:80/t123?action=view" was incorrectly identified by isValid() as false.
+
+URL: http:/256.256.256.256:80/..//file?action=edit&mode=up
+Passed: The URL "http:/256.256.256.256:80/..//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:go.a1a:80/..
+Passed: The URL "http:go.a1a:80/.." was correctly identified by isValid() as false.
+
+URL: ftp://1.2.3.4.5:0
+Passed: The URL "ftp://1.2.3.4.5:0" was correctly identified by isValid() as false.
+
+URL: http/go.1aa:65636/test1?action=view
+Passed: The URL "http/go.1aa:65636/test1?action=view" was correctly identified by isValid() as false.
+
+URL: http://255.255.255.255:-1/../
+Passed: The URL "http://255.255.255.255:-1/../" was correctly identified by isValid() as false.
+
+URL: ://go.com/..//file
+Passed: The URL "://go.com/..//file" was correctly identified by isValid() as false.
+
+URL: ://aaa.:80/$23?action=view
+Passed: The URL "://aaa.:80/$23?action=view" was correctly identified by isValid() as false.
+
+URL: 3ht://1.2.3.4.5:65535?action=edit&mode=up
+Passed: The URL "3ht://1.2.3.4.5:65535?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:256.256.256.256:65636/test1/file?action=edit&mode=up
+Passed: The URL "http:256.256.256.256:65636/test1/file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ftp://255.255.255.255:65535/$23?action=view
+Failed: The URL "ftp://255.255.255.255:65535/$23?action=view" was incorrectly identified by isValid() as false.
+
+URL: http://1.2.3.4.5:-1/..//file
+Passed: The URL "http://1.2.3.4.5:-1/..//file" was correctly identified by isValid() as false.
+
+URL: ftp://.1.2.3.4:80/../?action=edit&mode=up
+Passed: The URL "ftp://.1.2.3.4:80/../?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ftp://aaa:-1/test1/?action=view
+Passed: The URL "ftp://aaa:-1/test1/?action=view" was correctly identified by isValid() as false.
+
+URL: http:/0.0.0.0:65636/test1/file?action=edit&mode=up
+Passed: The URL "http:/0.0.0.0:65636/test1/file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http://go.1aa:65636/../?action=edit&mode=up
+Passed: The URL "http://go.1aa:65636/../?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:255.255.255.255/..?action=view
+Passed: The URL "http:255.255.255.255/..?action=view" was correctly identified by isValid() as false.
+
+URL: 255.com:0/test1/?action=edit&mode=up
+Failed: The URL "255.com:0/test1/?action=edit&mode=up" was incorrectly identified by isValid() as false.
+
+URL: h3t://go.com:65a/..//file
+Passed: The URL "h3t://go.com:65a/..//file" was correctly identified by isValid() as false.
+
+URL: ://go.cc
+Passed: The URL "://go.cc" was correctly identified by isValid() as false.
+
+URL: 3ht://aaa.:65535/../?action=view
+Passed: The URL "3ht://aaa.:65535/../?action=view" was correctly identified by isValid() as false.
+
+URL: h3t://www.google.com:0/test1/
+Passed: The URL "h3t://www.google.com:0/test1/" was correctly identified by isValid() as true.
+
+URL: ftp://255.255.255.255:0/test1/
+Passed: The URL "ftp://255.255.255.255:0/test1/" was correctly identified by isValid() as true.
+
+URL: http://go.au:65a/$23?action=edit&mode=up
+Passed: The URL "http://go.au:65a/$23?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ftp://256.256.256.256:65a/test1/
+Passed: The URL "ftp://256.256.256.256:65a/test1/" was correctly identified by isValid() as false.
+
+URL: http://255.255.255.255:0/$23
+Passed: The URL "http://255.255.255.255:0/$23" was correctly identified by isValid() as true.
+
+URL: .1.2.3.4:80/..
+Passed: The URL ".1.2.3.4:80/.." was correctly identified by isValid() as false.
+
+URL: http:/go.a1a:80/test1/
+Passed: The URL "http:/go.a1a:80/test1/" was correctly identified by isValid() as false.
+
+URL: http:go.1aa:-1/test1//file
+Passed: The URL "http:go.1aa:-1/test1//file" was correctly identified by isValid() as false.
+
+URL: .aaa:65535/test1//file?action=edit&mode=up
+Passed: The URL ".aaa:65535/test1//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:/1.2.3.4.:-1/../
+Passed: The URL "http:/1.2.3.4.:-1/../" was correctly identified by isValid() as false.
+
+URL: h3t://aaa./../?action=edit&mode=up
+Passed: The URL "h3t://aaa./../?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: h3t://.1.2.3.4:65535
+Passed: The URL "h3t://.1.2.3.4:65535" was correctly identified by isValid() as false.
+
+URL: ftp://aaa.:65a?action=edit&mode=up
+Passed: The URL "ftp://aaa.:65a?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: h3t://go.au:65a/test1/?action=edit&mode=up
+Passed: The URL "h3t://go.au:65a/test1/?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:1.2.3.4.:65a/..//file?action=view
+Passed: The URL "http:1.2.3.4.:65a/..//file?action=view" was correctly identified by isValid() as false.
+
+URL: 255.com:80/test1/?action=view
+Failed: The URL "255.com:80/test1/?action=view" was incorrectly identified by isValid() as false.
+
+URL: 256.256.256.256:0/..?action=view
+Passed: The URL "256.256.256.256:0/..?action=view" was correctly identified by isValid() as false.
+
+URL: http:/255.255.255.255/test1//file
+Passed: The URL "http:/255.255.255.255/test1//file" was correctly identified by isValid() as false.
+
+URL: go.1aa/test1?action=view
+Passed: The URL "go.1aa/test1?action=view" was correctly identified by isValid() as false.
+
+URL: 1.2.3:0/test1/file?action=view
+Passed: The URL "1.2.3:0/test1/file?action=view" was correctly identified by isValid() as false.
+
+URL: aaa:65535/test1//file?action=edit&mode=up
+Passed: The URL "aaa:65535/test1//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:go.a1a:65636/..?action=view
+Passed: The URL "http:go.a1a:65636/..?action=view" was correctly identified by isValid() as false.
+
+URL: http:256.256.256.256:80/..?action=edit&mode=up
+Passed: The URL "http:256.256.256.256:80/..?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: 3ht://255.com:65535/test1
+Passed: The URL "3ht://255.com:65535/test1" was correctly identified by isValid() as false.
+
+URL: http://go.com:65636/../?action=edit&mode=up
+Passed: The URL "http://go.com:65636/../?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:go.com:65a/test1?action=edit&mode=up
+Passed: The URL "http:go.com:65a/test1?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: 3ht://go.a1a:-1/t123?action=view
+Passed: The URL "3ht://go.a1a:-1/t123?action=view" was correctly identified by isValid() as false.
+
+URL: ftp://1.2.3:0/..?action=view
+Passed: The URL "ftp://1.2.3:0/..?action=view" was correctly identified by isValid() as false.
+
+URL: h3t://go.a:65535/t123?action=view
+Passed: The URL "h3t://go.a:65535/t123?action=view" was correctly identified by isValid() as false.
+
+URL: http/go.au/..//file?action=edit&mode=up
+Passed: The URL "http/go.au/..//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ftp://:0/test1//file
+Passed: The URL "ftp://:0/test1//file" was correctly identified by isValid() as false.
+
+URL: ftp://255.255.255.255:80?action=view
+Failed: The URL "ftp://255.255.255.255:80?action=view" was incorrectly identified by isValid() as false.
+
+URL: http:go.com:80/..
+Passed: The URL "http:go.com:80/.." was correctly identified by isValid() as false.
+
+URL: http:/www.google.com:-1/../
+Passed: The URL "http:/www.google.com:-1/../" was correctly identified by isValid() as false.
+
+URL: ftp://www.google.com:65535/..?action=edit&mode=up
+Passed: The URL "ftp://www.google.com:65535/..?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http/go.a:80/$23?action=edit&mode=up
+Passed: The URL "http/go.a:80/$23?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: 3ht://www.google.com:-1/..//file?action=view
+Passed: The URL "3ht://www.google.com:-1/..//file?action=view" was correctly identified by isValid() as false.
+
+URL: http:/255.255.255.255:65a?action=view
+Passed: The URL "http:/255.255.255.255:65a?action=view" was correctly identified by isValid() as false.
+
+URL: ://www.google.com:65636?action=edit&mode=up
+Passed: The URL "://www.google.com:65636?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:/go.com:65636/test1
+Passed: The URL "http:/go.com:65636/test1" was correctly identified by isValid() as false.
+
+URL: ://.1.2.3.4:65636/..//file?action=edit&mode=up
+Passed: The URL "://.1.2.3.4:65636/..//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http/go.a:65636/..//file?action=view
+Passed: The URL "http/go.a:65636/..//file?action=view" was correctly identified by isValid() as false.
+
+URL: http://go.a:65a
+Passed: The URL "http://go.a:65a" was correctly identified by isValid() as false.
+
+URL: http://aaa:65a/..?action=edit&mode=up
+Passed: The URL "http://aaa:65a/..?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:/1.2.3.4.5/test1/?action=view
+Passed: The URL "http:/1.2.3.4.5/test1/?action=view" was correctly identified by isValid() as false.
+
+URL: http://256.256.256.256:65636/../
+Passed: The URL "http://256.256.256.256:65636/../" was correctly identified by isValid() as false.
+
+URL: http://255.255.255.255:80/test1//file?action=view
+Passed: The URL "http://255.255.255.255:80/test1//file?action=view" was correctly identified by isValid() as false.
+
+URL: h3t://go.au:65535?action=view
+Failed: The URL "h3t://go.au:65535?action=view" was incorrectly identified by isValid() as false.
+
+URL: http/1.2.3/t123
+Passed: The URL "http/1.2.3/t123" was correctly identified by isValid() as false.
+
+URL: ://go.com:0/..//file?action=edit&mode=up
+Passed: The URL "://go.com:0/..//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:/0.0.0.0:-1/..//file?action=view
+Passed: The URL "http:/0.0.0.0:-1/..//file?action=view" was correctly identified by isValid() as false.
+
+URL: ftp://go.1aa/test1
+Passed: The URL "ftp://go.1aa/test1" was correctly identified by isValid() as false.
+
+URL: http:/1.2.3/t123?action=view
+Passed: The URL "http:/1.2.3/t123?action=view" was correctly identified by isValid() as false.
+
+URL: http://go.a1a:65535/..//file
+Passed: The URL "http://go.a1a:65535/..//file" was correctly identified by isValid() as false.
+
+URL: ftp://go.1aa/test1/
+Passed: The URL "ftp://go.1aa/test1/" was correctly identified by isValid() as false.
+
+URL: http:go.a:65636/test1?action=edit&mode=up
+Passed: The URL "http:go.a:65636/test1?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http://go.a:-1/..
+Passed: The URL "http://go.a:-1/.." was correctly identified by isValid() as false.
+
+URL: ://255.com:80/test1/file?action=edit&mode=up
+Passed: The URL "://255.com:80/test1/file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:.aaa:0/test1
+Passed: The URL "http:.aaa:0/test1" was correctly identified by isValid() as false.
+
+URL: 3ht://go.com:65a/test1/file?action=view
+Passed: The URL "3ht://go.com:65a/test1/file?action=view" was correctly identified by isValid() as false.
+
+URL: 255.com:0/$23?action=edit&mode=up
+Failed: The URL "255.com:0/$23?action=edit&mode=up" was incorrectly identified by isValid() as false.
+
+URL: h3t://aaa.:0/t123?action=view
+Passed: The URL "h3t://aaa.:0/t123?action=view" was correctly identified by isValid() as false.
+
+URL: ftp://255.com:65a/..?action=edit&mode=up
+Passed: The URL "ftp://255.com:65a/..?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ftp://1.2.3.4.:65535/t123?action=view
+Passed: The URL "ftp://1.2.3.4.:65535/t123?action=view" was correctly identified by isValid() as false.
+
+URL: 3ht://:65a/t123
+Passed: The URL "3ht://:65a/t123" was correctly identified by isValid() as false.
+
+URL: ://256.256.256.256:80/test1?action=view
+Passed: The URL "://256.256.256.256:80/test1?action=view" was correctly identified by isValid() as false.
+
+URL: http://go.com:80/$23
+Passed: The URL "http://go.com:80/$23" was correctly identified by isValid() as true.
+
+URL: http:/:-1/../
+Passed: The URL "http:/:-1/../" was correctly identified by isValid() as false.
+
+URL: 3ht://go.1aa:65636/test1/?action=edit&mode=up
+Passed: The URL "3ht://go.1aa:65636/test1/?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http/.aaa/test1/file?action=view
+Passed: The URL "http/.aaa/test1/file?action=view" was correctly identified by isValid() as false.
+
+URL: 255.com:80/test1/file?action=view
+Failed: The URL "255.com:80/test1/file?action=view" was incorrectly identified by isValid() as false.
+
+URL: http/go.cc:-1/$23
+Passed: The URL "http/go.cc:-1/$23" was correctly identified by isValid() as false.
+
+URL: http/go.au/test1/file?action=edit&mode=up
+Passed: The URL "http/go.au/test1/file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ftp://256.256.256.256:65636/test1/?action=edit&mode=up
+Passed: The URL "ftp://256.256.256.256:65636/test1/?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http/.1.2.3.4:80/../
+Passed: The URL "http/.1.2.3.4:80/../" was correctly identified by isValid() as false.
+
+URL: h3t://1.2.3.4.5/test1/file?action=view
+Passed: The URL "h3t://1.2.3.4.5/test1/file?action=view" was correctly identified by isValid() as false.
+
+URL: http:1.2.3:65a/..?action=edit&mode=up
+Passed: The URL "http:1.2.3:65a/..?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: h3t://0.0.0.0:-1/test1/?action=view
+Passed: The URL "h3t://0.0.0.0:-1/test1/?action=view" was correctly identified by isValid() as false.
+
+URL: http/255.com:0/test1/file
+Passed: The URL "http/255.com:0/test1/file" was correctly identified by isValid() as false.
+
+URL: 3ht://:-1/test1/?action=edit&mode=up
+Passed: The URL "3ht://:-1/test1/?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: h3t://go.com:65636/$23?action=view
+Failed: The URL "h3t://go.com:65636/$23?action=view" was incorrectly identified by isValid() as false.
+
+URL: 3ht://1.2.3:65535/test1/file?action=view
+Passed: The URL "3ht://1.2.3:65535/test1/file?action=view" was correctly identified by isValid() as false.
+
+URL: http:/www.google.com/test1//file
+Passed: The URL "http:/www.google.com/test1//file" was correctly identified by isValid() as false.
+
+URL: http:/go.au/test1//file
+Passed: The URL "http:/go.au/test1//file" was correctly identified by isValid() as false.
+
+URL: ftp://www.google.com:80/test1/?action=edit&mode=up
+Failed: The URL "ftp://www.google.com:80/test1/?action=edit&mode=up" was incorrectly identified by isValid() as false.
+
+URL: http:go.a1a:0/$23?action=view
+Passed: The URL "http:go.a1a:0/$23?action=view" was correctly identified by isValid() as false.
+
+URL: h3t://aaa.:80/../?action=edit&mode=up
+Passed: The URL "h3t://aaa.:80/../?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:aaa:65a/..//file?action=edit&mode=up
+Passed: The URL "http:aaa:65a/..//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http/1.2.3.4.5:65535/../?action=edit&mode=up
+Passed: The URL "http/1.2.3.4.5:65535/../?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http/go.cc/../?action=view
+Passed: The URL "http/go.cc/../?action=view" was correctly identified by isValid() as false.
+
+URL: http/1.2.3.4.5:80/../?action=edit&mode=up
+Passed: The URL "http/1.2.3.4.5:80/../?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:/www.google.com:0/../?action=view
+Passed: The URL "http:/www.google.com:0/../?action=view" was correctly identified by isValid() as false.
+
+URL: http:go.a/test1/?action=edit&mode=up
+Passed: The URL "http:go.a/test1/?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: go.a:0/test1//file?action=view
+Passed: The URL "go.a:0/test1//file?action=view" was correctly identified by isValid() as false.
+
+URL: ftp://1.2.3.4.5:-1?action=edit&mode=up
+Passed: The URL "ftp://1.2.3.4.5:-1?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: h3t://255.255.255.255/test1//file?action=view
+Passed: The URL "h3t://255.255.255.255/test1//file?action=view" was correctly identified by isValid() as false.
+
+URL: ://1.2.3.4.5:-1/test1/
+Passed: The URL "://1.2.3.4.5:-1/test1/" was correctly identified by isValid() as false.
+
+URL: 3ht://go.1aa:0/test1
+Passed: The URL "3ht://go.1aa:0/test1" was correctly identified by isValid() as false.
+
+URL: http/go.1aa:65a/t123?action=edit&mode=up
+Passed: The URL "http/go.1aa:65a/t123?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http/255.255.255.255:65a/test1/?action=edit&mode=up
+Passed: The URL "http/255.255.255.255:65a/test1/?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: :65a/..//file?action=edit&mode=up
+Passed: The URL ":65a/..//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ftp://go.au:65636/$23?action=edit&mode=up
+Failed: The URL "ftp://go.au:65636/$23?action=edit&mode=up" was incorrectly identified by isValid() as false.
+
+URL: http://256.256.256.256:0/..//file?action=view
+Passed: The URL "http://256.256.256.256:0/..//file?action=view" was correctly identified by isValid() as false.
+
+URL: http://aaa.:65636/test1/?action=view
+Passed: The URL "http://aaa.:65636/test1/?action=view" was correctly identified by isValid() as false.
+
+URL: 1.2.3.4.:-1/..?action=view
+Passed: The URL "1.2.3.4.:-1/..?action=view" was correctly identified by isValid() as false.
+
+URL: http:go.a1a:-1/test1?action=edit&mode=up
+Passed: The URL "http:go.a1a:-1/test1?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ://go.1aa:65535/test1
+Passed: The URL "://go.1aa:65535/test1" was correctly identified by isValid() as false.
+
+URL: http://1.2.3:65a/test1?action=edit&mode=up
+Passed: The URL "http://1.2.3:65a/test1?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: 3ht://go.a1a:65a/$23?action=view
+Passed: The URL "3ht://go.a1a:65a/$23?action=view" was correctly identified by isValid() as false.
+
+URL: ://go.a1a:-1/..//file?action=view
+Passed: The URL "://go.a1a:-1/..//file?action=view" was correctly identified by isValid() as false.
+
+URL: http:go.au/../
+Passed: The URL "http:go.au/../" was correctly identified by isValid() as false.
+
+URL: 3ht://0.0.0.0:80/test1/
+Passed: The URL "3ht://0.0.0.0:80/test1/" was correctly identified by isValid() as false.
+
+URL: h3t://1.2.3:0/$23
+Passed: The URL "h3t://1.2.3:0/$23" was correctly identified by isValid() as false.
+
+URL: 3ht://:0/test1/?action=edit&mode=up
+Passed: The URL "3ht://:0/test1/?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:www.google.com:65a/test1?action=view
+Passed: The URL "http:www.google.com:65a/test1?action=view" was correctly identified by isValid() as false.
+
+URL: .aaa:65636/$23?action=view
+Passed: The URL ".aaa:65636/$23?action=view" was correctly identified by isValid() as false.
+
+URL: http::80/test1/file
+Passed: The URL "http::80/test1/file" was correctly identified by isValid() as false.
+
+URL: h3t://255.255.255.255:80/..?action=edit&mode=up
+Passed: The URL "h3t://255.255.255.255:80/..?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: 3ht://255.com:0/test1//file
+Passed: The URL "3ht://255.com:0/test1//file" was correctly identified by isValid() as false.
+
+URL: h3t://1.2.3.4.:65a/test1/file?action=edit&mode=up
+Passed: The URL "h3t://1.2.3.4.:65a/test1/file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http/0.0.0.0:65636/$23?action=edit&mode=up
+Passed: The URL "http/0.0.0.0:65636/$23?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: 255.255.255.255:-1/../
+Passed: The URL "255.255.255.255:-1/../" was correctly identified by isValid() as false.
+
+URL: ftp://aaa:65636/..//file
+Passed: The URL "ftp://aaa:65636/..//file" was correctly identified by isValid() as false.
+
+URL: h3t://1.2.3:65a/test1?action=edit&mode=up
+Passed: The URL "h3t://1.2.3:65a/test1?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: 0.0.0.0:65636/..//file?action=view
+Passed: The URL "0.0.0.0:65636/..//file?action=view" was correctly identified by isValid() as false.
+
+URL: 3ht://1.2.3:65535/test1/file?action=view
+Passed: The URL "3ht://1.2.3:65535/test1/file?action=view" was correctly identified by isValid() as false.
+
+URL: http://.1.2.3.4:65636/test1//file
+Passed: The URL "http://.1.2.3.4:65636/test1//file" was correctly identified by isValid() as false.
+
+URL: http://aaa:-1/..//file?action=edit&mode=up
+Passed: The URL "http://aaa:-1/..//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: h3t://go.a:65a/test1
+Passed: The URL "h3t://go.a:65a/test1" was correctly identified by isValid() as false.
+
+URL: http://256.256.256.256/test1/?action=view
+Passed: The URL "http://256.256.256.256/test1/?action=view" was correctly identified by isValid() as false.
+
+URL: http:go.cc/test1/file
+Passed: The URL "http:go.cc/test1/file" was correctly identified by isValid() as false.
+
+URL: .1.2.3.4/test1/?action=view
+Passed: The URL ".1.2.3.4/test1/?action=view" was correctly identified by isValid() as false.
+
+URL: ftp://go.a/..//file?action=edit&mode=up
+Passed: The URL "ftp://go.a/..//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:go.cc:65636/t123?action=view
+Passed: The URL "http:go.cc:65636/t123?action=view" was correctly identified by isValid() as false.
+
+URL: http::0
+Passed: The URL "http::0" was correctly identified by isValid() as false.
+
+URL: 3ht://255.com:80/$23?action=edit&mode=up
+Passed: The URL "3ht://255.com:80/$23?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: h3t://go.1aa:65535/$23?action=view
+Passed: The URL "h3t://go.1aa:65535/$23?action=view" was correctly identified by isValid() as false.
+
+URL: http:/0.0.0.0:-1/test1?action=edit&mode=up
+Passed: The URL "http:/0.0.0.0:-1/test1?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ://go.1aa:-1/t123
+Passed: The URL "://go.1aa:-1/t123" was correctly identified by isValid() as false.
+
+URL: http://.aaa:0/../
+Passed: The URL "http://.aaa:0/../" was correctly identified by isValid() as false.
+
+URL: ://256.256.256.256:65a/..?action=edit&mode=up
+Passed: The URL "://256.256.256.256:65a/..?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ://.1.2.3.4:65a
+Passed: The URL "://.1.2.3.4:65a" was correctly identified by isValid() as false.
+
+URL: http:/1.2.3.4.5:-1/test1/file
+Passed: The URL "http:/1.2.3.4.5:-1/test1/file" was correctly identified by isValid() as false.
+
+URL: www.google.com/test1/file?action=edit&mode=up
+Failed: The URL "www.google.com/test1/file?action=edit&mode=up" was incorrectly identified by isValid() as false.
+
+URL: 3ht://go.a1a:-1/test1?action=view
+Passed: The URL "3ht://go.a1a:-1/test1?action=view" was correctly identified by isValid() as false.
+
+URL: h3t://1.2.3.4.:0/..?action=view
+Passed: The URL "h3t://1.2.3.4.:0/..?action=view" was correctly identified by isValid() as false.
+
+URL: http:1.2.3:-1/..//file
+Passed: The URL "http:1.2.3:-1/..//file" was correctly identified by isValid() as false.
+
+URL: .aaa:65535/test1/file?action=view
+Passed: The URL ".aaa:65535/test1/file?action=view" was correctly identified by isValid() as false.
+
+URL: ://www.google.com:65535/test1//file?action=edit&mode=up
+Passed: The URL "://www.google.com:65535/test1//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:/aaa.:80/$23
+Passed: The URL "http:/aaa.:80/$23" was correctly identified by isValid() as false.
+
+URL: ftp://:-1?action=edit&mode=up
+Passed: The URL "ftp://:-1?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http/255.com:-1/..?action=view
+Passed: The URL "http/255.com:-1/..?action=view" was correctly identified by isValid() as false.
+
+URL: ://.1.2.3.4:65a/test1/file?action=edit&mode=up
+Passed: The URL "://.1.2.3.4:65a/test1/file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: h3t://aaa/test1/file?action=view
+Passed: The URL "h3t://aaa/test1/file?action=view" was correctly identified by isValid() as false.
+
+URL: h3t://256.256.256.256:65535/test1/
+Passed: The URL "h3t://256.256.256.256:65535/test1/" was correctly identified by isValid() as false.
+
+URL: ://0.0.0.0:-1/../
+Passed: The URL "://0.0.0.0:-1/../" was correctly identified by isValid() as false.
+
+URL: 3ht://aaa:-1/../
+Passed: The URL "3ht://aaa:-1/../" was correctly identified by isValid() as false.
+
+URL: 3ht://go.a1a:-1/test1/?action=view
+Passed: The URL "3ht://go.a1a:-1/test1/?action=view" was correctly identified by isValid() as false.
+
+URL: http:/255.255.255.255/../?action=edit&mode=up
+Passed: The URL "http:/255.255.255.255/../?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http/go.1aa:65535?action=edit&mode=up
+Passed: The URL "http/go.1aa:65535?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: h3t://1.2.3.4.:-1
+Passed: The URL "h3t://1.2.3.4.:-1" was correctly identified by isValid() as false.
+
+URL: ://go.cc:0/..//file?action=view
+Passed: The URL "://go.cc:0/..//file?action=view" was correctly identified by isValid() as false.
+
+URL: :65a/test1?action=view
+Passed: The URL ":65a/test1?action=view" was correctly identified by isValid() as false.
+
+URL: 1.2.3.4.5:0/test1//file?action=edit&mode=up
+Passed: The URL "1.2.3.4.5:0/test1//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http::65636/t123?action=view
+Passed: The URL "http::65636/t123?action=view" was correctly identified by isValid() as false.
+
+URL: http:/aaa/..//file?action=edit&mode=up
+Passed: The URL "http:/aaa/..//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:/255.255.255.255/../?action=view
+Passed: The URL "http:/255.255.255.255/../?action=view" was correctly identified by isValid() as false.
+
+URL: www.google.com:65a/test1
+Passed: The URL "www.google.com:65a/test1" was correctly identified by isValid() as false.
+
+URL: http/.aaa:-1/../?action=edit&mode=up
+Passed: The URL "http/.aaa:-1/../?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http://aaa:65a/test1/file?action=edit&mode=up
+Passed: The URL "http://aaa:65a/test1/file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: 3ht://go.1aa:-1/..//file
+Passed: The URL "3ht://go.1aa:-1/..//file" was correctly identified by isValid() as false.
+
+URL: http://.aaa:-1/../?action=edit&mode=up
+Passed: The URL "http://.aaa:-1/../?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: h3t://1.2.3.4.:0/..
+Passed: The URL "h3t://1.2.3.4.:0/.." was correctly identified by isValid() as false.
+
+URL: ftp://255.255.255.255:0
+Passed: The URL "ftp://255.255.255.255:0" was correctly identified by isValid() as true.
+
+URL: http:/go.com/$23
+Passed: The URL "http:/go.com/$23" was correctly identified by isValid() as false.
+
+URL: h3t://.1.2.3.4:65a/t123?action=view
+Passed: The URL "h3t://.1.2.3.4:65a/t123?action=view" was correctly identified by isValid() as false.
+
+URL: http/1.2.3.4.5:80?action=edit&mode=up
+Passed: The URL "http/1.2.3.4.5:80?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ftp://aaa/..//file?action=edit&mode=up
+Passed: The URL "ftp://aaa/..//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: go.com/..
+Passed: The URL "go.com/.." was correctly identified by isValid() as false.
+
+URL: h3t://1.2.3:65636/t123?action=view
+Passed: The URL "h3t://1.2.3:65636/t123?action=view" was correctly identified by isValid() as false.
+
+URL: ://aaa:0/t123?action=edit&mode=up
+Passed: The URL "://aaa:0/t123?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http::65535/test1?action=view
+Passed: The URL "http::65535/test1?action=view" was correctly identified by isValid() as false.
+
+URL: 3ht://go.1aa:0/test1/file?action=view
+Passed: The URL "3ht://go.1aa:0/test1/file?action=view" was correctly identified by isValid() as false.
+
+URL: .1.2.3.4:65636/test1/file?action=view
+Passed: The URL ".1.2.3.4:65636/test1/file?action=view" was correctly identified by isValid() as false.
+
+URL: http:/255.com:65a/test1/file?action=edit&mode=up
+Passed: The URL "http:/255.com:65a/test1/file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ://1.2.3.4.5:65636/../?action=edit&mode=up
+Passed: The URL "://1.2.3.4.5:65636/../?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: 3ht://aaa:80/test1/
+Passed: The URL "3ht://aaa:80/test1/" was correctly identified by isValid() as false.
+
+URL: http:www.google.com:0/test1?action=edit&mode=up
+Passed: The URL "http:www.google.com:0/test1?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:/1.2.3.4.:80/$23?action=edit&mode=up
+Passed: The URL "http:/1.2.3.4.:80/$23?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: h3t://go.a:65535/test1?action=edit&mode=up
+Passed: The URL "h3t://go.a:65535/test1?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ftp://go.cc:65535/test1//file
+Passed: The URL "ftp://go.cc:65535/test1//file" was correctly identified by isValid() as false.
+
+URL: http:255.255.255.255:65a/test1
+Passed: The URL "http:255.255.255.255:65a/test1" was correctly identified by isValid() as false.
+
+URL: http/1.2.3.4.5:0/test1/file?action=edit&mode=up
+Passed: The URL "http/1.2.3.4.5:0/test1/file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ://255.com:65a/../
+Passed: The URL "://255.com:65a/../" was correctly identified by isValid() as false.
+
+URL: h3t://aaa:65a/..?action=edit&mode=up
+Passed: The URL "h3t://aaa:65a/..?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: h3t://aaa.:80/..//file?action=edit&mode=up
+Passed: The URL "h3t://aaa.:80/..//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: h3t://go.au:0/test1//file
+Passed: The URL "h3t://go.au:0/test1//file" was correctly identified by isValid() as false.
+
+URL: ftp://1.2.3.4.5/..//file?action=edit&mode=up
+Passed: The URL "ftp://1.2.3.4.5/..//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: 3ht://go.com:65535/test1//file
+Passed: The URL "3ht://go.com:65535/test1//file" was correctly identified by isValid() as false.
+
+URL: ftp://:-1/../
+Passed: The URL "ftp://:-1/../" was correctly identified by isValid() as false.
+
+URL: http:/.1.2.3.4/t123
+Passed: The URL "http:/.1.2.3.4/t123" was correctly identified by isValid() as false.
+
+URL: http/go.cc:65636/test1?action=edit&mode=up
+Passed: The URL "http/go.cc:65636/test1?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ftp://1.2.3.4.5:65535/test1
+Passed: The URL "ftp://1.2.3.4.5:65535/test1" was correctly identified by isValid() as false.
+
+URL: ftp://go.a/..?action=edit&mode=up
+Passed: The URL "ftp://go.a/..?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http/1.2.3.4.:65a/test1
+Passed: The URL "http/1.2.3.4.:65a/test1" was correctly identified by isValid() as false.
+
+URL: ://:65535/..//file?action=view
+Passed: The URL "://:65535/..//file?action=view" was correctly identified by isValid() as false.
+
+URL: ftp://go.com:80/test1/?action=edit&mode=up
+Failed: The URL "ftp://go.com:80/test1/?action=edit&mode=up" was incorrectly identified by isValid() as false.
+
+URL: h3t://go.cc:0
+Passed: The URL "h3t://go.cc:0" was correctly identified by isValid() as true.
+
+URL: ftp://go.com:80/$23?action=view
+Failed: The URL "ftp://go.com:80/$23?action=view" was incorrectly identified by isValid() as false.
+
+URL: http:/1.2.3.4.:80/..//file?action=view
+Passed: The URL "http:/1.2.3.4.:80/..//file?action=view" was correctly identified by isValid() as false.
+
+URL: http/255.com:-1/../?action=edit&mode=up
+Passed: The URL "http/255.com:-1/../?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ://255.255.255.255:-1/test1/?action=view
+Passed: The URL "://255.255.255.255:-1/test1/?action=view" was correctly identified by isValid() as false.
+
+URL: ftp://go.a1a:0/test1
+Passed: The URL "ftp://go.a1a:0/test1" was correctly identified by isValid() as false.
+
+URL: http/1.2.3:65a/t123?action=edit&mode=up
+Passed: The URL "http/1.2.3:65a/t123?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: 3ht://1.2.3.4.5:65a/..
+Passed: The URL "3ht://1.2.3.4.5:65a/.." was correctly identified by isValid() as false.
+
+URL: http://:65636/..//file?action=edit&mode=up
+Passed: The URL "http://:65636/..//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http::-1/test1/file?action=view
+Passed: The URL "http::-1/test1/file?action=view" was correctly identified by isValid() as false.
+
+URL: http:/255.255.255.255:65a/../
+Passed: The URL "http:/255.255.255.255:65a/../" was correctly identified by isValid() as false.
+
+URL: http:/aaa./test1/?action=view
+Passed: The URL "http:/aaa./test1/?action=view" was correctly identified by isValid() as false.
+
+URL: ://go.au:0
+Passed: The URL "://go.au:0" was correctly identified by isValid() as false.
+
+URL: 3ht://1.2.3:65535/test1/
+Passed: The URL "3ht://1.2.3:65535/test1/" was correctly identified by isValid() as false.
+
+URL: http:/0.0.0.0:65a/test1/file?action=edit&mode=up
+Passed: The URL "http:/0.0.0.0:65a/test1/file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ftp://1.2.3.4.5:65636/..//file?action=view
+Passed: The URL "ftp://1.2.3.4.5:65636/..//file?action=view" was correctly identified by isValid() as false.
+
+URL: http:go.a1a:80/test1//file?action=edit&mode=up
+Passed: The URL "http:go.a1a:80/test1//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: 3ht://aaa:0/$23?action=edit&mode=up
+Passed: The URL "3ht://aaa:0/$23?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:/go.a
+Passed: The URL "http:/go.a" was correctly identified by isValid() as false.
+
+URL: http://256.256.256.256:65a/..?action=edit&mode=up
+Passed: The URL "http://256.256.256.256:65a/..?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: 3ht://go.cc:80/$23?action=edit&mode=up
+Passed: The URL "3ht://go.cc:80/$23?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: 3ht://go.a1a:65535/test1//file
+Passed: The URL "3ht://go.a1a:65535/test1//file" was correctly identified by isValid() as false.
+
+URL: http:/255.com:65636/test1//file?action=view
+Passed: The URL "http:/255.com:65636/test1//file?action=view" was correctly identified by isValid() as false.
+
+URL: 3ht://.aaa:0/..
+Passed: The URL "3ht://.aaa:0/.." was correctly identified by isValid() as false.
+
+URL: ://:0/test1
+Passed: The URL "://:0/test1" was correctly identified by isValid() as false.
+
+URL: http/:-1/../?action=view
+Passed: The URL "http/:-1/../?action=view" was correctly identified by isValid() as false.
+
+URL: http/1.2.3:80/test1/file?action=edit&mode=up
+Passed: The URL "http/1.2.3:80/test1/file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:/go.cc:-1/$23?action=edit&mode=up
+Passed: The URL "http:/go.cc:-1/$23?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:/.1.2.3.4:0/test1/?action=edit&mode=up
+Passed: The URL "http:/.1.2.3.4:0/test1/?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http://aaa.:0/test1/
+Passed: The URL "http://aaa.:0/test1/" was correctly identified by isValid() as false.
+
+URL: http:www.google.com:80/test1/file?action=edit&mode=up
+Passed: The URL "http:www.google.com:80/test1/file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:/.1.2.3.4:0/..//file?action=edit&mode=up
+Passed: The URL "http:/.1.2.3.4:0/..//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:/aaa:65535/test1?action=edit&mode=up
+Passed: The URL "http:/aaa:65535/test1?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http://256.256.256.256:65636/..
+Passed: The URL "http://256.256.256.256:65636/.." was correctly identified by isValid() as false.
+
+URL: http://aaa/..?action=edit&mode=up
+Passed: The URL "http://aaa/..?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: go.com:65636/..//file?action=view
+Passed: The URL "go.com:65636/..//file?action=view" was correctly identified by isValid() as false.
+
+URL: ://1.2.3.4.5:65535/test1//file
+Passed: The URL "://1.2.3.4.5:65535/test1//file" was correctly identified by isValid() as false.
+
+URL: h3t://1.2.3.4.5:65a/test1?action=edit&mode=up
+Passed: The URL "h3t://1.2.3.4.5:65a/test1?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:aaa:65535
+Passed: The URL "http:aaa:65535" was correctly identified by isValid() as false.
+
+URL: http:/go.cc:65535/test1?action=edit&mode=up
+Passed: The URL "http:/go.cc:65535/test1?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:go.au:65a?action=edit&mode=up
+Passed: The URL "http:go.au:65a?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http/aaa.:65a/test1/file?action=edit&mode=up
+Passed: The URL "http/aaa.:65a/test1/file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http://1.2.3.4.:0/../
+Passed: The URL "http://1.2.3.4.:0/../" was correctly identified by isValid() as false.
+
+URL: http:0.0.0.0:0/test1?action=view
+Passed: The URL "http:0.0.0.0:0/test1?action=view" was correctly identified by isValid() as false.
+
+URL: http:www.google.com:65535/test1/file
+Passed: The URL "http:www.google.com:65535/test1/file" was correctly identified by isValid() as false.
+
+URL: 3ht://go.a1a:0/test1//file?action=view
+Passed: The URL "3ht://go.a1a:0/test1//file?action=view" was correctly identified by isValid() as false.
+
+URL: http:/:65636/$23
+Passed: The URL "http:/:65636/$23" was correctly identified by isValid() as false.
+
+URL: http/go.com:-1/test1//file?action=view
+Passed: The URL "http/go.com:-1/test1//file?action=view" was correctly identified by isValid() as false.
+
+URL: http/go.1aa:65636/$23
+Passed: The URL "http/go.1aa:65636/$23" was correctly identified by isValid() as false.
+
+URL: ftp://www.google.com:65a/..?action=view
+Passed: The URL "ftp://www.google.com:65a/..?action=view" was correctly identified by isValid() as false.
+
+URL: 3ht://www.google.com:80/..//file
+Passed: The URL "3ht://www.google.com:80/..//file" was correctly identified by isValid() as false.
+
+URL: http/0.0.0.0?action=edit&mode=up
+Passed: The URL "http/0.0.0.0?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ://1.2.3.4.5:65535/..
+Passed: The URL "://1.2.3.4.5:65535/.." was correctly identified by isValid() as false.
+
+URL: http:go.a:0/..//file?action=view
+Passed: The URL "http:go.a:0/..//file?action=view" was correctly identified by isValid() as false.
+
+URL: ftp://aaa:65a/test1
+Passed: The URL "ftp://aaa:65a/test1" was correctly identified by isValid() as false.
+
+URL: ://:65535/t123
+Passed: The URL "://:65535/t123" was correctly identified by isValid() as false.
+
+URL: http://255.255.255.255:65a/test1?action=view
+Passed: The URL "http://255.255.255.255:65a/test1?action=view" was correctly identified by isValid() as false.
+
+URL: h3t://aaa:-1/../?action=view
+Passed: The URL "h3t://aaa:-1/../?action=view" was correctly identified by isValid() as false.
+
+URL: http://0.0.0.0:65636/test1//file?action=view
+Passed: The URL "http://0.0.0.0:65636/test1//file?action=view" was correctly identified by isValid() as false.
+
+URL: 1.2.3.4.:-1/$23
+Passed: The URL "1.2.3.4.:-1/$23" was correctly identified by isValid() as false.
+
+URL: http://go.au:65636
+Failed: The URL "http://go.au:65636" was incorrectly identified by isValid() as false.
+
+URL: http://go.1aa:-1/..//file
+Passed: The URL "http://go.1aa:-1/..//file" was correctly identified by isValid() as false.
+
+URL: 3ht://1.2.3.4.5:-1?action=view
+Passed: The URL "3ht://1.2.3.4.5:-1?action=view" was correctly identified by isValid() as false.
+
+URL: http://go.a1a:-1/..
+Passed: The URL "http://go.a1a:-1/.." was correctly identified by isValid() as false.
+
+URL: http:go.a1a:0/t123?action=view
+Passed: The URL "http:go.a1a:0/t123?action=view" was correctly identified by isValid() as false.
+
+URL: ftp://go.a:80/t123
+Passed: The URL "ftp://go.a:80/t123" was correctly identified by isValid() as false.
+
+URL: ://1.2.3.4.5/../?action=view
+Passed: The URL "://1.2.3.4.5/../?action=view" was correctly identified by isValid() as false.
+
+URL: :65636
+Passed: The URL ":65636" was correctly identified by isValid() as false.
+
+URL: ://go.a:65a?action=edit&mode=up
+Passed: The URL "://go.a:65a?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:0.0.0.0:65535/test1//file
+Passed: The URL "http:0.0.0.0:65535/test1//file" was correctly identified by isValid() as false.
+
+URL: http://:65535/test1/
+Passed: The URL "http://:65535/test1/" was correctly identified by isValid() as false.
+
+URL: 3ht://.aaa:65a/test1/
+Passed: The URL "3ht://.aaa:65a/test1/" was correctly identified by isValid() as false.
+
+URL: http/.aaa:-1/test1
+Passed: The URL "http/.aaa:-1/test1" was correctly identified by isValid() as false.
+
+URL: ://.aaa:65636/test1/file?action=edit&mode=up
+Passed: The URL "://.aaa:65636/test1/file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: h3t://0.0.0.0:65a/..
+Passed: The URL "h3t://0.0.0.0:65a/.." was correctly identified by isValid() as false.
+
+URL: ://go.com:65a/t123?action=edit&mode=up
+Passed: The URL "://go.com:65a/t123?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ftp://go.a?action=view
+Passed: The URL "ftp://go.a?action=view" was correctly identified by isValid() as false.
+
+URL: 3ht://256.256.256.256:65a/test1//file
+Passed: The URL "3ht://256.256.256.256:65a/test1//file" was correctly identified by isValid() as false.
+
+URL: http:/go.au/t123?action=view
+Passed: The URL "http:/go.au/t123?action=view" was correctly identified by isValid() as false.
+
+URL: http/255.com:65a/test1//file?action=edit&mode=up
+Passed: The URL "http/255.com:65a/test1//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: h3t://go.au:65636/test1/?action=edit&mode=up
+Failed: The URL "h3t://go.au:65636/test1/?action=edit&mode=up" was incorrectly identified by isValid() as false.
+
+URL: 3ht://1.2.3.4.:65535/..//file?action=view
+Passed: The URL "3ht://1.2.3.4.:65535/..//file?action=view" was correctly identified by isValid() as false.
+
+URL: http:/go.a/test1/file?action=view
+Passed: The URL "http:/go.a/test1/file?action=view" was correctly identified by isValid() as false.
+
+URL: 3ht://go.1aa:65a/test1/file?action=view
+Passed: The URL "3ht://go.1aa:65a/test1/file?action=view" was correctly identified by isValid() as false.
+
+URL: http://1.2.3:-1/../?action=view
+Passed: The URL "http://1.2.3:-1/../?action=view" was correctly identified by isValid() as false.
+
+URL: .aaa:65636/test1//file?action=edit&mode=up
+Passed: The URL ".aaa:65636/test1//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: h3t://1.2.3.4.5:65636/$23?action=view
+Passed: The URL "h3t://1.2.3.4.5:65636/$23?action=view" was correctly identified by isValid() as false.
+
+URL: ftp://1.2.3:-1/test1/?action=edit&mode=up
+Passed: The URL "ftp://1.2.3:-1/test1/?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http://255.com:65535/test1/?action=edit&mode=up
+Failed: The URL "http://255.com:65535/test1/?action=edit&mode=up" was incorrectly identified by isValid() as false.
+
+URL: ftp://0.0.0.0:0/test1?action=view
+Failed: The URL "ftp://0.0.0.0:0/test1?action=view" was incorrectly identified by isValid() as false.
+
+URL: http://aaa.:65535/test1//file?action=edit&mode=up
+Passed: The URL "http://aaa.:65535/test1//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ://go.au/test1//file
+Passed: The URL "://go.au/test1//file" was correctly identified by isValid() as false.
+
+URL: h3t://256.256.256.256:80/../
+Passed: The URL "h3t://256.256.256.256:80/../" was correctly identified by isValid() as false.
+
+URL: go.cc:65535?action=view
+Failed: The URL "go.cc:65535?action=view" was incorrectly identified by isValid() as false.
+
+URL: 3ht://255.255.255.255:-1/t123?action=view
+Passed: The URL "3ht://255.255.255.255:-1/t123?action=view" was correctly identified by isValid() as false.
+
+URL: http/255.com:65535/test1/file
+Passed: The URL "http/255.com:65535/test1/file" was correctly identified by isValid() as false.
+
+URL: h3t://go.a:65535?action=edit&mode=up
+Passed: The URL "h3t://go.a:65535?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http/:65535/test1?action=view
+Passed: The URL "http/:65535/test1?action=view" was correctly identified by isValid() as false.
+
+URL: http:/www.google.com:65636?action=edit&mode=up
+Passed: The URL "http:/www.google.com:65636?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:255.255.255.255:65a/test1//file?action=edit&mode=up
+Passed: The URL "http:255.255.255.255:65a/test1//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http://255.255.255.255:-1/test1?action=view
+Passed: The URL "http://255.255.255.255:-1/test1?action=view" was correctly identified by isValid() as false.
+
+URL: ://1.2.3.4.5:-1?action=view
+Passed: The URL "://1.2.3.4.5:-1?action=view" was correctly identified by isValid() as false.
+
+URL: 3ht://go.cc:80
+Passed: The URL "3ht://go.cc:80" was correctly identified by isValid() as false.
+
+URL: http://go.com/test1/?action=edit&mode=up
+Failed: The URL "http://go.com/test1/?action=edit&mode=up" was incorrectly identified by isValid() as false.
+
+URL: ://go.au:65a?action=edit&mode=up
+Passed: The URL "://go.au:65a?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:255.com:-1/test1?action=view
+Passed: The URL "http:255.com:-1/test1?action=view" was correctly identified by isValid() as false.
+
+URL: http://1.2.3.4.:0/../?action=view
+Passed: The URL "http://1.2.3.4.:0/../?action=view" was correctly identified by isValid() as false.
+
+URL: 3ht://:65a/..
+Passed: The URL "3ht://:65a/.." was correctly identified by isValid() as false.
+
+URL: www.google.com:-1/test1//file
+Passed: The URL "www.google.com:-1/test1//file" was correctly identified by isValid() as false.
+
+URL: http/go.com:80/$23
+Passed: The URL "http/go.com:80/$23" was correctly identified by isValid() as false.
+
+URL: go.au/test1
+Failed: The URL "go.au/test1" was incorrectly identified by isValid() as false.
+
+URL: ftp://www.google.com:80/../?action=view
+Passed: The URL "ftp://www.google.com:80/../?action=view" was correctly identified by isValid() as false.
+
+URL: http/1.2.3.4.5/test1?action=view
+Passed: The URL "http/1.2.3.4.5/test1?action=view" was correctly identified by isValid() as false.
+
+URL: ftp://0.0.0.0:-1/test1/file?action=view
+Passed: The URL "ftp://0.0.0.0:-1/test1/file?action=view" was correctly identified by isValid() as false.
+
+URL: http://1.2.3.4.5:65636/test1/file?action=edit&mode=up
+Passed: The URL "http://1.2.3.4.5:65636/test1/file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http/go.a:65636/test1/
+Passed: The URL "http/go.a:65636/test1/" was correctly identified by isValid() as false.
+
+URL: http:go.cc/test1//file
+Passed: The URL "http:go.cc/test1//file" was correctly identified by isValid() as false.
+
+URL: http://go.1aa:-1/test1/
+Passed: The URL "http://go.1aa:-1/test1/" was correctly identified by isValid() as false.
+
+URL: ftp://go.com:0/test1/file?action=edit&mode=up
+Failed: The URL "ftp://go.com:0/test1/file?action=edit&mode=up" was incorrectly identified by isValid() as false.
+
+URL: .aaa:65535/t123?action=edit&mode=up
+Passed: The URL ".aaa:65535/t123?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ftp://go.a:65636?action=edit&mode=up
+Passed: The URL "ftp://go.a:65636?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: go.a1a:-1/../?action=edit&mode=up
+Passed: The URL "go.a1a:-1/../?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:/.1.2.3.4:-1/../?action=view
+Passed: The URL "http:/.1.2.3.4:-1/../?action=view" was correctly identified by isValid() as false.
+
+URL: http:1.2.3.4.5:0/..//file?action=edit&mode=up
+Passed: The URL "http:1.2.3.4.5:0/..//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:/.1.2.3.4:65535/test1?action=view
+Passed: The URL "http:/.1.2.3.4:65535/test1?action=view" was correctly identified by isValid() as false.
+
+URL: www.google.com/..//file?action=view
+Passed: The URL "www.google.com/..//file?action=view" was correctly identified by isValid() as false.
+
+URL: http:/aaa:80?action=view
+Passed: The URL "http:/aaa:80?action=view" was correctly identified by isValid() as false.
+
+URL: http:/255.255.255.255:65535/test1
+Passed: The URL "http:/255.255.255.255:65535/test1" was correctly identified by isValid() as false.
+
+URL: http:/255.com:65a/../
+Passed: The URL "http:/255.com:65a/../" was correctly identified by isValid() as false.
+
+URL: http::65535/test1/file
+Passed: The URL "http::65535/test1/file" was correctly identified by isValid() as false.
+
+URL: 1.2.3.4.:65535/test1
+Passed: The URL "1.2.3.4.:65535/test1" was correctly identified by isValid() as false.
+
+URL: ftp://1.2.3.4.5:65535/test1/?action=view
+Passed: The URL "ftp://1.2.3.4.5:65535/test1/?action=view" was correctly identified by isValid() as false.
+
+URL: 3ht://.1.2.3.4:65a/test1/file?action=edit&mode=up
+Passed: The URL "3ht://.1.2.3.4:65a/test1/file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: 3ht://255.com:80/..//file?action=view
+Passed: The URL "3ht://255.com:80/..//file?action=view" was correctly identified by isValid() as false.
+
+URL: ://.1.2.3.4:65535?action=view
+Passed: The URL "://.1.2.3.4:65535?action=view" was correctly identified by isValid() as false.
+
+URL: ://aaa.:65a/..//file
+Passed: The URL "://aaa.:65a/..//file" was correctly identified by isValid() as false.
+
+URL: http:1.2.3:0/t123
+Passed: The URL "http:1.2.3:0/t123" was correctly identified by isValid() as false.
+
+URL: ://256.256.256.256:65a/../?action=edit&mode=up
+Passed: The URL "://256.256.256.256:65a/../?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:.aaa:65636/$23?action=view
+Passed: The URL "http:.aaa:65636/$23?action=view" was correctly identified by isValid() as false.
+
+URL: h3t://go.a1a:80/../?action=edit&mode=up
+Passed: The URL "h3t://go.a1a:80/../?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ftp://1.2.3.4.:65535/test1?action=view
+Passed: The URL "ftp://1.2.3.4.:65535/test1?action=view" was correctly identified by isValid() as false.
+
+URL: http/.1.2.3.4:80?action=view
+Passed: The URL "http/.1.2.3.4:80?action=view" was correctly identified by isValid() as false.
+
+URL: ://aaa.:0/test1/?action=edit&mode=up
+Passed: The URL "://aaa.:0/test1/?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ://go.a1a:65636/test1
+Passed: The URL "://go.a1a:65636/test1" was correctly identified by isValid() as false.
+
+URL: http:aaa.:-1/test1//file?action=view
+Passed: The URL "http:aaa.:-1/test1//file?action=view" was correctly identified by isValid() as false.
+
+URL: ://1.2.3.4.5:0/..//file?action=view
+Passed: The URL "://1.2.3.4.5:0/..//file?action=view" was correctly identified by isValid() as false.
+
+URL: http:/go.com:80/..
+Passed: The URL "http:/go.com:80/.." was correctly identified by isValid() as false.
+
+URL: h3t://1.2.3:-1/..?action=edit&mode=up
+Passed: The URL "h3t://1.2.3:-1/..?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:1.2.3.4.:-1/t123?action=view
+Passed: The URL "http:1.2.3.4.:-1/t123?action=view" was correctly identified by isValid() as false.
+
+URL: 3ht://aaa:80/../?action=edit&mode=up
+Passed: The URL "3ht://aaa:80/../?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: 3ht://1.2.3.4.:65636/test1?action=edit&mode=up
+Passed: The URL "3ht://1.2.3.4.:65636/test1?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ://0.0.0.0/test1/file?action=edit&mode=up
+Passed: The URL "://0.0.0.0/test1/file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: h3t://go.cc:65535/test1//file?action=edit&mode=up
+Passed: The URL "h3t://go.cc:65535/test1//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http://:-1/test1//file
+Passed: The URL "http://:-1/test1//file" was correctly identified by isValid() as false.
+
+URL: ftp://.aaa:-1/../?action=view
+Passed: The URL "ftp://.aaa:-1/../?action=view" was correctly identified by isValid() as false.
+
+URL: ://go.1aa:65a/..//file?action=edit&mode=up
+Passed: The URL "://go.1aa:65a/..//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:1.2.3.4.:0/test1/?action=edit&mode=up
+Passed: The URL "http:1.2.3.4.:0/test1/?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: h3t://1.2.3:80/test1/?action=edit&mode=up
+Passed: The URL "h3t://1.2.3:80/test1/?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ://go.a:65a/t123?action=edit&mode=up
+Passed: The URL "://go.a:65a/t123?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: 1.2.3.4.5:0/$23
+Passed: The URL "1.2.3.4.5:0/$23" was correctly identified by isValid() as false.
+
+URL: ftp://1.2.3.4.:65535/..//file
+Passed: The URL "ftp://1.2.3.4.:65535/..//file" was correctly identified by isValid() as false.
+
+URL: http:1.2.3.4.5:0?action=view
+Passed: The URL "http:1.2.3.4.5:0?action=view" was correctly identified by isValid() as false.
+
+URL: ftp://:65a/test1/file
+Passed: The URL "ftp://:65a/test1/file" was correctly identified by isValid() as false.
+
+URL: ftp://go.a1a:80/test1//file
+Passed: The URL "ftp://go.a1a:80/test1//file" was correctly identified by isValid() as false.
+
+URL: http://www.google.com:65535/$23?action=view
+Failed: The URL "http://www.google.com:65535/$23?action=view" was incorrectly identified by isValid() as false.
+
+URL: ftp://go.a:-1/test1/file
+Passed: The URL "ftp://go.a:-1/test1/file" was correctly identified by isValid() as false.
+
+URL: http://go.a1a:-1/t123?action=view
+Passed: The URL "http://go.a1a:-1/t123?action=view" was correctly identified by isValid() as false.
+
+URL: ftp://go.au:0?action=view
+Failed: The URL "ftp://go.au:0?action=view" was incorrectly identified by isValid() as false.
+
+URL: .aaa:-1/t123?action=edit&mode=up
+Passed: The URL ".aaa:-1/t123?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: h3t://255.com:-1/..?action=view
+Passed: The URL "h3t://255.com:-1/..?action=view" was correctly identified by isValid() as false.
+
+URL: http:go.cc:-1/test1?action=view
+Passed: The URL "http:go.cc:-1/test1?action=view" was correctly identified by isValid() as false.
+
+URL: http:1.2.3.4.:65535/test1/file
+Passed: The URL "http:1.2.3.4.:65535/test1/file" was correctly identified by isValid() as false.
+
+URL: 3ht://:-1/$23?action=view
+Passed: The URL "3ht://:-1/$23?action=view" was correctly identified by isValid() as false.
+
+URL: 255.com:65636
+Failed: The URL "255.com:65636" was incorrectly identified by isValid() as false.
+
+URL: go.a/test1?action=edit&mode=up
+Passed: The URL "go.a/test1?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: 3ht://aaa/test1/?action=view
+Passed: The URL "3ht://aaa/test1/?action=view" was correctly identified by isValid() as false.
+
+URL: http:/aaa:65535?action=edit&mode=up
+Passed: The URL "http:/aaa:65535?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: h3t://255.255.255.255:0/../?action=edit&mode=up
+Passed: The URL "h3t://255.255.255.255:0/../?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http://go.a1a/test1/file?action=view
+Passed: The URL "http://go.a1a/test1/file?action=view" was correctly identified by isValid() as false.
+
+URL: http/.aaa:65636/$23?action=edit&mode=up
+Passed: The URL "http/.aaa:65636/$23?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:/1.2.3:65535/../?action=edit&mode=up
+Passed: The URL "http:/1.2.3:65535/../?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:0.0.0.0:65a/test1/
+Passed: The URL "http:0.0.0.0:65a/test1/" was correctly identified by isValid() as false.
+
+URL: h3t://go.a1a:65535/test1?action=view
+Passed: The URL "h3t://go.a1a:65535/test1?action=view" was correctly identified by isValid() as false.
+
+URL: ftp://go.com:0/test1//file
+Passed: The URL "ftp://go.com:0/test1//file" was correctly identified by isValid() as false.
+
+URL: http:aaa.:65636/$23
+Passed: The URL "http:aaa.:65636/$23" was correctly identified by isValid() as false.
+
+URL: http:go.au?action=view
+Passed: The URL "http:go.au?action=view" was correctly identified by isValid() as false.
+
+URL: go.a1a:65636?action=edit&mode=up
+Passed: The URL "go.a1a:65636?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http/go.au:0/..//file?action=view
+Passed: The URL "http/go.au:0/..//file?action=view" was correctly identified by isValid() as false.
+
+URL: http/go.a:80/test1//file?action=edit&mode=up
+Passed: The URL "http/go.a:80/test1//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: 3ht://go.1aa:65535/t123?action=edit&mode=up
+Passed: The URL "3ht://go.1aa:65535/t123?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ://go.a:65535/test1?action=edit&mode=up
+Passed: The URL "://go.a:65535/test1?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: .aaa/test1/
+Passed: The URL ".aaa/test1/" was correctly identified by isValid() as false.
+
+URL: go.com:0/../?action=edit&mode=up
+Passed: The URL "go.com:0/../?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ftp://1.2.3.4.5:80/t123
+Passed: The URL "ftp://1.2.3.4.5:80/t123" was correctly identified by isValid() as false.
+
+URL: ://.aaa:65a/test1/?action=view
+Passed: The URL "://.aaa:65a/test1/?action=view" was correctly identified by isValid() as false.
+
+URL: 255.com:80/test1/?action=edit&mode=up
+Failed: The URL "255.com:80/test1/?action=edit&mode=up" was incorrectly identified by isValid() as false.
+
+URL: ftp://256.256.256.256:65535/t123?action=edit&mode=up
+Passed: The URL "ftp://256.256.256.256:65535/t123?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ://1.2.3.4.5:65636/$23?action=view
+Passed: The URL "://1.2.3.4.5:65636/$23?action=view" was correctly identified by isValid() as false.
+
+URL: ftp://255.com/test1?action=view
+Failed: The URL "ftp://255.com/test1?action=view" was incorrectly identified by isValid() as false.
+
+URL: ftp://go.cc:80/..//file?action=view
+Passed: The URL "ftp://go.cc:80/..//file?action=view" was correctly identified by isValid() as false.
+
+URL: ftp://go.com:80/..?action=view
+Passed: The URL "ftp://go.com:80/..?action=view" was correctly identified by isValid() as false.
+
+URL: ftp://255.com:-1/test1?action=view
+Passed: The URL "ftp://255.com:-1/test1?action=view" was correctly identified by isValid() as false.
+
+URL: 3ht://0.0.0.0:-1/test1/?action=view
+Passed: The URL "3ht://0.0.0.0:-1/test1/?action=view" was correctly identified by isValid() as false.
+
+URL: http:go.au:65636/test1/file
+Passed: The URL "http:go.au:65636/test1/file" was correctly identified by isValid() as false.
+
+URL: 3ht://.aaa:65636/test1/file
+Passed: The URL "3ht://.aaa:65636/test1/file" was correctly identified by isValid() as false.
+
+URL: http/go.a1a:-1/..//file?action=view
+Passed: The URL "http/go.a1a:-1/..//file?action=view" was correctly identified by isValid() as false.
+
+URL: ftp://go.com:0/test1//file
+Passed: The URL "ftp://go.com:0/test1//file" was correctly identified by isValid() as false.
+
+URL: ://go.a:65535/..?action=edit&mode=up
+Passed: The URL "://go.a:65535/..?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:.aaa:0/test1/file
+Passed: The URL "http:.aaa:0/test1/file" was correctly identified by isValid() as false.
+
+URL: http:/:-1/../?action=view
+Passed: The URL "http:/:-1/../?action=view" was correctly identified by isValid() as false.
+
+URL: http/.1.2.3.4:65a/test1?action=view
+Passed: The URL "http/.1.2.3.4:65a/test1?action=view" was correctly identified by isValid() as false.
+
+URL: h3t://go.au/test1?action=view
+Failed: The URL "h3t://go.au/test1?action=view" was incorrectly identified by isValid() as false.
+
+URL: http://go.com:65a?action=view
+Passed: The URL "http://go.com:65a?action=view" was correctly identified by isValid() as false.
+
+URL: h3t://1.2.3.4.5:80/test1/file?action=view
+Passed: The URL "h3t://1.2.3.4.5:80/test1/file?action=view" was correctly identified by isValid() as false.
+
+URL: http/1.2.3.4.5:80/test1//file
+Passed: The URL "http/1.2.3.4.5:80/test1//file" was correctly identified by isValid() as false.
+
+URL: 3ht://go.au:65636/test1?action=view
+Passed: The URL "3ht://go.au:65636/test1?action=view" was correctly identified by isValid() as false.
+
+URL: http:/aaa:0/..//file
+Passed: The URL "http:/aaa:0/..//file" was correctly identified by isValid() as false.
+
+URL: http:/go.au:65a/test1//file?action=view
+Passed: The URL "http:/go.au:65a/test1//file?action=view" was correctly identified by isValid() as false.
+
+URL: http:256.256.256.256:80/test1/file?action=edit&mode=up
+Passed: The URL "http:256.256.256.256:80/test1/file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: 1.2.3.4.5:80
+Passed: The URL "1.2.3.4.5:80" was correctly identified by isValid() as false.
+
+URL: 3ht://255.255.255.255:65535/test1?action=view
+Passed: The URL "3ht://255.255.255.255:65535/test1?action=view" was correctly identified by isValid() as false.
+
+URL: http://go.com:0/test1/file
+Passed: The URL "http://go.com:0/test1/file" was correctly identified by isValid() as true.
+
+URL: http:/go.au/../
+Passed: The URL "http:/go.au/../" was correctly identified by isValid() as false.
+
+URL: h3t://aaa:-1/test1/file?action=edit&mode=up
+Passed: The URL "h3t://aaa:-1/test1/file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http/www.google.com:-1/..//file?action=edit&mode=up
+Passed: The URL "http/www.google.com:-1/..//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ://go.au:65636?action=edit&mode=up
+Passed: The URL "://go.au:65636?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: h3t://255.255.255.255:65a/$23?action=edit&mode=up
+Passed: The URL "h3t://255.255.255.255:65a/$23?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: 3ht://255.com:65535/test1/file
+Passed: The URL "3ht://255.com:65535/test1/file" was correctly identified by isValid() as false.
+
+URL: ftp://go.cc:80/test1//file?action=view
+Passed: The URL "ftp://go.cc:80/test1//file?action=view" was correctly identified by isValid() as false.
+
+URL: ftp://255.com/..//file?action=view
+Passed: The URL "ftp://255.com/..//file?action=view" was correctly identified by isValid() as false.
+
+URL: ://go.a1a:0/test1/file
+Passed: The URL "://go.a1a:0/test1/file" was correctly identified by isValid() as false.
+
+URL: ://go.com:80/test1?action=view
+Passed: The URL "://go.com:80/test1?action=view" was correctly identified by isValid() as false.
+
+URL: ://go.1aa:0/test1?action=view
+Passed: The URL "://go.1aa:0/test1?action=view" was correctly identified by isValid() as false.
+
+URL: http:/1.2.3.4.:-1/test1/?action=view
+Passed: The URL "http:/1.2.3.4.:-1/test1/?action=view" was correctly identified by isValid() as false.
+
+URL: h3t://www.google.com:65535/..//file?action=view
+Passed: The URL "h3t://www.google.com:65535/..//file?action=view" was correctly identified by isValid() as false.
+
+URL: http/256.256.256.256:65a/test1/
+Passed: The URL "http/256.256.256.256:65a/test1/" was correctly identified by isValid() as false.
+
+URL: ://1.2.3/test1/?action=view
+Passed: The URL "://1.2.3/test1/?action=view" was correctly identified by isValid() as false.
+
+URL: http:/.aaa:0/..?action=view
+Passed: The URL "http:/.aaa:0/..?action=view" was correctly identified by isValid() as false.
+
+URL: ://go.1aa:65a/test1?action=edit&mode=up
+Passed: The URL "://go.1aa:65a/test1?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http/go.a:65636/test1
+Passed: The URL "http/go.a:65636/test1" was correctly identified by isValid() as false.
+
+URL: http:/go.a:-1/..
+Passed: The URL "http:/go.a:-1/.." was correctly identified by isValid() as false.
+
+URL: http:go.com:65535/test1?action=view
+Passed: The URL "http:go.com:65535/test1?action=view" was correctly identified by isValid() as false.
+
+URL: http:aaa:65535/test1/?action=view
+Passed: The URL "http:aaa:65535/test1/?action=view" was correctly identified by isValid() as false.
+
+URL: http://.aaa:65636/$23
+Passed: The URL "http://.aaa:65636/$23" was correctly identified by isValid() as false.
+
+URL: h3t://go.com:0/..//file?action=view
+Passed: The URL "h3t://go.com:0/..//file?action=view" was correctly identified by isValid() as false.
+
+URL: http:aaa.:65636/..//file
+Passed: The URL "http:aaa.:65636/..//file" was correctly identified by isValid() as false.
+
+URL: 3ht://1.2.3.4.5:80/test1//file?action=edit&mode=up
+Passed: The URL "3ht://1.2.3.4.5:80/test1//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ftp://256.256.256.256/$23?action=view
+Passed: The URL "ftp://256.256.256.256/$23?action=view" was correctly identified by isValid() as false.
+
+URL: http:go.com:65636?action=view
+Passed: The URL "http:go.com:65636?action=view" was correctly identified by isValid() as false.
+
+URL: http:256.256.256.256:-1/..//file
+Passed: The URL "http:256.256.256.256:-1/..//file" was correctly identified by isValid() as false.
+
+URL: http/0.0.0.0:0/$23
+Passed: The URL "http/0.0.0.0:0/$23" was correctly identified by isValid() as false.
+
+URL: ://.aaa:80/test1/
+Passed: The URL "://.aaa:80/test1/" was correctly identified by isValid() as false.
+
+URL: ://.1.2.3.4:0/test1/file
+Passed: The URL "://.1.2.3.4:0/test1/file" was correctly identified by isValid() as false.
+
+URL: ://0.0.0.0:65a/test1
+Passed: The URL "://0.0.0.0:65a/test1" was correctly identified by isValid() as false.
+
+URL: h3t://255.255.255.255:80/test1?action=view
+Failed: The URL "h3t://255.255.255.255:80/test1?action=view" was incorrectly identified by isValid() as false.
+
+URL: ftp://go.au:80/test1//file?action=edit&mode=up
+Passed: The URL "ftp://go.au:80/test1//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: 3ht://go.cc:80/..//file?action=view
+Passed: The URL "3ht://go.cc:80/..//file?action=view" was correctly identified by isValid() as false.
+
+URL: ://1.2.3.4.?action=view
+Passed: The URL "://1.2.3.4.?action=view" was correctly identified by isValid() as false.
+
+URL: ftp://1.2.3:80/test1/?action=view
+Passed: The URL "ftp://1.2.3:80/test1/?action=view" was correctly identified by isValid() as false.
+
+URL: http:.1.2.3.4:80/test1//file?action=edit&mode=up
+Passed: The URL "http:.1.2.3.4:80/test1//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: 3ht://.1.2.3.4:65535/test1/
+Passed: The URL "3ht://.1.2.3.4:65535/test1/" was correctly identified by isValid() as false.
+
+URL: http://aaa:0/../?action=edit&mode=up
+Passed: The URL "http://aaa:0/../?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ://go.au/test1?action=view
+Passed: The URL "://go.au/test1?action=view" was correctly identified by isValid() as false.
+
+URL: http:/1.2.3.4.5/../?action=edit&mode=up
+Passed: The URL "http:/1.2.3.4.5/../?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ://go.a:65a/../?action=view
+Passed: The URL "://go.a:65a/../?action=view" was correctly identified by isValid() as false.
+
+URL: http:go.com:65535/test1?action=view
+Passed: The URL "http:go.com:65535/test1?action=view" was correctly identified by isValid() as false.
+
+URL: ://go.com:-1?action=edit&mode=up
+Passed: The URL "://go.com:-1?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: 3ht://0.0.0.0/..//file?action=view
+Passed: The URL "3ht://0.0.0.0/..//file?action=view" was correctly identified by isValid() as false.
+
+URL: http://go.au:0/..?action=edit&mode=up
+Passed: The URL "http://go.au:0/..?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:/256.256.256.256/..//file?action=edit&mode=up
+Passed: The URL "http:/256.256.256.256/..//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: h3t://:65535/test1/?action=edit&mode=up
+Passed: The URL "h3t://:65535/test1/?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http/go.com/test1//file
+Passed: The URL "http/go.com/test1//file" was correctly identified by isValid() as false.
+
+URL: ftp://go.1aa:65535/test1/file?action=view
+Passed: The URL "ftp://go.1aa:65535/test1/file?action=view" was correctly identified by isValid() as false.
+
+URL: www.google.com:65636/$23
+Failed: The URL "www.google.com:65636/$23" was incorrectly identified by isValid() as false.
+
+URL: http:1.2.3.4.:65535/..
+Passed: The URL "http:1.2.3.4.:65535/.." was correctly identified by isValid() as false.
+
+URL: h3t://1.2.3.4.5/test1/file?action=edit&mode=up
+Passed: The URL "h3t://1.2.3.4.5/test1/file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: 3ht://1.2.3.4.5:65636/..
+Passed: The URL "3ht://1.2.3.4.5:65636/.." was correctly identified by isValid() as false.
+
+URL: http://go.cc:65535/..?action=view
+Passed: The URL "http://go.cc:65535/..?action=view" was correctly identified by isValid() as false.
+
+URL: http:255.255.255.255:0/test1?action=edit&mode=up
+Passed: The URL "http:255.255.255.255:0/test1?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:256.256.256.256:65636/$23
+Passed: The URL "http:256.256.256.256:65636/$23" was correctly identified by isValid() as false.
+
+URL: ftp://256.256.256.256:0/test1/?action=view
+Passed: The URL "ftp://256.256.256.256:0/test1/?action=view" was correctly identified by isValid() as false.
+
+URL: http/go.cc:65636/test1//file?action=edit&mode=up
+Passed: The URL "http/go.cc:65636/test1//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: 3ht://1.2.3:65535/..//file?action=view
+Passed: The URL "3ht://1.2.3:65535/..//file?action=view" was correctly identified by isValid() as false.
+
+URL: http:1.2.3:0/..//file
+Passed: The URL "http:1.2.3:0/..//file" was correctly identified by isValid() as false.
+
+URL: ftp://aaa:65a?action=edit&mode=up
+Passed: The URL "ftp://aaa:65a?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: h3t://1.2.3.4.5:65636/test1?action=edit&mode=up
+Passed: The URL "h3t://1.2.3.4.5:65636/test1?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: 3ht://.aaa:0/..//file
+Passed: The URL "3ht://.aaa:0/..//file" was correctly identified by isValid() as false.
+
+URL: http/256.256.256.256:65535/test1//file?action=edit&mode=up
+Passed: The URL "http/256.256.256.256:65535/test1//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ://www.google.com:65a?action=edit&mode=up
+Passed: The URL "://www.google.com:65a?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: 3ht://.aaa:80/$23?action=view
+Passed: The URL "3ht://.aaa:80/$23?action=view" was correctly identified by isValid() as false.
+
+URL: http:/go.a/test1/?action=view
+Passed: The URL "http:/go.a/test1/?action=view" was correctly identified by isValid() as false.
+
+URL: ftp://1.2.3.4.5:65a/test1/?action=view
+Passed: The URL "ftp://1.2.3.4.5:65a/test1/?action=view" was correctly identified by isValid() as false.
+
+URL: ://go.cc:65a/..//file
+Passed: The URL "://go.cc:65a/..//file" was correctly identified by isValid() as false.
+
+URL: http://256.256.256.256:-1/test1?action=edit&mode=up
+Passed: The URL "http://256.256.256.256:-1/test1?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http://www.google.com:80/..?action=view
+Passed: The URL "http://www.google.com:80/..?action=view" was correctly identified by isValid() as false.
+
+URL: http/.1.2.3.4:80/$23?action=edit&mode=up
+Passed: The URL "http/.1.2.3.4:80/$23?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: 3ht://1.2.3.4.5/test1
+Passed: The URL "3ht://1.2.3.4.5/test1" was correctly identified by isValid() as false.
+
+URL: 3ht://go.1aa:-1/test1//file
+Passed: The URL "3ht://go.1aa:-1/test1//file" was correctly identified by isValid() as false.
+
+URL: ://go.com/test1//file?action=edit&mode=up
+Passed: The URL "://go.com/test1//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ://go.1aa:65a/$23
+Passed: The URL "://go.1aa:65a/$23" was correctly identified by isValid() as false.
+
+URL: http:1.2.3.4./test1?action=view
+Passed: The URL "http:1.2.3.4./test1?action=view" was correctly identified by isValid() as false.
+
+URL: http/256.256.256.256:65a/$23?action=view
+Passed: The URL "http/256.256.256.256:65a/$23?action=view" was correctly identified by isValid() as false.
+
+URL: http:255.com:80/t123?action=edit&mode=up
+Passed: The URL "http:255.com:80/t123?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: h3t://go.1aa:0/$23?action=view
+Passed: The URL "h3t://go.1aa:0/$23?action=view" was correctly identified by isValid() as false.
+
+URL: http/go.a1a:65a/test1/?action=edit&mode=up
+Passed: The URL "http/go.a1a:65a/test1/?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ftp://1.2.3.4.:65a/../?action=edit&mode=up
+Passed: The URL "ftp://1.2.3.4.:65a/../?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:256.256.256.256:65535/test1/
+Passed: The URL "http:256.256.256.256:65535/test1/" was correctly identified by isValid() as false.
+
+URL: ftp://go.com
+Passed: The URL "ftp://go.com" was correctly identified by isValid() as true.
+
+URL: go.cc:65535/t123?action=edit&mode=up
+Failed: The URL "go.cc:65535/t123?action=edit&mode=up" was incorrectly identified by isValid() as false.
+
+URL: http:255.com:-1/..?action=edit&mode=up
+Passed: The URL "http:255.com:-1/..?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ftp://go.a1a?action=view
+Passed: The URL "ftp://go.a1a?action=view" was correctly identified by isValid() as false.
+
+URL: http://0.0.0.0:0/t123
+Passed: The URL "http://0.0.0.0:0/t123" was correctly identified by isValid() as true.
+
+URL: ://.1.2.3.4:65a/t123?action=view
+Passed: The URL "://.1.2.3.4:65a/t123?action=view" was correctly identified by isValid() as false.
+
+URL: go.com:-1/..//file
+Passed: The URL "go.com:-1/..//file" was correctly identified by isValid() as false.
+
+URL: http:.1.2.3.4:65535/..//file
+Passed: The URL "http:.1.2.3.4:65535/..//file" was correctly identified by isValid() as false.
+
+URL: ftp://1.2.3.4.:65636/$23?action=view
+Passed: The URL "ftp://1.2.3.4.:65636/$23?action=view" was correctly identified by isValid() as false.
+
+URL: :65a/test1/?action=edit&mode=up
+Passed: The URL ":65a/test1/?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: h3t://go.a1a:80/../
+Passed: The URL "h3t://go.a1a:80/../" was correctly identified by isValid() as false.
+
+URL: ://go.cc:80/..?action=edit&mode=up
+Passed: The URL "://go.cc:80/..?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ftp://go.a1a:0/t123?action=view
+Passed: The URL "ftp://go.a1a:0/t123?action=view" was correctly identified by isValid() as false.
+
+URL: ://.1.2.3.4:-1/$23
+Passed: The URL "://.1.2.3.4:-1/$23" was correctly identified by isValid() as false.
+
+URL: ://:80/t123?action=view
+Passed: The URL "://:80/t123?action=view" was correctly identified by isValid() as false.
+
+URL: go.a1a/test1/file
+Passed: The URL "go.a1a/test1/file" was correctly identified by isValid() as false.
+
+URL: ftp://aaa.:0/$23
+Passed: The URL "ftp://aaa.:0/$23" was correctly identified by isValid() as false.
+
+URL: go.a1a:65636/test1//file
+Passed: The URL "go.a1a:65636/test1//file" was correctly identified by isValid() as false.
+
+URL: http://255.com:80/..?action=view
+Passed: The URL "http://255.com:80/..?action=view" was correctly identified by isValid() as false.
+
+URL: 3ht://go.cc:65a/test1?action=view
+Passed: The URL "3ht://go.cc:65a/test1?action=view" was correctly identified by isValid() as false.
+
+URL: http://:80/test1?action=view
+Passed: The URL "http://:80/test1?action=view" was correctly identified by isValid() as false.
+
+URL: ://go.com:0?action=edit&mode=up
+Passed: The URL "://go.com:0?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: 1.2.3.4.5:-1/..//file?action=edit&mode=up
+Passed: The URL "1.2.3.4.5:-1/..//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: 1.2.3:65535?action=view
+Passed: The URL "1.2.3:65535?action=view" was correctly identified by isValid() as false.
+
+URL: h3t://.1.2.3.4:-1/test1?action=edit&mode=up
+Passed: The URL "h3t://.1.2.3.4:-1/test1?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:go.a:65636/../?action=edit&mode=up
+Passed: The URL "http:go.a:65636/../?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: .aaa:65636?action=edit&mode=up
+Passed: The URL ".aaa:65636?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ://0.0.0.0:-1/../
+Passed: The URL "://0.0.0.0:-1/../" was correctly identified by isValid() as false.
+
+URL: ftp://1.2.3:-1/..?action=view
+Passed: The URL "ftp://1.2.3:-1/..?action=view" was correctly identified by isValid() as false.
+
+URL: http:/www.google.com:65636/..?action=view
+Passed: The URL "http:/www.google.com:65636/..?action=view" was correctly identified by isValid() as false.
+
+URL: http://aaa.:-1/test1
+Passed: The URL "http://aaa.:-1/test1" was correctly identified by isValid() as false.
+
+URL: http://go.1aa/..//file?action=view
+Passed: The URL "http://go.1aa/..//file?action=view" was correctly identified by isValid() as false.
+
+URL: 3ht://www.google.com:65636/$23?action=view
+Passed: The URL "3ht://www.google.com:65636/$23?action=view" was correctly identified by isValid() as false.
+
+URL: ftp://1.2.3:-1/..//file?action=view
+Passed: The URL "ftp://1.2.3:-1/..//file?action=view" was correctly identified by isValid() as false.
+
+URL: http:255.255.255.255/test1?action=edit&mode=up
+Passed: The URL "http:255.255.255.255/test1?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ://go.com:65a/$23
+Passed: The URL "://go.com:65a/$23" was correctly identified by isValid() as false.
+
+URL: go.a1a?action=edit&mode=up
+Passed: The URL "go.a1a?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ://0.0.0.0/../?action=view
+Passed: The URL "://0.0.0.0/../?action=view" was correctly identified by isValid() as false.
+
+URL: http/www.google.com/../
+Passed: The URL "http/www.google.com/../" was correctly identified by isValid() as false.
+
+URL: http:/.1.2.3.4:65a/t123?action=view
+Passed: The URL "http:/.1.2.3.4:65a/t123?action=view" was correctly identified by isValid() as false.
+
+URL: http::65636/..//file
+Passed: The URL "http::65636/..//file" was correctly identified by isValid() as false.
+
+URL: ftp://.aaa/..
+Passed: The URL "ftp://.aaa/.." was correctly identified by isValid() as false.
+
+URL: 255.com:65636/test1//file
+Passed: The URL "255.com:65636/test1//file" was correctly identified by isValid() as false.
+
+URL: 3ht://go.com:-1/../
+Passed: The URL "3ht://go.com:-1/../" was correctly identified by isValid() as false.
+
+URL: h3t://255.255.255.255:0/test1//file
+Passed: The URL "h3t://255.255.255.255:0/test1//file" was correctly identified by isValid() as false.
+
+URL: http/0.0.0.0/test1//file?action=view
+Passed: The URL "http/0.0.0.0/test1//file?action=view" was correctly identified by isValid() as false.
+
+URL: http/1.2.3:0/test1//file?action=edit&mode=up
+Passed: The URL "http/1.2.3:0/test1//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: h3t://:-1/t123?action=edit&mode=up
+Passed: The URL "h3t://:-1/t123?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: h3t://.aaa:-1?action=edit&mode=up
+Passed: The URL "h3t://.aaa:-1?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: 3ht://1.2.3:65636/test1//file
+Passed: The URL "3ht://1.2.3:65636/test1//file" was correctly identified by isValid() as false.
+
+URL: http:go.1aa:80/..//file
+Passed: The URL "http:go.1aa:80/..//file" was correctly identified by isValid() as false.
+
+URL: http://go.au:65535/test1
+Failed: The URL "http://go.au:65535/test1" was incorrectly identified by isValid() as false.
+
+URL: http:/go.cc:0
+Passed: The URL "http:/go.cc:0" was correctly identified by isValid() as false.
+
+URL: 255.255.255.255:65535/test1?action=view
+Failed: The URL "255.255.255.255:65535/test1?action=view" was incorrectly identified by isValid() as false.
+
+URL: ://:80/test1//file?action=edit&mode=up
+Passed: The URL "://:80/test1//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ://1.2.3.4.5/test1//file?action=edit&mode=up
+Passed: The URL "://1.2.3.4.5/test1//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:/255.255.255.255:65636/test1/
+Passed: The URL "http:/255.255.255.255:65636/test1/" was correctly identified by isValid() as false.
+
+URL: ://www.google.com:65535/test1/
+Passed: The URL "://www.google.com:65535/test1/" was correctly identified by isValid() as false.
+
+URL: http:/.1.2.3.4:0/../?action=edit&mode=up
+Passed: The URL "http:/.1.2.3.4:0/../?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: h3t://256.256.256.256/..?action=view
+Passed: The URL "h3t://256.256.256.256/..?action=view" was correctly identified by isValid() as false.
+
+URL: ://go.a1a:65636/../?action=edit&mode=up
+Passed: The URL "://go.a1a:65636/../?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http/.1.2.3.4:-1/../
+Passed: The URL "http/.1.2.3.4:-1/../" was correctly identified by isValid() as false.
+
+URL: ftp://go.1aa:65a/test1/?action=edit&mode=up
+Passed: The URL "ftp://go.1aa:65a/test1/?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: .aaa/t123?action=view
+Passed: The URL ".aaa/t123?action=view" was correctly identified by isValid() as false.
+
+URL: ://go.1aa:65636/../?action=edit&mode=up
+Passed: The URL "://go.1aa:65636/../?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: 3ht://1.2.3.4.:65a/t123?action=edit&mode=up
+Passed: The URL "3ht://1.2.3.4.:65a/t123?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ftp://255.com:0/..//file
+Passed: The URL "ftp://255.com:0/..//file" was correctly identified by isValid() as false.
+
+URL: http/www.google.com:65a/..
+Passed: The URL "http/www.google.com:65a/.." was correctly identified by isValid() as false.
+
+URL: http:www.google.com:0/t123?action=edit&mode=up
+Passed: The URL "http:www.google.com:0/t123?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http::65a/test1//file?action=edit&mode=up
+Passed: The URL "http::65a/test1//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: h3t://.1.2.3.4:80/../
+Passed: The URL "h3t://.1.2.3.4:80/../" was correctly identified by isValid() as false.
+
+URL: http/.aaa:65636/test1
+Passed: The URL "http/.aaa:65636/test1" was correctly identified by isValid() as false.
+
+URL: http:/test1/?action=edit&mode=up
+Passed: The URL "http:/test1/?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http://www.google.com:65636/test1//file?action=edit&mode=up
+Passed: The URL "http://www.google.com:65636/test1//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: 3ht://:65636/..
+Passed: The URL "3ht://:65636/.." was correctly identified by isValid() as false.
+
+URL: ://go.com:65636/..?action=view
+Passed: The URL "://go.com:65636/..?action=view" was correctly identified by isValid() as false.
+
+URL: http://go.1aa:80/test1/file
+Passed: The URL "http://go.1aa:80/test1/file" was correctly identified by isValid() as false.
+
+URL: ://1.2.3:0/..
+Passed: The URL "://1.2.3:0/.." was correctly identified by isValid() as false.
+
+URL: http:/.1.2.3.4:-1/../?action=view
+Passed: The URL "http:/.1.2.3.4:-1/../?action=view" was correctly identified by isValid() as false.
+
+URL: http:/255.255.255.255
+Passed: The URL "http:/255.255.255.255" was correctly identified by isValid() as false.
+
+URL: http://go.au:65636
+Failed: The URL "http://go.au:65636" was incorrectly identified by isValid() as false.
+
+URL: ://1.2.3:0/test1//file?action=edit&mode=up
+Passed: The URL "://1.2.3:0/test1//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:0.0.0.0:65a/test1/file
+Passed: The URL "http:0.0.0.0:65a/test1/file" was correctly identified by isValid() as false.
+
+URL: http://go.cc:65636/test1//file?action=view
+Passed: The URL "http://go.cc:65636/test1//file?action=view" was correctly identified by isValid() as false.
+
+URL: ://aaa.:-1/test1/
+Passed: The URL "://aaa.:-1/test1/" was correctly identified by isValid() as false.
+
+URL: go.com:0/t123
+Failed: The URL "go.com:0/t123" was incorrectly identified by isValid() as false.
+
+URL: .1.2.3.4:65636?action=view
+Passed: The URL ".1.2.3.4:65636?action=view" was correctly identified by isValid() as false.
+
+URL: ftp://www.google.com/test1/?action=view
+Failed: The URL "ftp://www.google.com/test1/?action=view" was incorrectly identified by isValid() as false.
+
+URL: http:/0.0.0.0:65636/../
+Passed: The URL "http:/0.0.0.0:65636/../" was correctly identified by isValid() as false.
+
+URL: http://go.cc:65636
+Failed: The URL "http://go.cc:65636" was incorrectly identified by isValid() as false.
+
+URL: go.a:65a/test1/?action=view
+Passed: The URL "go.a:65a/test1/?action=view" was correctly identified by isValid() as false.
+
+URL: h3t://aaa:65a/$23?action=edit&mode=up
+Passed: The URL "h3t://aaa:65a/$23?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:/:0/test1/?action=edit&mode=up
+Passed: The URL "http:/:0/test1/?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ://255.com:65636/test1/?action=edit&mode=up
+Passed: The URL "://255.com:65636/test1/?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ftp://go.1aa:80
+Passed: The URL "ftp://go.1aa:80" was correctly identified by isValid() as false.
+
+URL: 3ht://go.1aa:0/t123?action=view
+Passed: The URL "3ht://go.1aa:0/t123?action=view" was correctly identified by isValid() as false.
+
+URL: http:/.aaa:65636/test1/file?action=view
+Passed: The URL "http:/.aaa:65636/test1/file?action=view" was correctly identified by isValid() as false.
+
+URL: 3ht://aaa.:65636/..//file
+Passed: The URL "3ht://aaa.:65636/..//file" was correctly identified by isValid() as false.
+
+URL: 1.2.3:65636/test1/
+Passed: The URL "1.2.3:65636/test1/" was correctly identified by isValid() as false.
+
+URL: http:/256.256.256.256:80/t123?action=view
+Passed: The URL "http:/256.256.256.256:80/t123?action=view" was correctly identified by isValid() as false.
+
+URL: h3t://go.a1a:65a/../
+Passed: The URL "h3t://go.a1a:65a/../" was correctly identified by isValid() as false.
+
+URL: http://255.255.255.255:0/test1//file?action=view
+Passed: The URL "http://255.255.255.255:0/test1//file?action=view" was correctly identified by isValid() as false.
+
+URL: .aaa:65a/$23?action=edit&mode=up
+Passed: The URL ".aaa:65a/$23?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: :0/test1?action=edit&mode=up
+Passed: The URL ":0/test1?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: go.1aa:65a/..?action=view
+Passed: The URL "go.1aa:65a/..?action=view" was correctly identified by isValid() as false.
+
+URL: h3t://.aaa:65a/test1/file?action=view
+Passed: The URL "h3t://.aaa:65a/test1/file?action=view" was correctly identified by isValid() as false.
+
+URL: http://go.a1a:-1/test1/file?action=view
+Passed: The URL "http://go.a1a:-1/test1/file?action=view" was correctly identified by isValid() as false.
+
+URL: http/go.a1a:65636/test1/file
+Passed: The URL "http/go.a1a:65636/test1/file" was correctly identified by isValid() as false.
+
+URL: http://1.2.3:65636/../?action=view
+Passed: The URL "http://1.2.3:65636/../?action=view" was correctly identified by isValid() as false.
+
+URL: go.cc:-1/t123?action=edit&mode=up
+Passed: The URL "go.cc:-1/t123?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http://..//file?action=edit&mode=up
+Passed: The URL "http://..//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: h3t://www.google.com:80/$23?action=edit&mode=up
+Failed: The URL "h3t://www.google.com:80/$23?action=edit&mode=up" was incorrectly identified by isValid() as false.
+
+URL: h3t://go.1aa/t123?action=edit&mode=up
+Passed: The URL "h3t://go.1aa/t123?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: www.google.com:0/..//file?action=view
+Passed: The URL "www.google.com:0/..//file?action=view" was correctly identified by isValid() as false.
+
+URL: aaa./test1//file
+Passed: The URL "aaa./test1//file" was correctly identified by isValid() as false.
+
+URL: h3t://0.0.0.0:65535/../
+Passed: The URL "h3t://0.0.0.0:65535/../" was correctly identified by isValid() as false.
+
+URL: http:aaa:-1/..?action=view
+Passed: The URL "http:aaa:-1/..?action=view" was correctly identified by isValid() as false.
+
+URL: ftp:///../?action=edit&mode=up
+Passed: The URL "ftp:///../?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:/go.cc:65a/..//file?action=edit&mode=up
+Passed: The URL "http:/go.cc:65a/..//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:.1.2.3.4:65636/../
+Passed: The URL "http:.1.2.3.4:65636/../" was correctly identified by isValid() as false.
+
+URL: go.a1a:65a/test1?action=view
+Passed: The URL "go.a1a:65a/test1?action=view" was correctly identified by isValid() as false.
+
+URL: h3t://go.1aa:65636/test1/file?action=view
+Passed: The URL "h3t://go.1aa:65636/test1/file?action=view" was correctly identified by isValid() as false.
+
+URL: http://go.a:65a/test1/file?action=view
+Passed: The URL "http://go.a:65a/test1/file?action=view" was correctly identified by isValid() as false.
+
+URL: ftp://go.1aa:65636/test1?action=edit&mode=up
+Passed: The URL "ftp://go.1aa:65636/test1?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http/1.2.3.4./test1//file?action=edit&mode=up
+Passed: The URL "http/1.2.3.4./test1//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:/.aaa:-1/test1//file
+Passed: The URL "http:/.aaa:-1/test1//file" was correctly identified by isValid() as false.
+
+URL: http:255.255.255.255:80/$23?action=view
+Passed: The URL "http:255.255.255.255:80/$23?action=view" was correctly identified by isValid() as false.
+
+URL: ://1.2.3.4.5:65a/..
+Passed: The URL "://1.2.3.4.5:65a/.." was correctly identified by isValid() as false.
+
+URL: h3t://go.com:65535/test1//file
+Passed: The URL "h3t://go.com:65535/test1//file" was correctly identified by isValid() as false.
+
+URL: 255.com:80/$23?action=edit&mode=up
+Failed: The URL "255.com:80/$23?action=edit&mode=up" was incorrectly identified by isValid() as false.
+
+URL: h3t://1.2.3.4.5:0
+Passed: The URL "h3t://1.2.3.4.5:0" was correctly identified by isValid() as false.
+
+URL: http:/go.1aa:80/$23?action=view
+Passed: The URL "http:/go.1aa:80/$23?action=view" was correctly identified by isValid() as false.
+
+URL: http/.1.2.3.4:65636/test1?action=edit&mode=up
+Passed: The URL "http/.1.2.3.4:65636/test1?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:1.2.3:0/$23?action=view
+Passed: The URL "http:1.2.3:0/$23?action=view" was correctly identified by isValid() as false.
+
+URL: h3t://go.1aa:65a/test1/file
+Passed: The URL "h3t://go.1aa:65a/test1/file" was correctly identified by isValid() as false.
+
+URL: http/255.255.255.255:65a/test1?action=edit&mode=up
+Passed: The URL "http/255.255.255.255:65a/test1?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:aaa.:65636/test1//file?action=view
+Passed: The URL "http:aaa.:65636/test1//file?action=view" was correctly identified by isValid() as false.
+
+URL: http:1.2.3.4.5/test1/file?action=view
+Passed: The URL "http:1.2.3.4.5/test1/file?action=view" was correctly identified by isValid() as false.
+
+URL: ftp://255.com:80
+Passed: The URL "ftp://255.com:80" was correctly identified by isValid() as true.
+
+URL: 1.2.3:-1/$23?action=edit&mode=up
+Passed: The URL "1.2.3:-1/$23?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:/go.au
+Passed: The URL "http:/go.au" was correctly identified by isValid() as false.
+
+URL: 1.2.3.4.5:65a/test1?action=edit&mode=up
+Passed: The URL "1.2.3.4.5:65a/test1?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http://1.2.3.4.5:65a/../?action=view
+Passed: The URL "http://1.2.3.4.5:65a/../?action=view" was correctly identified by isValid() as false.
+
+URL: go.1aa:65636/t123?action=edit&mode=up
+Passed: The URL "go.1aa:65636/t123?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http://:0/t123?action=edit&mode=up
+Passed: The URL "http://:0/t123?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ://go.cc:-1/t123?action=edit&mode=up
+Passed: The URL "://go.cc:-1/t123?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: 3ht://www.google.com:0/test1//file
+Passed: The URL "3ht://www.google.com:0/test1//file" was correctly identified by isValid() as false.
+
+URL: http/1.2.3.4.:0/..?action=edit&mode=up
+Passed: The URL "http/1.2.3.4.:0/..?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ftp://go.com:-1/test1?action=view
+Passed: The URL "ftp://go.com:-1/test1?action=view" was correctly identified by isValid() as false.
+
+URL: ://1.2.3.4.:65636/$23?action=edit&mode=up
+Passed: The URL "://1.2.3.4.:65636/$23?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http::65535/../?action=edit&mode=up
+Passed: The URL "http::65535/../?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: :65636/t123?action=view
+Passed: The URL ":65636/t123?action=view" was correctly identified by isValid() as false.
+
+URL: ftp://255.com
+Passed: The URL "ftp://255.com" was correctly identified by isValid() as true.
+
+URL: http/.aaa:65535/test1
+Passed: The URL "http/.aaa:65535/test1" was correctly identified by isValid() as false.
+
+URL: http:aaa.:65535/..?action=view
+Passed: The URL "http:aaa.:65535/..?action=view" was correctly identified by isValid() as false.
+
+URL: http:go.1aa:0/..?action=view
+Passed: The URL "http:go.1aa:0/..?action=view" was correctly identified by isValid() as false.
+
+URL: ://go.1aa/$23
+Passed: The URL "://go.1aa/$23" was correctly identified by isValid() as false.
+
+URL: http/1.2.3.4.:-1/test1
+Passed: The URL "http/1.2.3.4.:-1/test1" was correctly identified by isValid() as false.
+
+URL: http/go.au:65636/test1//file?action=view
+Passed: The URL "http/go.au:65636/test1//file?action=view" was correctly identified by isValid() as false.
+
+URL: http/1.2.3.4.:0
+Passed: The URL "http/1.2.3.4.:0" was correctly identified by isValid() as false.
+
+URL: ftp://0.0.0.0:65636/test1/file?action=view
+Failed: The URL "ftp://0.0.0.0:65636/test1/file?action=view" was incorrectly identified by isValid() as false.
+
+URL: ://.aaa:80/..?action=edit&mode=up
+Passed: The URL "://.aaa:80/..?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ftp://go.a1a:65535/test1/file?action=edit&mode=up
+Passed: The URL "ftp://go.a1a:65535/test1/file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http://aaa./test1?action=view
+Passed: The URL "http://aaa./test1?action=view" was correctly identified by isValid() as false.
+
+URL: ftp://0.0.0.0:80/$23?action=view
+Failed: The URL "ftp://0.0.0.0:80/$23?action=view" was incorrectly identified by isValid() as false.
+
+URL: http:/aaa.:0/test1
+Passed: The URL "http:/aaa.:0/test1" was correctly identified by isValid() as false.
+
+URL: 3ht://0.0.0.0:65a/test1?action=edit&mode=up
+Passed: The URL "3ht://0.0.0.0:65a/test1?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http://255.255.255.255:-1/t123?action=view
+Passed: The URL "http://255.255.255.255:-1/t123?action=view" was correctly identified by isValid() as false.
+
+URL: http:go.cc/test1
+Passed: The URL "http:go.cc/test1" was correctly identified by isValid() as false.
+
+URL: http:/www.google.com:65636/test1?action=edit&mode=up
+Passed: The URL "http:/www.google.com:65636/test1?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:/.aaa:65a?action=edit&mode=up
+Passed: The URL "http:/.aaa:65a?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ftp://256.256.256.256:80/test1/?action=edit&mode=up
+Passed: The URL "ftp://256.256.256.256:80/test1/?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: h3t://go.com:-1/test1/
+Passed: The URL "h3t://go.com:-1/test1/" was correctly identified by isValid() as false.
+
+URL: http:/1.2.3.4.5:0/$23?action=view
+Passed: The URL "http:/1.2.3.4.5:0/$23?action=view" was correctly identified by isValid() as false.
+
+URL: http://1.2.3.4.5:80/test1//file
+Passed: The URL "http://1.2.3.4.5:80/test1//file" was correctly identified by isValid() as false.
+
+URL: http:0.0.0.0:0/..//file
+Passed: The URL "http:0.0.0.0:0/..//file" was correctly identified by isValid() as false.
+
+URL: http:1.2.3:65535/test1/file?action=view
+Passed: The URL "http:1.2.3:65535/test1/file?action=view" was correctly identified by isValid() as false.
+
+URL: h3t://.1.2.3.4/test1/file?action=view
+Passed: The URL "h3t://.1.2.3.4/test1/file?action=view" was correctly identified by isValid() as false.
+
+URL: http:go.cc:-1/..?action=edit&mode=up
+Passed: The URL "http:go.cc:-1/..?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http/1.2.3.4.:65a?action=view
+Passed: The URL "http/1.2.3.4.:65a?action=view" was correctly identified by isValid() as false.
+
+URL: http:go.1aa:65535?action=edit&mode=up
+Passed: The URL "http:go.1aa:65535?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: h3t://:65a/test1//file?action=edit&mode=up
+Passed: The URL "h3t://:65a/test1//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:/.1.2.3.4:65a/t123?action=view
+Passed: The URL "http:/.1.2.3.4:65a/t123?action=view" was correctly identified by isValid() as false.
+
+URL: http:/255.com:65535/test1//file
+Passed: The URL "http:/255.com:65535/test1//file" was correctly identified by isValid() as false.
+
+URL: http:go.au:65a/test1?action=view
+Passed: The URL "http:go.au:65a/test1?action=view" was correctly identified by isValid() as false.
+
+URL: h3t://aaa.:-1/t123?action=edit&mode=up
+Passed: The URL "h3t://aaa.:-1/t123?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ftp://1.2.3.4.5:65535/..//file?action=view
+Passed: The URL "ftp://1.2.3.4.5:65535/..//file?action=view" was correctly identified by isValid() as false.
+
+URL: http/.aaa:65535/test1/file?action=edit&mode=up
+Passed: The URL "http/.aaa:65535/test1/file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ://go.cc:80/..//file?action=edit&mode=up
+Passed: The URL "://go.cc:80/..//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:go.a:65636?action=view
+Passed: The URL "http:go.a:65636?action=view" was correctly identified by isValid() as false.
+
+URL: http:go.cc:65a/..?action=edit&mode=up
+Passed: The URL "http:go.cc:65a/..?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: 3ht://0.0.0.0:65a/t123
+Passed: The URL "3ht://0.0.0.0:65a/t123" was correctly identified by isValid() as false.
+
+URL: ://255.com:65535/../?action=edit&mode=up
+Passed: The URL "://255.com:65535/../?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: 3ht://1.2.3.4.:65535/test1/?action=view
+Passed: The URL "3ht://1.2.3.4.:65535/test1/?action=view" was correctly identified by isValid() as false.
+
+URL: http/1.2.3.4.:65636/..
+Passed: The URL "http/1.2.3.4.:65636/.." was correctly identified by isValid() as false.
+
+URL: ://go.a1a:-1?action=edit&mode=up
+Passed: The URL "://go.a1a:-1?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:1.2.3:65636/test1/?action=edit&mode=up
+Passed: The URL "http:1.2.3:65636/test1/?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http://aaa.:80/test1//file
+Passed: The URL "http://aaa.:80/test1//file" was correctly identified by isValid() as false.
+
+URL: ://aaa/$23?action=view
+Passed: The URL "://aaa/$23?action=view" was correctly identified by isValid() as false.
+
+URL: ://aaa.:0/../
+Passed: The URL "://aaa.:0/../" was correctly identified by isValid() as false.
+
+URL: h3t://255.255.255.255:0/$23?action=edit&mode=up
+Failed: The URL "h3t://255.255.255.255:0/$23?action=edit&mode=up" was incorrectly identified by isValid() as false.
+
+URL: http:go.au:65a/test1/?action=edit&mode=up
+Passed: The URL "http:go.au:65a/test1/?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:/go.a:0/..//file?action=edit&mode=up
+Passed: The URL "http:/go.a:0/..//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: 3ht://go.cc/test1?action=view
+Passed: The URL "3ht://go.cc/test1?action=view" was correctly identified by isValid() as false.
+
+URL: 3ht://1.2.3:-1/test1//file
+Passed: The URL "3ht://1.2.3:-1/test1//file" was correctly identified by isValid() as false.
+
+URL: h3t://aaa:65636/../?action=view
+Passed: The URL "h3t://aaa:65636/../?action=view" was correctly identified by isValid() as false.
+
+URL: http:/go.a1a:80/test1
+Passed: The URL "http:/go.a1a:80/test1" was correctly identified by isValid() as false.
+
+URL: http://256.256.256.256:65535/..?action=edit&mode=up
+Passed: The URL "http://256.256.256.256:65535/..?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http://:65636/..//file
+Passed: The URL "http://:65636/..//file" was correctly identified by isValid() as false.
+
+URL: http/www.google.com:80/../
+Passed: The URL "http/www.google.com:80/../" was correctly identified by isValid() as false.
+
+URL: go.1aa:0/..//file?action=edit&mode=up
+Passed: The URL "go.1aa:0/..//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http://255.com:-1/$23?action=edit&mode=up
+Passed: The URL "http://255.com:-1/$23?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: 3ht://aaa./..
+Passed: The URL "3ht://aaa./.." was correctly identified by isValid() as false.
+
+URL: http:aaa:0/test1/?action=edit&mode=up
+Passed: The URL "http:aaa:0/test1/?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ://go.com:0/test1/file
+Passed: The URL "://go.com:0/test1/file" was correctly identified by isValid() as false.
+
+URL: h3t://1.2.3.4.:65a/t123?action=edit&mode=up
+Passed: The URL "h3t://1.2.3.4.:65a/t123?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http/go.cc:80/test1/file?action=edit&mode=up
+Passed: The URL "http/go.cc:80/test1/file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http://go.au:65a/test1?action=view
+Passed: The URL "http://go.au:65a/test1?action=view" was correctly identified by isValid() as false.
+
+URL: ://.1.2.3.4:65636/test1?action=view
+Passed: The URL "://.1.2.3.4:65636/test1?action=view" was correctly identified by isValid() as false.
+
+URL: 3ht://go.a:65535/..
+Passed: The URL "3ht://go.a:65535/.." was correctly identified by isValid() as false.
+
+URL: 1.2.3.4.:65636/..?action=edit&mode=up
+Passed: The URL "1.2.3.4.:65636/..?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http://0.0.0.0:65636/../?action=edit&mode=up
+Passed: The URL "http://0.0.0.0:65636/../?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ftp://1.2.3.4.:65535/$23?action=edit&mode=up
+Passed: The URL "ftp://1.2.3.4.:65535/$23?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:/..?action=view
+Passed: The URL "http:/..?action=view" was correctly identified by isValid() as false.
+
+URL: ftp://go.cc:0/$23
+Passed: The URL "ftp://go.cc:0/$23" was correctly identified by isValid() as true.
+
+URL: h3t://255.255.255.255:80/t123?action=edit&mode=up
+Failed: The URL "h3t://255.255.255.255:80/t123?action=edit&mode=up" was incorrectly identified by isValid() as false.
+
+URL: ://go.au:0?action=view
+Passed: The URL "://go.au:0?action=view" was correctly identified by isValid() as false.
+
+URL: http:/www.google.com:65a/test1
+Passed: The URL "http:/www.google.com:65a/test1" was correctly identified by isValid() as false.
+
+URL: ftp://aaa:80/..//file?action=view
+Passed: The URL "ftp://aaa:80/..//file?action=view" was correctly identified by isValid() as false.
+
+URL: http:/go.au:65636/t123?action=edit&mode=up
+Passed: The URL "http:/go.au:65636/t123?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ftp://255.255.255.255:80/test1/file?action=view
+Failed: The URL "ftp://255.255.255.255:80/test1/file?action=view" was incorrectly identified by isValid() as false.
+
+URL: 3ht://255.255.255.255:0/$23?action=view
+Passed: The URL "3ht://255.255.255.255:0/$23?action=view" was correctly identified by isValid() as false.
+
+URL: http/1.2.3.4.5:80/..?action=view
+Passed: The URL "http/1.2.3.4.5:80/..?action=view" was correctly identified by isValid() as false.
+
+URL: ftp://go.au:65a/$23?action=view
+Passed: The URL "ftp://go.au:65a/$23?action=view" was correctly identified by isValid() as false.
+
+URL: ://1.2.3.4./..?action=view
+Passed: The URL "://1.2.3.4./..?action=view" was correctly identified by isValid() as false.
+
+URL: http:/0.0.0.0:65535/..//file
+Passed: The URL "http:/0.0.0.0:65535/..//file" was correctly identified by isValid() as false.
+
+URL: http:.aaa/..//file?action=edit&mode=up
+Passed: The URL "http:.aaa/..//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http:256.256.256.256:65535/../?action=edit&mode=up
+Passed: The URL "http:256.256.256.256:65535/../?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: h3t://go.com:-1?action=edit&mode=up
+Passed: The URL "h3t://go.com:-1?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http/1.2.3.4.:-1?action=edit&mode=up
+Passed: The URL "http/1.2.3.4.:-1?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: http://1.2.3.4.:-1/test1//file?action=edit&mode=up
+Passed: The URL "http://1.2.3.4.:-1/test1//file?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ftp://.aaa/$23
+Passed: The URL "ftp://.aaa/$23" was correctly identified by isValid() as false.
+
+URL: 3ht://:65535/..
+Passed: The URL "3ht://:65535/.." was correctly identified by isValid() as false.
+
+URL: http://1.2.3.4.5:65636/t123?action=view
+Passed: The URL "http://1.2.3.4.5:65636/t123?action=view" was correctly identified by isValid() as false.
+
+URL: http/255.com:65535/../?action=edit&mode=up
+Passed: The URL "http/255.com:65535/../?action=edit&mode=up" was correctly identified by isValid() as false.
+
+URL: ://1.2.3.4.:0/test1//file?action=view
+Passed: The URL "://1.2.3.4.:0/test1//file?action=view" was correctly identified by isValid() as false.
+
+URL: http/:-1/test1?action=view
+Passed: The URL "http/:-1/test1?action=view" was correctly identified by isValid() as false.
+
+URL: h3t://aaa.:-1/test1/?action=view
+Passed: The URL "h3t://aaa.:-1/test1/?action=view" was correctly identified by isValid() as false.
+
+URL: ftp://255.com:80?action=view
+Failed: The URL "ftp://255.com:80?action=view" was incorrectly identified by isValid() as false.
+
+URL: http:256.256.256.256:65535/../
+Passed: The URL "http:256.256.256.256:65535/../" was correctly identified by isValid() as false.
+
+URL: 3ht://aaa.:80
+Passed: The URL "3ht://aaa.:80" was correctly identified by isValid() as false.
+
+URL: ://go.a:80/..
+Passed: The URL "://go.a:80/.." was correctly identified by isValid() as false.
+
+URL: h3t://.1.2.3.4/t123?action=view
+Passed: The URL "h3t://.1.2.3.4/t123?action=view" was correctly identified by isValid() as false.
+
+URL: http://.1.2.3.4:65636/test1//file?action=edit&mode=up
+Passed: The URL "http://.1.2.3.4:65636/test1//file?action=edit&mode=up" was correctly identif
